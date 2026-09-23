@@ -1,0 +1,29 @@
+<nav class="qm-navbar">
+  <div class="container-xl d-flex align-items-center justify-content-between">
+    <a href="{{ url_for('main.home') }}" class="qm-brand">
+      <span class="qm-brand-mark">Q</span>
+      <span class="qm-brand-text">QueryMind</span>
+    </a>
+
+    <button class="navbar-toggler border-0 d-lg-none" type="button" data-bs-toggle="collapse" data-bs-target="#qmNavCollapse" aria-controls="qmNavCollapse" aria-expanded="false" aria-label="Toggle navigation">
+      <i class="bi bi-list fs-3"></i>
+    </button>
+
+    <div class="collapse navbar-collapse flex-grow-0 d-lg-flex" id="qmNavCollapse">
+      <ul class="navbar-nav d-flex flex-lg-row gap-lg-1 align-items-lg-center mt-3 mt-lg-0">
+        <li class="nav-item">
+          <a class="nav-link {% if request.path.startswith('/dashboard') %}active{% endif %}" href="{{ url_for('main.dashboard') }}">Dashboard</a>
+        </li>
+       <!--<li class="nav-item">
+          <button type="button" class="nav-link border-0 bg-transparent" data-bs-toggle="modal" data-bs-target="#qmLoginModal">Login</button>
+        </li>-->
+        <li class="nav-item">
+          <button type="button" class="nav-link border-0 bg-transparent" data-bs-toggle="modal" data-bs-target="#qmContactModal">Contact us</button>
+        </li>
+        <li class="nav-item ms-lg-2 mt-2 mt-lg-0">
+          <a class="btn-qm-primary d-inline-block" href="{{ url_for('main.home') }}"><i class="bi bi-upload me-1"></i>Upload CSV</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>

@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+# Env / secrets
+.env
+
+# QueryMind runtime data
+data/
+exports/
+logs/
+
+# NOTE: sample_data/ is intentionally NOT ignored — the curated sample
+# datasets shipped with the app are application content, not runtime data.
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

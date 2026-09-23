@@ -1,0 +1,36 @@
+@keyframes qm-spin {
+  to { transform: rotate(360deg); }
+}
+.btn-spinner {
+  width: 14px; height: 14px;
+  border: 2px solid rgba(255,255,255,0.25);
+  border-top-color: #fff;
+  border-radius: 50%;
+  display: inline-block;
+  animation: qm-spin .6s linear infinite;
+}
+
+@keyframes qm-fade-in {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.query-result:not(.hidden) { animation: qm-fade-in .25s ease-out; }
+.qm-toast { animation: qm-fade-in .2s ease-out; }
+
+@keyframes qm-pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: .45; }
+}
+.skeleton {
+  background: var(--qm-surface-sunken);
+  border-radius: 6px;
+  animation: qm-pulse 1.4s ease-in-out infinite;
+}
+
+.dropzone { transition: border-color .18s, background-color .18s; }
+.dataset-card { transition: transform .15s, box-shadow .15s, border-color .15s; }
+
+@media (prefers-reduced-motion: reduce) {
+  .btn-spinner, .qm-toast, .query-result, .skeleton { animation: none !important; }
+  html { scroll-behavior: auto; }
+}

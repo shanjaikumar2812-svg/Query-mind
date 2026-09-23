@@ -1,0 +1,3115 @@
+brand,model,color,memory,storage,rating,selling_price,discount
+Vivo,Vivo V21,Alpine Green,8GB,128GB,3.9,35132,0.04
+Vivo,Vivo Y33s,Midnight Black,12GB,64GB,3.6,18164,0.08
+Realme,Realme 8,Ocean Blue,12GB,128GB,4.2,19115,0.28
+Apple,iPhone 12,Rose Gold,8GB,256GB,3.8,133236,0.04
+OnePlus,OnePlus 9,Silver,8GB,1TB,3.9,20847,0.26
+Realme,Realme 8,Rose Gold,4GB,1TB,4.0,30599,0.22
+Xiaomi,Poco F3,Ocean Blue,4GB,64GB,4.5,27965,0.34
+Samsung,Galaxy S21,Rose Gold,8GB,512GB,4.4,61819,0.06
+Xiaomi,Redmi Note 11,Graphite,4GB,1TB,4.4,44005,0.26
+Samsung,Galaxy Z Fold3,Rose Gold,8GB,1TB,3.9,56504,0.29
+Apple,iPhone 12,Alpine Green,8GB,512GB,3.9,100307,0.32
+Realme,Realme 8 Pro,Ocean Blue,12GB,512GB,4.8,31064,0.16
+Xiaomi,Redmi Note 11,Ocean Blue,8GB,1TB,4.2,35175,0.13
+Samsung,Galaxy M32,Cosmic Purple,4GB,64GB,4.7,34033,0.22
+Vivo,Vivo V20,Midnight Black,12GB,512GB,4.4,26337,0.19
+Realme,Realme 8,Midnight Black,8GB,256GB,3.7,24246,0.06
+Apple,iPhone 13 Pro Max,Graphite,6GB,1TB,4.8,123235,0.29
+Realme,Realme 7,Ocean Blue,6GB,256GB,4.6,27674,0.33
+Realme,Realme 8,Silver,12GB,64GB,3.7,21894,0.31
+Xiaomi,Redmi Note 11,Alpine Green,6GB,1TB,4.8,14613,0.26
+Apple,iPhone 13 Pro,Phantom White,6GB,512GB,4.8,88287,0.09
+Realme,Realme GT,Ocean Blue,6GB,256GB,4.1,32009,0.23
+OnePlus,OnePlus Nord CE,Cosmic Purple,4GB,128GB,3.9,40156,0.01
+Realme,Realme Narzo 30,Ocean Blue,4GB,64GB,4.5,11929,0.08
+Apple,iPhone 12 Pro Max,Midnight Black,6GB,256GB,4.5,101160,0.19
+Vivo,Vivo Y33s,Cosmic Purple,6GB,512GB,4.6,17239,0.03
+Vivo,Vivo V20,Silver,12GB,512GB,4.2,34890,0.02
+Vivo,Vivo V21,Alpine Green,12GB,256GB,4.6,14580,0.09
+Samsung,Galaxy M32,Cosmic Purple,6GB,512GB,3.8,74637,0.09
+Apple,iPhone 13,Midnight Black,4GB,1TB,4.7,69448,0.32
+Samsung,Galaxy S22,Rose Gold,12GB,512GB,3.9,66565,0.32
+Samsung,Galaxy Z Fold3,Alpine Green,12GB,256GB,4.8,116908,0.16
+OnePlus,OnePlus Nord CE,Cosmic Purple,6GB,128GB,4.0,21832,0.2
+Realme,Realme 8,Silver,4GB,64GB,4.4,26477,0.32
+Realme,Realme Narzo 30,Alpine Green,4GB,128GB,3.7,12226,0.24
+Samsung,Galaxy Z Fold3,Midnight Black,6GB,1TB,4.4,95183,0.03
+Vivo,Vivo Y33s,Silver,8GB,128GB,4.5,21295,0.08
+OnePlus,OnePlus 9R,Graphite,12GB,256GB,4.8,22754,0.0
+Realme,Realme 7,Midnight Black,4GB,1TB,3.9,18690,0.05
+Xiaomi,Redmi Note 10,Ocean Blue,8GB,256GB,3.8,44600,0.25
+Realme,Realme 7,Alpine Green,8GB,64GB,4.8,14400,0.09
+Apple,iPhone 13 Pro Max,Phantom White,8GB,256GB,4.4,134884,0.07
+Vivo,Vivo X60,Cosmic Purple,8GB,64GB,3.7,24879,0.29
+Apple,iPhone 11,Silver,6GB,256GB,3.8,160824,0.19
+OnePlus,OnePlus Nord CE,Alpine Green,4GB,64GB,4.8,27768,0.19
+Xiaomi,Poco F3,Phantom White,12GB,128GB,3.7,32897,0.31
+Apple,iPhone 12 Pro Max,Ocean Blue,6GB,64GB,4.1,151529,0.34
+Vivo,Vivo Y21,Ocean Blue,6GB,128GB,4.7,11812,0.06
+Xiaomi,Poco X3,Ocean Blue,8GB,128GB,4.6,16084,0.13
+Apple,iPhone 13,Ocean Blue,6GB,512GB,4.1,104662,0.08
+Vivo,Vivo Y21,Rose Gold,8GB,256GB,4.7,36340,0.1
+Vivo,Vivo Y33s,Rose Gold,8GB,64GB,3.7,19559,0.06
+Xiaomi,Redmi Note 10,Midnight Black,12GB,256GB,4.5,29557,0.15
+Realme,Realme 8,Rose Gold,6GB,256GB,3.7,24288,0.0
+Realme,Realme Narzo 30,Silver,12GB,64GB,4.8,20819,0.22
+Vivo,Vivo V21,Graphite,8GB,512GB,4.0,33846,0.1
+Samsung,Galaxy S22,Rose Gold,12GB,128GB,4.4,53446,0.14
+Apple,iPhone 12 Pro Max,Graphite,6GB,512GB,4.6,129475,0.16
+OnePlus,OnePlus 9R,Cosmic Purple,6GB,64GB,4.0,61506,0.22
+Xiaomi,Redmi Note 10,Ocean Blue,8GB,128GB,4.6,18656,0.01
+Samsung,Galaxy Z Fold3,Midnight Black,12GB,512GB,4.8,89454,0.07
+Vivo,Vivo V20,Cosmic Purple,12GB,128GB,3.8,33532,0.0
+Apple,iPhone 13,Ocean Blue,6GB,1TB,4.2,110325,0.32
+Apple,iPhone 13,Phantom White,12GB,1TB,4.9,128177,0.33
+OnePlus,OnePlus Nord CE,Rose Gold,12GB,128GB,4.6,49108,0.16
+Samsung,Galaxy A52,Graphite,12GB,128GB,4.0,24155,0.25
+Samsung,Galaxy S22 Ultra,Silver,8GB,1TB,3.7,33769,0.08
+Vivo,Vivo Y21,Ocean Blue,4GB,512GB,4.1,28780,0.16
+Apple,iPhone 12,Rose Gold,12GB,1TB,4.8,50120,0.3
+Realme,Realme GT,Cosmic Purple,4GB,256GB,4.0,22779,0.3
+OnePlus,OnePlus Nord CE,Ocean Blue,12GB,128GB,4.0,49827,0.01
+Xiaomi,Redmi 10,Rose Gold,6GB,512GB,4.8,44004,0.01
+OnePlus,OnePlus Nord CE,Alpine Green,4GB,512GB,3.8,48257,0.06
+Xiaomi,Poco X3,Silver,6GB,512GB,4.0,33846,0.1
+OnePlus,OnePlus Nord 2,Midnight Black,12GB,64GB,4.6,21413,0.35
+Xiaomi,Redmi Note 11,Midnight Black,4GB,64GB,4.8,22065,0.29
+Realme,Realme Narzo 30,Ocean Blue,6GB,512GB,4.5,28480,0.33
+OnePlus,OnePlus Nord 2,Silver,6GB,1TB,4.4,25506,0.27
+Samsung,Galaxy S22 Ultra,Midnight Black,4GB,256GB,4.3,133016,0.34
+OnePlus,OnePlus 9R,Midnight Black,6GB,64GB,4.5,37764,0.3
+Realme,Realme 8,Alpine Green,8GB,1TB,4.2,22142,0.02
+Vivo,Vivo X60,Alpine Green,12GB,512GB,3.7,22868,0.22
+OnePlus,OnePlus 9R,Rose Gold,6GB,1TB,4.9,35700,0.22
+Realme,Realme GT,Cosmic Purple,12GB,1TB,3.9,37908,0.09
+Apple,iPhone 12 Pro Max,Cosmic Purple,6GB,512GB,4.3,144349,0.12
+OnePlus,OnePlus Nord 2,Phantom White,12GB,128GB,4.1,34931,0.12
+Realme,Realme 8 Pro,Alpine Green,6GB,64GB,3.9,23317,0.17
+Samsung,Galaxy A52,Cosmic Purple,12GB,512GB,4.6,26196,0.1
+OnePlus,OnePlus 9R,Graphite,8GB,512GB,4.3,40528,0.15
+Vivo,Vivo Y33s,Silver,8GB,512GB,4.0,19237,0.08
+Vivo,Vivo Y21,Silver,4GB,1TB,4.8,33615,0.06
+Samsung,Galaxy A52,Cosmic Purple,8GB,1TB,4.9,82765,0.21
+Apple,iPhone 12,Graphite,6GB,256GB,3.8,48708,0.25
+Samsung,Galaxy S22 Ultra,Alpine Green,4GB,1TB,4.0,137743,0.04
+OnePlus,OnePlus 9,Alpine Green,8GB,512GB,4.2,40328,0.06
+Apple,iPhone 12 Pro Max,Cosmic Purple,4GB,64GB,4.1,64420,0.2
+Vivo,Vivo V21,Phantom White,6GB,1TB,4.8,13791,0.35
+Apple,iPhone 13 Pro,Rose Gold,6GB,1TB,4.1,161056,0.1
+Realme,Realme GT,Graphite,4GB,1TB,4.8,13251,0.33
+Samsung,Galaxy A52,Ocean Blue,8GB,64GB,3.8,36782,0.19
+Samsung,Galaxy S21,Rose Gold,12GB,1TB,4.2,18278,0.08
+Vivo,Vivo X60,Cosmic Purple,4GB,128GB,4.8,36815,0.28
+Realme,Realme Narzo 30,Rose Gold,4GB,1TB,3.9,14882,0.32
+Samsung,Galaxy S21,Alpine Green,6GB,256GB,4.4,122034,0.2
+Xiaomi,Poco X3,Midnight Black,12GB,256GB,4.5,26841,0.18
+OnePlus,OnePlus 9 Pro,Midnight Black,4GB,512GB,4.6,57564,0.09
+Apple,iPhone 12,Alpine Green,8GB,1TB,3.7,90925,0.16
+Vivo,Vivo V20,Graphite,6GB,1TB,4.2,37681,0.17
+Apple,iPhone 13,Silver,12GB,256GB,4.0,72420,0.3
+Xiaomi,Poco X3,Cosmic Purple,8GB,512GB,4.7,11404,0.16
+Xiaomi,Mi 11X,Silver,4GB,512GB,4.7,9075,0.23
+Realme,Realme GT,Rose Gold,4GB,128GB,4.3,30402,0.26
+Vivo,Vivo V20,Alpine Green,6GB,256GB,4.3,20438,0.15
+Vivo,Vivo V20,Midnight Black,4GB,1TB,4.6,34258,0.06
+Realme,Realme 8,Rose Gold,4GB,128GB,4.9,13717,0.16
+Apple,iPhone 13 Pro Max,Phantom White,12GB,256GB,4.3,116676,0.15
+OnePlus,OnePlus 9 Pro,Ocean Blue,12GB,1TB,3.8,30491,0.32
+Realme,Realme Narzo 30,Midnight Black,8GB,512GB,4.0,35811,0.18
+Apple,iPhone 12 Pro Max,Graphite,12GB,128GB,4.2,171967,0.12
+Realme,Realme 7,Rose Gold,12GB,256GB,4.7,32855,0.08
+OnePlus,OnePlus 9R,Rose Gold,4GB,256GB,4.6,42984,0.14
+Vivo,Vivo Y21,Cosmic Purple,4GB,128GB,4.3,30339,0.12
+Apple,iPhone 13,Midnight Black,12GB,64GB,4.5,152473,0.3
+Samsung,Galaxy S21,Cosmic Purple,8GB,256GB,4.4,66098,0.23
+Xiaomi,Redmi 10,Rose Gold,8GB,512GB,4.7,11352,0.22
+Samsung,Galaxy A52,Graphite,6GB,64GB,4.2,26903,0.27
+Vivo,Vivo V21,Cosmic Purple,6GB,256GB,4.8,12507,0.11
+Apple,iPhone 12 Pro Max,Silver,8GB,512GB,3.8,153016,0.2
+Samsung,Galaxy S22,Phantom White,4GB,1TB,4.7,95226,0.24
+OnePlus,OnePlus Nord CE,Phantom White,6GB,512GB,4.4,48118,0.09
+Apple,iPhone 13,Graphite,6GB,64GB,4.2,135587,0.35
+Xiaomi,Redmi 10,Rose Gold,8GB,512GB,4.7,22055,0.35
+OnePlus,OnePlus 9,Ocean Blue,12GB,1TB,4.1,37390,0.35
+Xiaomi,Redmi Note 10,Rose Gold,8GB,64GB,4.3,12214,0.32
+Vivo,Vivo V20,Graphite,6GB,1TB,4.6,18176,0.22
+Realme,Realme 8 Pro,Phantom White,4GB,64GB,4.0,24444,0.01
+Xiaomi,Redmi 10,Phantom White,4GB,256GB,4.0,36230,0.06
+Samsung,Galaxy M32,Silver,8GB,128GB,3.9,122093,0.33
+Xiaomi,Redmi 10,Silver,4GB,512GB,4.9,18224,0.26
+Samsung,Galaxy A52,Rose Gold,8GB,64GB,4.6,15824,0.09
+Apple,iPhone 13,Silver,8GB,1TB,4.1,142379,0.04
+Samsung,Galaxy Z Fold3,Alpine Green,8GB,1TB,3.9,22285,0.22
+OnePlus,OnePlus Nord 2,Rose Gold,4GB,128GB,3.7,20438,0.11
+OnePlus,OnePlus 9,Midnight Black,6GB,1TB,3.8,47729,0.13
+Vivo,Vivo Y33s,Rose Gold,6GB,512GB,4.5,38318,0.17
+OnePlus,OnePlus Nord 2,Alpine Green,8GB,128GB,4.2,33473,0.3
+Apple,iPhone 13 Pro Max,Silver,8GB,64GB,4.1,94757,0.34
+OnePlus,OnePlus 9,Ocean Blue,4GB,64GB,4.6,33962,0.35
+Realme,Realme Narzo 30,Midnight Black,6GB,1TB,3.9,17634,0.11
+Samsung,Galaxy M32,Alpine Green,8GB,128GB,4.9,84807,0.09
+Samsung,Galaxy S21,Alpine Green,6GB,64GB,4.1,117341,0.08
+Xiaomi,Redmi Note 10,Phantom White,8GB,64GB,3.8,36588,0.18
+Vivo,Vivo V21,Cosmic Purple,12GB,256GB,4.3,14573,0.16
+Samsung,Galaxy M32,Alpine Green,8GB,512GB,4.4,18082,0.02
+OnePlus,OnePlus 9 Pro,Rose Gold,4GB,512GB,4.5,47069,0.03
+Apple,iPhone 12 Pro Max,Phantom White,4GB,128GB,4.0,130245,0.13
+Realme,Realme 7,Graphite,12GB,1TB,4.4,13249,0.28
+Apple,iPhone 13 Pro Max,Ocean Blue,12GB,512GB,4.8,153478,0.12
+OnePlus,OnePlus 9 Pro,Rose Gold,4GB,256GB,4.2,61588,0.09
+Samsung,Galaxy A52,Cosmic Purple,4GB,64GB,4.7,26219,0.15
+Vivo,Vivo X60,Phantom White,4GB,1TB,4.8,29405,0.12
+Apple,iPhone 13,Silver,12GB,64GB,4.9,126906,0.12
+Realme,Realme 7,Ocean Blue,6GB,512GB,3.9,13546,0.12
+Realme,Realme 8 Pro,Midnight Black,8GB,1TB,3.9,24061,0.3
+Realme,Realme 7,Alpine Green,8GB,64GB,3.8,33026,0.27
+Xiaomi,Mi 11X,Alpine Green,6GB,128GB,4.3,35265,0.02
+Vivo,Vivo V21,Midnight Black,6GB,512GB,4.1,22170,0.06
+Xiaomi,Redmi 10,Silver,4GB,64GB,3.8,12261,0.24
+Xiaomi,Poco X3,Rose Gold,12GB,1TB,4.2,26902,0.08
+Realme,Realme 8,Silver,12GB,64GB,4.0,32232,0.21
+Realme,Realme 8 Pro,Alpine Green,6GB,512GB,4.9,11795,0.0
+Xiaomi,Redmi Note 11,Phantom White,8GB,256GB,4.0,9506,0.17
+OnePlus,OnePlus 9R,Phantom White,12GB,1TB,4.5,50785,0.2
+Vivo,Vivo X60,Midnight Black,12GB,64GB,4.2,26065,0.32
+Xiaomi,Poco F3,Rose Gold,12GB,512GB,4.0,35544,0.01
+Xiaomi,Redmi Note 11,Cosmic Purple,8GB,64GB,4.2,15937,0.09
+Realme,Realme GT,Midnight Black,12GB,256GB,4.6,17260,0.12
+Samsung,Galaxy S21,Midnight Black,6GB,256GB,4.1,139596,0.29
+Samsung,Galaxy S22,Midnight Black,6GB,256GB,3.9,92957,0.05
+Vivo,Vivo V21,Phantom White,12GB,512GB,4.6,35899,0.2
+Vivo,Vivo Y33s,Silver,8GB,128GB,4.2,26365,0.15
+Xiaomi,Mi 11X,Alpine Green,8GB,1TB,3.7,39260,0.16
+Apple,iPhone 12 Pro Max,Graphite,4GB,64GB,4.4,177924,0.13
+Realme,Realme 7,Alpine Green,12GB,1TB,4.4,20535,0.21
+Realme,Realme Narzo 30,Alpine Green,12GB,64GB,4.7,37439,0.12
+Vivo,Vivo V21,Phantom White,4GB,128GB,4.5,25398,0.18
+Realme,Realme Narzo 30,Silver,8GB,256GB,4.1,35377,0.12
+Realme,Realme 8,Silver,4GB,256GB,3.7,32229,0.14
+Xiaomi,Redmi 10,Phantom White,8GB,64GB,4.4,18268,0.32
+Xiaomi,Redmi 10,Rose Gold,6GB,1TB,4.5,14552,0.11
+OnePlus,OnePlus Nord 2,Phantom White,4GB,512GB,4.3,19194,0.13
+Samsung,Galaxy S22,Silver,12GB,128GB,3.9,32030,0.05
+Xiaomi,Redmi Note 10,Alpine Green,8GB,1TB,3.8,33688,0.05
+Samsung,Galaxy A52,Phantom White,12GB,64GB,4.1,102652,0.25
+OnePlus,OnePlus Nord CE,Graphite,12GB,128GB,4.3,38281,0.34
+OnePlus,OnePlus 9R,Silver,12GB,512GB,4.6,43026,0.18
+OnePlus,OnePlus 9R,Ocean Blue,6GB,256GB,3.7,49495,0.31
+Realme,Realme 8,Midnight Black,8GB,64GB,4.6,18938,0.16
+Realme,Realme Narzo 30,Rose Gold,4GB,128GB,4.7,21455,0.33
+OnePlus,OnePlus 9,Rose Gold,8GB,128GB,4.1,23348,0.13
+Apple,iPhone 12 Pro Max,Midnight Black,8GB,128GB,3.8,120203,0.32
+OnePlus,OnePlus 9R,Cosmic Purple,12GB,1TB,3.6,23192,0.01
+Samsung,Galaxy S22,Rose Gold,4GB,256GB,3.9,29970,0.02
+OnePlus,OnePlus Nord CE,Cosmic Purple,4GB,64GB,4.7,50756,0.21
+Apple,iPhone 13 Pro Max,Ocean Blue,6GB,256GB,4.2,137488,0.08
+OnePlus,OnePlus 9R,Midnight Black,8GB,64GB,4.8,53656,0.18
+Realme,Realme 7,Alpine Green,12GB,512GB,3.7,22677,0.34
+Xiaomi,Redmi 10,Alpine Green,8GB,64GB,4.0,15793,0.27
+Vivo,Vivo X60,Phantom White,4GB,256GB,4.3,37657,0.22
+Vivo,Vivo V20,Cosmic Purple,6GB,128GB,3.7,36434,0.33
+Apple,iPhone 12 Pro Max,Ocean Blue,4GB,128GB,4.8,127731,0.33
+Realme,Realme GT,Cosmic Purple,8GB,64GB,4.6,16262,0.1
+Apple,iPhone 13 Pro Max,Silver,8GB,64GB,4.6,159544,0.31
+Vivo,Vivo V20,Rose Gold,8GB,128GB,4.2,27302,0.13
+Realme,Realme 8 Pro,Midnight Black,12GB,64GB,4.2,36946,0.06
+Xiaomi,Mi 11X,Midnight Black,4GB,256GB,4.5,29086,0.16
+Vivo,Vivo V20,Phantom White,12GB,256GB,4.2,34816,0.3
+Xiaomi,Poco F3,Rose Gold,8GB,64GB,3.7,35621,0.13
+Vivo,Vivo Y21,Alpine Green,6GB,1TB,4.5,25358,0.01
+Apple,iPhone 12,Silver,8GB,512GB,4.8,53489,0.21
+Vivo,Vivo V20,Silver,8GB,512GB,4.6,29806,0.05
+Xiaomi,Poco X3,Silver,8GB,128GB,4.8,10698,0.26
+OnePlus,OnePlus Nord CE,Rose Gold,4GB,256GB,4.6,47246,0.08
+Realme,Realme 8 Pro,Cosmic Purple,6GB,64GB,3.8,12426,0.16
+Vivo,Vivo V20,Midnight Black,8GB,256GB,4.5,29022,0.19
+Xiaomi,Redmi Note 11,Phantom White,8GB,1TB,3.9,22171,0.28
+Samsung,Galaxy Z Fold3,Alpine Green,8GB,1TB,4.3,75263,0.28
+Realme,Realme Narzo 30,Midnight Black,4GB,256GB,4.1,33492,0.25
+Realme,Realme GT,Rose Gold,4GB,128GB,4.9,31048,0.03
+OnePlus,OnePlus Nord CE,Silver,6GB,1TB,4.4,29925,0.27
+Samsung,Galaxy Z Fold3,Alpine Green,4GB,1TB,3.8,35581,0.06
+Vivo,Vivo Y21,Silver,8GB,64GB,3.9,31809,0.33
+Xiaomi,Redmi Note 11,Graphite,4GB,1TB,4.4,19105,0.06
+Realme,Realme 7,Silver,4GB,64GB,3.7,31019,0.27
+Xiaomi,Redmi 10,Ocean Blue,12GB,1TB,4.4,41639,0.31
+Realme,Realme 8 Pro,Graphite,12GB,128GB,4.6,32445,0.14
+OnePlus,OnePlus 9,Alpine Green,6GB,512GB,4.1,48437,0.07
+Realme,Realme Narzo 30,Silver,8GB,256GB,4.9,14284,0.27
+Realme,Realme 7,Midnight Black,8GB,128GB,4.2,18764,0.16
+Samsung,Galaxy S21,Alpine Green,8GB,512GB,4.7,68805,0.09
+Samsung,Galaxy S22 Ultra,Silver,6GB,128GB,4.2,81466,0.16
+Xiaomi,Poco X3,Alpine Green,4GB,512GB,4.3,24776,0.08
+Xiaomi,Redmi Note 10,Alpine Green,8GB,512GB,4.4,39840,0.1
+Apple,iPhone 11,Rose Gold,6GB,256GB,4.5,150710,0.13
+OnePlus,OnePlus 9,Ocean Blue,8GB,1TB,4.0,43319,0.18
+Realme,Realme 8 Pro,Midnight Black,6GB,64GB,4.1,36047,0.35
+Realme,Realme 8 Pro,Phantom White,6GB,1TB,4.3,26386,0.01
+Apple,iPhone 12,Silver,12GB,1TB,4.2,81642,0.11
+Realme,Realme 8 Pro,Phantom White,12GB,1TB,4.6,19805,0.21
+Realme,Realme 7,Cosmic Purple,8GB,512GB,4.7,22070,0.12
+Apple,iPhone 13,Graphite,4GB,1TB,4.2,104649,0.25
+Realme,Realme GT,Phantom White,12GB,128GB,4.7,17936,0.01
+Vivo,Vivo V21,Ocean Blue,4GB,512GB,4.0,15962,0.14
+Samsung,Galaxy Z Fold3,Cosmic Purple,4GB,128GB,4.3,87516,0.11
+Vivo,Vivo V20,Rose Gold,8GB,128GB,4.2,28469,0.12
+Xiaomi,Redmi 10,Graphite,12GB,128GB,4.8,27284,0.2
+Samsung,Galaxy S22 Ultra,Graphite,6GB,512GB,4.0,59718,0.2
+Vivo,Vivo X60,Graphite,4GB,1TB,4.5,23441,0.31
+OnePlus,OnePlus Nord 2,Phantom White,8GB,64GB,4.0,23179,0.12
+OnePlus,OnePlus Nord 2,Cosmic Purple,6GB,128GB,4.7,35768,0.33
+Vivo,Vivo X60,Phantom White,4GB,1TB,4.6,18840,0.08
+Vivo,Vivo Y33s,Ocean Blue,6GB,64GB,3.7,21823,0.25
+Apple,iPhone 13 Pro Max,Phantom White,4GB,1TB,4.9,86403,0.14
+OnePlus,OnePlus 9 Pro,Ocean Blue,8GB,256GB,4.0,21877,0.32
+Apple,iPhone 13 Pro Max,Ocean Blue,4GB,128GB,4.1,91081,0.33
+Apple,iPhone 13,Cosmic Purple,6GB,256GB,4.7,47429,0.1
+Realme,Realme 8,Silver,8GB,512GB,4.9,27802,0.18
+Samsung,Galaxy M32,Cosmic Purple,8GB,128GB,4.7,57343,0.06
+OnePlus,OnePlus Nord 2,Phantom White,4GB,256GB,4.6,55210,0.24
+Samsung,Galaxy S22,Rose Gold,12GB,1TB,4.0,66538,0.23
+Samsung,Galaxy S22,Cosmic Purple,8GB,128GB,3.6,64275,0.08
+Xiaomi,Mi 11X,Graphite,4GB,256GB,4.4,24486,0.02
+Apple,iPhone 13,Graphite,6GB,512GB,4.5,126521,0.24
+Vivo,Vivo X60,Silver,6GB,128GB,4.8,26669,0.05
+Vivo,Vivo Y33s,Silver,12GB,1TB,4.8,35816,0.19
+Vivo,Vivo Y21,Ocean Blue,4GB,1TB,4.2,34061,0.13
+Realme,Realme 8,Alpine Green,6GB,1TB,4.3,15391,0.11
+Realme,Realme GT,Midnight Black,6GB,1TB,4.2,26723,0.16
+Apple,iPhone 13,Phantom White,12GB,512GB,4.3,166209,0.24
+Xiaomi,Redmi 10,Alpine Green,12GB,256GB,4.7,23280,0.2
+Apple,iPhone 13,Silver,4GB,1TB,4.9,63092,0.35
+OnePlus,OnePlus 9,Graphite,12GB,128GB,4.6,60042,0.34
+Vivo,Vivo V20,Silver,12GB,512GB,4.7,23369,0.13
+Vivo,Vivo Y33s,Phantom White,8GB,64GB,3.8,28604,0.14
+Samsung,Galaxy A52,Ocean Blue,4GB,64GB,4.9,74686,0.24
+Realme,Realme GT,Rose Gold,6GB,128GB,4.2,15083,0.1
+Vivo,Vivo V21,Alpine Green,12GB,1TB,4.6,39958,0.31
+Samsung,Galaxy S22,Midnight Black,4GB,1TB,3.6,92352,0.24
+Apple,iPhone 12,Alpine Green,12GB,512GB,3.9,101955,0.26
+Apple,iPhone 12,Graphite,6GB,1TB,4.0,129060,0.08
+Samsung,Galaxy A52,Ocean Blue,12GB,256GB,4.0,86970,0.33
+Vivo,Vivo Y21,Rose Gold,12GB,64GB,4.9,32080,0.23
+Realme,Realme 8 Pro,Rose Gold,12GB,128GB,4.0,16025,0.26
+OnePlus,OnePlus 9R,Ocean Blue,8GB,128GB,4.6,21776,0.2
+OnePlus,OnePlus Nord CE,Phantom White,12GB,128GB,3.9,39644,0.23
+OnePlus,OnePlus Nord 2,Midnight Black,6GB,64GB,3.9,57647,0.21
+Apple,iPhone 12,Ocean Blue,12GB,128GB,4.7,132284,0.11
+Apple,iPhone 12,Ocean Blue,4GB,512GB,4.8,98611,0.14
+Samsung,Galaxy M32,Silver,8GB,512GB,4.2,99029,0.13
+Xiaomi,Mi 11X,Cosmic Purple,12GB,64GB,4.6,39768,0.27
+Xiaomi,Redmi Note 11,Silver,8GB,512GB,3.7,23501,0.26
+Apple,iPhone 12 Pro Max,Rose Gold,8GB,128GB,3.9,105298,0.13
+Samsung,Galaxy Z Fold3,Silver,8GB,512GB,4.9,98108,0.26
+OnePlus,OnePlus 9R,Silver,6GB,128GB,4.5,50002,0.06
+Realme,Realme 8,Alpine Green,4GB,64GB,4.6,23513,0.05
+Vivo,Vivo Y21,Midnight Black,6GB,64GB,3.9,25942,0.13
+Realme,Realme 7,Cosmic Purple,12GB,64GB,3.6,28076,0.14
+Apple,iPhone 13 Pro,Graphite,8GB,64GB,4.3,157872,0.28
+Samsung,Galaxy S21,Midnight Black,6GB,128GB,3.8,83003,0.09
+Xiaomi,Mi 11X,Rose Gold,4GB,256GB,4.8,39080,0.2
+Vivo,Vivo Y21,Graphite,4GB,64GB,3.7,23427,0.13
+OnePlus,OnePlus 9,Alpine Green,6GB,64GB,4.2,46436,0.23
+Xiaomi,Poco F3,Midnight Black,4GB,128GB,3.9,40162,0.09
+Apple,iPhone 13 Pro Max,Graphite,4GB,128GB,4.8,127440,0.01
+Samsung,Galaxy M32,Phantom White,12GB,64GB,4.0,87919,0.08
+OnePlus,OnePlus Nord CE,Silver,12GB,128GB,4.6,23139,0.18
+Xiaomi,Redmi Note 10,Midnight Black,12GB,128GB,4.7,31321,0.21
+Realme,Realme 7,Rose Gold,8GB,64GB,4.4,35675,0.35
+OnePlus,OnePlus 9R,Silver,12GB,512GB,3.8,56395,0.23
+Apple,iPhone 13 Pro,Graphite,6GB,64GB,3.7,85428,0.13
+Vivo,Vivo Y21,Rose Gold,8GB,256GB,3.7,11170,0.33
+OnePlus,OnePlus Nord 2,Graphite,4GB,128GB,3.7,46244,0.16
+Realme,Realme 7,Rose Gold,4GB,64GB,3.7,28160,0.03
+Realme,Realme 8 Pro,Rose Gold,4GB,256GB,4.1,35531,0.03
+Realme,Realme Narzo 30,Phantom White,12GB,128GB,3.8,19867,0.09
+Samsung,Galaxy S21,Phantom White,12GB,256GB,4.1,77469,0.27
+Xiaomi,Mi 11X,Ocean Blue,12GB,1TB,4.4,39006,0.04
+Xiaomi,Redmi Note 10,Rose Gold,8GB,1TB,4.1,30596,0.15
+OnePlus,OnePlus Nord CE,Phantom White,8GB,256GB,4.4,31163,0.17
+Samsung,Galaxy Z Fold3,Silver,8GB,512GB,4.9,116494,0.08
+OnePlus,OnePlus Nord 2,Rose Gold,8GB,64GB,4.8,31094,0.21
+Realme,Realme Narzo 30,Alpine Green,12GB,128GB,4.2,19546,0.29
+Apple,iPhone 13,Cosmic Purple,6GB,256GB,3.9,85407,0.25
+OnePlus,OnePlus 9,Cosmic Purple,12GB,1TB,4.1,51201,0.32
+Vivo,Vivo V20,Alpine Green,8GB,1TB,4.4,13784,0.04
+Samsung,Galaxy A52,Silver,6GB,1TB,3.7,98545,0.24
+OnePlus,OnePlus Nord 2,Rose Gold,4GB,64GB,3.7,32549,0.18
+Realme,Realme 7,Ocean Blue,12GB,256GB,4.1,35308,0.24
+Vivo,Vivo Y33s,Phantom White,8GB,64GB,4.2,20680,0.15
+Apple,iPhone 11,Phantom White,8GB,256GB,4.0,99229,0.18
+Xiaomi,Poco X3,Midnight Black,12GB,512GB,4.0,28678,0.02
+Vivo,Vivo V21,Alpine Green,8GB,64GB,4.5,16385,0.33
+Vivo,Vivo Y21,Phantom White,6GB,256GB,4.3,26140,0.08
+OnePlus,OnePlus 9R,Phantom White,12GB,512GB,3.6,58246,0.31
+OnePlus,OnePlus Nord CE,Rose Gold,12GB,64GB,4.5,31486,0.1
+Vivo,Vivo V21,Midnight Black,6GB,256GB,4.0,25993,0.04
+Vivo,Vivo V20,Silver,12GB,1TB,4.1,14743,0.12
+OnePlus,OnePlus Nord CE,Phantom White,8GB,1TB,4.4,26778,0.11
+Samsung,Galaxy S22 Ultra,Midnight Black,6GB,256GB,4.5,80954,0.14
+Realme,Realme Narzo 30,Rose Gold,12GB,128GB,4.2,27608,0.24
+Vivo,Vivo Y21,Phantom White,12GB,256GB,3.8,21308,0.29
+Realme,Realme 8,Silver,4GB,512GB,3.8,36712,0.13
+Realme,Realme 7,Cosmic Purple,12GB,512GB,4.1,37521,0.16
+Samsung,Galaxy S21,Alpine Green,6GB,256GB,3.6,43470,0.19
+Samsung,Galaxy Z Fold3,Cosmic Purple,4GB,1TB,3.7,115595,0.19
+Xiaomi,Poco F3,Alpine Green,12GB,1TB,3.9,36862,0.04
+Vivo,Vivo Y21,Graphite,4GB,512GB,3.9,39252,0.29
+OnePlus,OnePlus 9,Ocean Blue,6GB,1TB,4.5,57994,0.22
+Samsung,Galaxy M32,Phantom White,6GB,128GB,4.6,88720,0.12
+Xiaomi,Poco F3,Phantom White,8GB,256GB,4.0,26520,0.33
+Realme,Realme 8,Phantom White,12GB,64GB,4.9,31492,0.04
+Samsung,Galaxy S22,Phantom White,8GB,128GB,4.6,102635,0.14
+Samsung,Galaxy M32,Graphite,12GB,512GB,4.2,97050,0.28
+Apple,iPhone 13,Graphite,8GB,512GB,4.8,130796,0.2
+Vivo,Vivo V21,Cosmic Purple,8GB,64GB,4.6,24032,0.08
+OnePlus,OnePlus 9R,Cosmic Purple,8GB,256GB,4.7,40135,0.19
+Samsung,Galaxy M32,Cosmic Purple,8GB,64GB,3.7,96074,0.27
+OnePlus,OnePlus 9,Midnight Black,6GB,512GB,4.2,46036,0.07
+Vivo,Vivo Y21,Graphite,6GB,256GB,3.7,22810,0.09
+Xiaomi,Redmi 10,Phantom White,4GB,512GB,4.4,24344,0.15
+Apple,iPhone 13 Pro Max,Midnight Black,4GB,128GB,4.2,79786,0.21
+Realme,Realme GT,Alpine Green,4GB,256GB,4.7,23838,0.24
+OnePlus,OnePlus 9,Ocean Blue,12GB,64GB,4.5,24712,0.04
+Xiaomi,Mi 11X,Phantom White,12GB,128GB,4.4,18362,0.02
+Realme,Realme 8,Phantom White,12GB,256GB,4.5,30580,0.26
+OnePlus,OnePlus Nord CE,Cosmic Purple,6GB,64GB,4.8,27175,0.26
+Realme,Realme GT,Silver,12GB,256GB,4.6,18119,0.1
+Apple,iPhone 12,Graphite,4GB,256GB,3.9,178568,0.07
+OnePlus,OnePlus Nord 2,Alpine Green,6GB,512GB,4.1,33799,0.17
+Realme,Realme 8,Alpine Green,8GB,256GB,3.8,37491,0.2
+Xiaomi,Poco F3,Phantom White,12GB,64GB,3.6,13425,0.0
+Samsung,Galaxy S21,Alpine Green,12GB,1TB,4.0,107405,0.18
+OnePlus,OnePlus 9 Pro,Rose Gold,4GB,1TB,4.3,28006,0.1
+Xiaomi,Redmi Note 10,Ocean Blue,6GB,1TB,4.0,13332,0.11
+OnePlus,OnePlus 9R,Alpine Green,6GB,64GB,4.8,25601,0.16
+Realme,Realme 8,Graphite,6GB,64GB,3.6,14496,0.25
+Samsung,Galaxy Z Fold3,Silver,8GB,128GB,4.1,112274,0.27
+Xiaomi,Redmi 10,Midnight Black,4GB,256GB,4.6,26824,0.18
+Xiaomi,Redmi 10,Midnight Black,12GB,512GB,4.3,12633,0.17
+Realme,Realme Narzo 30,Silver,6GB,256GB,4.6,28805,0.24
+Apple,iPhone 12,Alpine Green,4GB,64GB,3.9,168670,0.13
+Samsung,Galaxy S22,Alpine Green,12GB,128GB,4.0,68559,0.32
+Xiaomi,Mi 11X,Midnight Black,8GB,64GB,4.3,12451,0.06
+Realme,Realme 8,Rose Gold,4GB,512GB,4.7,35346,0.3
+Xiaomi,Redmi Note 10,Cosmic Purple,4GB,256GB,3.9,28917,0.26
+Samsung,Galaxy Z Fold3,Silver,12GB,128GB,4.6,85638,0.27
+Samsung,Galaxy S22,Alpine Green,12GB,64GB,3.9,59406,0.22
+Vivo,Vivo V21,Silver,4GB,512GB,4.7,34829,0.11
+Samsung,Galaxy M32,Ocean Blue,12GB,512GB,4.8,32661,0.25
+Apple,iPhone 11,Ocean Blue,12GB,256GB,4.2,67256,0.2
+Realme,Realme Narzo 30,Rose Gold,4GB,1TB,4.3,24253,0.23
+Samsung,Galaxy S22,Graphite,8GB,256GB,4.8,65505,0.25
+Vivo,Vivo X60,Silver,12GB,256GB,3.9,17642,0.05
+Realme,Realme 8,Phantom White,4GB,128GB,4.2,20290,0.14
+Realme,Realme 8 Pro,Ocean Blue,12GB,256GB,4.2,37934,0.04
+Samsung,Galaxy A52,Graphite,4GB,128GB,4.7,56964,0.05
+Vivo,Vivo Y21,Silver,12GB,1TB,3.7,20792,0.09
+Samsung,Galaxy S21,Rose Gold,12GB,1TB,4.6,46748,0.03
+Apple,iPhone 12,Midnight Black,4GB,64GB,4.7,103271,0.05
+OnePlus,OnePlus Nord 2,Midnight Black,8GB,64GB,3.6,22225,0.07
+Vivo,Vivo V20,Phantom White,4GB,256GB,3.8,26105,0.02
+Realme,Realme GT,Rose Gold,12GB,64GB,4.1,23980,0.06
+Samsung,Galaxy S22,Graphite,8GB,512GB,4.7,18541,0.21
+Realme,Realme Narzo 30,Graphite,12GB,512GB,4.7,25696,0.02
+Xiaomi,Poco X3,Phantom White,12GB,128GB,4.4,43459,0.09
+Realme,Realme 8,Rose Gold,8GB,512GB,4.3,25881,0.12
+Realme,Realme 7,Silver,12GB,256GB,3.8,20448,0.21
+Apple,iPhone 12 Pro Max,Alpine Green,12GB,1TB,4.1,106017,0.34
+Apple,iPhone 12,Ocean Blue,8GB,1TB,4.7,59656,0.27
+Samsung,Galaxy M32,Rose Gold,8GB,128GB,3.8,91662,0.11
+Vivo,Vivo X60,Alpine Green,8GB,1TB,4.3,29451,0.33
+OnePlus,OnePlus Nord CE,Graphite,6GB,512GB,3.6,21681,0.08
+Samsung,Galaxy S21,Cosmic Purple,4GB,256GB,4.8,40406,0.28
+Xiaomi,Redmi 10,Phantom White,8GB,64GB,3.6,18283,0.27
+Realme,Realme 8 Pro,Midnight Black,8GB,512GB,4.4,21028,0.11
+Samsung,Galaxy S22,Rose Gold,12GB,256GB,3.8,87659,0.24
+Realme,Realme 8 Pro,Ocean Blue,6GB,512GB,4.0,32560,0.1
+Samsung,Galaxy A52,Alpine Green,12GB,1TB,3.6,92956,0.11
+Realme,Realme Narzo 30,Midnight Black,12GB,128GB,4.0,12549,0.08
+Xiaomi,Redmi Note 11,Midnight Black,8GB,512GB,3.6,22741,0.09
+Apple,iPhone 12 Pro Max,Graphite,4GB,64GB,3.7,159876,0.26
+Samsung,Galaxy Z Fold3,Cosmic Purple,12GB,256GB,4.3,27294,0.29
+Realme,Realme Narzo 30,Phantom White,12GB,64GB,4.6,11094,0.1
+Xiaomi,Mi 11X,Midnight Black,4GB,256GB,3.8,33606,0.06
+Apple,iPhone 13 Pro,Midnight Black,8GB,1TB,4.9,171546,0.25
+OnePlus,OnePlus 9R,Rose Gold,6GB,64GB,3.7,31470,0.34
+OnePlus,OnePlus Nord CE,Graphite,8GB,256GB,3.9,21252,0.14
+Realme,Realme GT,Phantom White,4GB,256GB,3.6,12871,0.1
+Vivo,Vivo Y33s,Cosmic Purple,6GB,64GB,3.6,16597,0.22
+Apple,iPhone 13,Midnight Black,8GB,512GB,4.2,114469,0.03
+Realme,Realme GT,Phantom White,8GB,512GB,4.1,24607,0.02
+OnePlus,OnePlus 9 Pro,Graphite,6GB,256GB,4.3,27904,0.26
+Vivo,Vivo V21,Midnight Black,8GB,1TB,4.1,35787,0.21
+Realme,Realme 8,Rose Gold,12GB,1TB,4.5,25559,0.2
+Samsung,Galaxy Z Fold3,Graphite,4GB,512GB,4.8,107625,0.01
+Realme,Realme 7,Phantom White,4GB,512GB,3.8,15477,0.34
+Samsung,Galaxy S22,Alpine Green,12GB,64GB,4.9,71067,0.07
+Vivo,Vivo Y21,Graphite,8GB,64GB,3.7,29230,0.14
+Xiaomi,Mi 11X,Cosmic Purple,4GB,1TB,4.4,36498,0.04
+Samsung,Galaxy S22,Midnight Black,4GB,1TB,4.6,116989,0.1
+Realme,Realme 8 Pro,Rose Gold,8GB,512GB,4.5,28744,0.21
+Apple,iPhone 12,Graphite,12GB,128GB,4.4,150308,0.01
+Xiaomi,Redmi 10,Ocean Blue,4GB,512GB,4.8,33408,0.01
+Xiaomi,Mi 11X,Graphite,12GB,64GB,4.9,23939,0.05
+Vivo,Vivo V20,Silver,8GB,512GB,4.4,13925,0.07
+Samsung,Galaxy Z Fold3,Cosmic Purple,8GB,64GB,4.3,34836,0.02
+Vivo,Vivo Y33s,Rose Gold,6GB,1TB,4.7,11948,0.06
+Samsung,Galaxy S21,Ocean Blue,4GB,512GB,3.7,61235,0.25
+Xiaomi,Mi 11X,Cosmic Purple,12GB,64GB,4.5,24855,0.13
+Realme,Realme GT,Phantom White,12GB,1TB,4.3,21280,0.06
+Xiaomi,Redmi 10,Midnight Black,8GB,64GB,4.1,19676,0.3
+Samsung,Galaxy S22,Ocean Blue,6GB,256GB,4.4,81276,0.01
+Vivo,Vivo V21,Cosmic Purple,6GB,128GB,4.4,11277,0.08
+Realme,Realme 8 Pro,Graphite,12GB,512GB,4.7,25040,0.09
+OnePlus,OnePlus Nord 2,Rose Gold,4GB,64GB,4.3,61408,0.34
+Xiaomi,Poco F3,Graphite,8GB,64GB,4.2,31038,0.35
+Vivo,Vivo X60,Graphite,8GB,256GB,3.8,27950,0.27
+Apple,iPhone 13 Pro,Rose Gold,8GB,128GB,4.5,175383,0.35
+Xiaomi,Poco X3,Rose Gold,12GB,64GB,4.4,21446,0.12
+Vivo,Vivo Y21,Cosmic Purple,8GB,1TB,4.0,16570,0.29
+Realme,Realme Narzo 30,Graphite,4GB,512GB,3.8,18475,0.25
+Realme,Realme Narzo 30,Silver,4GB,128GB,4.1,34386,0.31
+OnePlus,OnePlus Nord 2,Silver,8GB,1TB,4.0,25718,0.16
+Vivo,Vivo Y33s,Midnight Black,12GB,128GB,4.3,39426,0.24
+Realme,Realme 8 Pro,Rose Gold,4GB,128GB,3.8,16563,0.12
+Realme,Realme GT,Phantom White,8GB,128GB,4.6,25977,0.12
+Samsung,Galaxy S22 Ultra,Alpine Green,4GB,512GB,4.0,113771,0.27
+Realme,Realme Narzo 30,Cosmic Purple,4GB,128GB,4.4,30758,0.15
+OnePlus,OnePlus 9 Pro,Rose Gold,4GB,64GB,4.3,42451,0.33
+Xiaomi,Poco F3,Ocean Blue,4GB,64GB,4.4,25306,0.08
+Xiaomi,Mi 11X,Phantom White,4GB,512GB,4.3,29061,0.06
+Apple,iPhone 12 Pro Max,Graphite,12GB,1TB,4.4,133561,0.15
+Vivo,Vivo Y21,Silver,12GB,256GB,4.6,16402,0.33
+OnePlus,OnePlus 9,Ocean Blue,6GB,128GB,3.9,19436,0.21
+Samsung,Galaxy S21,Silver,4GB,512GB,4.7,47526,0.27
+Realme,Realme 8,Alpine Green,4GB,64GB,3.7,13794,0.15
+OnePlus,OnePlus 9,Graphite,12GB,128GB,3.9,59308,0.0
+OnePlus,OnePlus 9,Graphite,6GB,512GB,4.7,24875,0.18
+Realme,Realme 8,Graphite,4GB,64GB,4.2,29955,0.07
+Xiaomi,Poco F3,Ocean Blue,8GB,512GB,4.0,11582,0.19
+Samsung,Galaxy A52,Cosmic Purple,8GB,128GB,3.6,102032,0.03
+Apple,iPhone 13 Pro,Cosmic Purple,6GB,64GB,4.6,64673,0.25
+Apple,iPhone 12 Pro Max,Ocean Blue,12GB,256GB,3.9,58128,0.03
+Samsung,Galaxy S21,Graphite,8GB,256GB,4.2,29191,0.03
+Apple,iPhone 11,Phantom White,6GB,256GB,4.1,159744,0.33
+Xiaomi,Redmi 10,Midnight Black,8GB,256GB,3.8,35265,0.14
+OnePlus,OnePlus Nord 2,Rose Gold,12GB,512GB,4.4,28930,0.04
+Vivo,Vivo V21,Phantom White,4GB,512GB,4.8,26816,0.28
+Vivo,Vivo V20,Phantom White,12GB,256GB,4.4,39264,0.24
+Vivo,Vivo Y21,Cosmic Purple,12GB,64GB,4.8,25440,0.02
+Xiaomi,Redmi 10,Silver,4GB,1TB,4.6,23679,0.34
+Vivo,Vivo X60,Midnight Black,12GB,128GB,4.2,32748,0.24
+OnePlus,OnePlus 9R,Alpine Green,4GB,128GB,4.3,48755,0.3
+Samsung,Galaxy S21,Cosmic Purple,8GB,128GB,4.0,50458,0.02
+Samsung,Galaxy M32,Rose Gold,12GB,128GB,3.7,72220,0.28
+OnePlus,OnePlus 9,Cosmic Purple,12GB,256GB,3.8,50595,0.26
+Apple,iPhone 11,Rose Gold,12GB,64GB,4.3,45044,0.29
+Realme,Realme 7,Graphite,6GB,512GB,4.8,21906,0.29
+Samsung,Galaxy Z Fold3,Silver,12GB,256GB,4.5,28945,0.03
+Vivo,Vivo Y21,Alpine Green,8GB,256GB,4.7,37211,0.1
+Realme,Realme 8 Pro,Midnight Black,4GB,128GB,4.2,36930,0.25
+Vivo,Vivo V20,Midnight Black,8GB,1TB,3.9,14956,0.33
+OnePlus,OnePlus 9R,Cosmic Purple,6GB,256GB,3.7,45162,0.02
+Vivo,Vivo Y33s,Midnight Black,12GB,512GB,4.5,27521,0.05
+OnePlus,OnePlus 9,Alpine Green,12GB,1TB,4.2,51314,0.27
+Samsung,Galaxy A52,Phantom White,6GB,64GB,4.1,92714,0.21
+Xiaomi,Poco F3,Rose Gold,12GB,1TB,4.8,25268,0.1
+Xiaomi,Mi 11X,Cosmic Purple,6GB,128GB,4.1,42573,0.1
+Vivo,Vivo Y33s,Silver,6GB,128GB,3.9,34408,0.1
+Xiaomi,Redmi 10,Phantom White,6GB,1TB,4.3,30127,0.25
+Xiaomi,Poco F3,Cosmic Purple,12GB,1TB,4.0,36681,0.28
+Realme,Realme 8,Alpine Green,12GB,128GB,3.7,11854,0.07
+Samsung,Galaxy S22 Ultra,Graphite,6GB,64GB,4.5,52684,0.07
+Realme,Realme 8,Silver,12GB,64GB,4.4,32135,0.26
+Samsung,Galaxy A52,Rose Gold,6GB,1TB,4.6,118703,0.24
+Vivo,Vivo V21,Rose Gold,12GB,512GB,4.8,33450,0.11
+Realme,Realme 8,Alpine Green,8GB,128GB,4.4,35589,0.3
+OnePlus,OnePlus 9R,Silver,6GB,128GB,4.0,29627,0.34
+Apple,iPhone 12,Phantom White,4GB,512GB,3.7,118167,0.19
+Samsung,Galaxy S22,Graphite,4GB,256GB,4.2,136879,0.05
+Samsung,Galaxy S22 Ultra,Alpine Green,8GB,512GB,4.6,86110,0.13
+Vivo,Vivo X60,Ocean Blue,6GB,1TB,3.7,27552,0.06
+Realme,Realme 7,Rose Gold,4GB,256GB,3.9,16991,0.23
+Xiaomi,Mi 11X,Graphite,6GB,1TB,4.3,9576,0.04
+Xiaomi,Poco X3,Ocean Blue,6GB,64GB,4.5,30032,0.13
+Apple,iPhone 13,Graphite,8GB,64GB,4.8,143293,0.18
+Realme,Realme GT,Cosmic Purple,4GB,256GB,4.8,16308,0.11
+Apple,iPhone 11,Phantom White,4GB,64GB,3.9,100882,0.3
+OnePlus,OnePlus 9,Ocean Blue,12GB,64GB,4.6,28076,0.01
+Vivo,Vivo X60,Alpine Green,4GB,64GB,3.7,37024,0.09
+Apple,iPhone 13 Pro,Ocean Blue,8GB,512GB,4.1,151023,0.15
+Apple,iPhone 13,Midnight Black,4GB,1TB,3.7,56931,0.25
+Apple,iPhone 12 Pro Max,Midnight Black,8GB,256GB,4.4,118798,0.27
+OnePlus,OnePlus 9 Pro,Rose Gold,4GB,512GB,3.8,32409,0.05
+OnePlus,OnePlus Nord CE,Graphite,6GB,256GB,4.5,60463,0.13
+Apple,iPhone 13 Pro,Phantom White,4GB,64GB,3.6,148306,0.19
+Apple,iPhone 12 Pro Max,Ocean Blue,8GB,128GB,4.1,179362,0.05
+Samsung,Galaxy S22,Graphite,6GB,64GB,3.8,118813,0.2
+Apple,iPhone 13 Pro,Cosmic Purple,4GB,256GB,4.5,110716,0.03
+Vivo,Vivo Y33s,Cosmic Purple,8GB,256GB,3.8,32478,0.08
+Xiaomi,Poco F3,Midnight Black,6GB,256GB,4.2,30518,0.22
+Xiaomi,Redmi 10,Phantom White,8GB,256GB,4.8,20051,0.0
+Samsung,Galaxy S22,Rose Gold,8GB,256GB,3.8,110072,0.12
+OnePlus,OnePlus 9 Pro,Cosmic Purple,8GB,256GB,4.2,25132,0.06
+Realme,Realme 8,Graphite,6GB,1TB,3.9,34036,0.31
+Apple,iPhone 13 Pro Max,Midnight Black,4GB,1TB,4.4,151203,0.27
+Samsung,Galaxy S21,Graphite,12GB,128GB,4.1,43269,0.31
+Realme,Realme 8 Pro,Phantom White,12GB,1TB,4.3,23001,0.13
+Apple,iPhone 13 Pro Max,Ocean Blue,6GB,1TB,3.8,86739,0.06
+Realme,Realme Narzo 30,Cosmic Purple,8GB,64GB,3.9,25979,0.08
+Xiaomi,Mi 11X,Ocean Blue,4GB,128GB,4.3,32674,0.14
+OnePlus,OnePlus 9,Alpine Green,8GB,64GB,4.5,52168,0.22
+Xiaomi,Redmi 10,Graphite,6GB,512GB,4.4,32940,0.21
+Apple,iPhone 13 Pro,Graphite,12GB,128GB,4.3,137510,0.29
+Xiaomi,Poco X3,Cosmic Purple,4GB,1TB,4.7,37829,0.06
+Apple,iPhone 13 Pro,Graphite,6GB,128GB,3.8,139954,0.21
+Apple,iPhone 13 Pro Max,Ocean Blue,12GB,256GB,4.5,171226,0.24
+OnePlus,OnePlus 9R,Phantom White,12GB,64GB,3.9,26381,0.2
+Samsung,Galaxy S22,Alpine Green,6GB,64GB,3.8,134906,0.06
+OnePlus,OnePlus Nord CE,Alpine Green,8GB,64GB,3.9,57749,0.35
+OnePlus,OnePlus 9R,Ocean Blue,12GB,1TB,3.8,56184,0.29
+Samsung,Galaxy M32,Graphite,6GB,256GB,4.8,92188,0.21
+Samsung,Galaxy Z Fold3,Rose Gold,6GB,64GB,3.6,82512,0.3
+Realme,Realme GT,Phantom White,4GB,128GB,4.2,30144,0.21
+Realme,Realme 7,Midnight Black,4GB,512GB,4.5,29774,0.19
+Apple,iPhone 13 Pro Max,Rose Gold,12GB,256GB,4.7,157448,0.08
+OnePlus,OnePlus 9 Pro,Silver,4GB,512GB,3.8,49269,0.27
+Apple,iPhone 12 Pro Max,Rose Gold,8GB,128GB,3.6,46864,0.2
+Apple,iPhone 13 Pro,Alpine Green,12GB,128GB,4.5,127811,0.14
+Apple,iPhone 12,Rose Gold,8GB,256GB,4.7,156034,0.2
+Realme,Realme 8 Pro,Rose Gold,6GB,512GB,4.3,28270,0.17
+Xiaomi,Poco F3,Cosmic Purple,8GB,256GB,4.4,35091,0.26
+Vivo,Vivo V21,Ocean Blue,12GB,128GB,3.7,27657,0.14
+Xiaomi,Poco F3,Alpine Green,6GB,512GB,4.9,9346,0.28
+Samsung,Galaxy Z Fold3,Rose Gold,4GB,64GB,3.9,62606,0.03
+Apple,iPhone 13 Pro Max,Rose Gold,12GB,1TB,4.5,120096,0.25
+Realme,Realme 8,Phantom White,12GB,512GB,3.6,37871,0.23
+Realme,Realme 8 Pro,Ocean Blue,4GB,1TB,4.3,32886,0.08
+Samsung,Galaxy A52,Alpine Green,8GB,128GB,4.5,34636,0.03
+Xiaomi,Poco X3,Silver,12GB,512GB,4.4,42930,0.01
+Vivo,Vivo V21,Midnight Black,8GB,1TB,4.8,22406,0.12
+Xiaomi,Redmi Note 11,Ocean Blue,12GB,512GB,4.3,26111,0.06
+Realme,Realme 8,Midnight Black,8GB,256GB,4.8,36310,0.18
+Xiaomi,Poco F3,Graphite,12GB,512GB,4.3,24943,0.27
+OnePlus,OnePlus 9 Pro,Alpine Green,12GB,64GB,3.9,43078,0.22
+Samsung,Galaxy A52,Ocean Blue,8GB,512GB,4.8,81699,0.19
+Vivo,Vivo X60,Ocean Blue,8GB,64GB,4.1,35536,0.29
+Apple,iPhone 13 Pro,Phantom White,12GB,256GB,4.1,115536,0.06
+Vivo,Vivo Y21,Cosmic Purple,6GB,128GB,4.6,39598,0.09
+Samsung,Galaxy S22,Ocean Blue,8GB,128GB,4.6,29712,0.32
+Vivo,Vivo V20,Alpine Green,4GB,512GB,4.1,21335,0.17
+Realme,Realme 8 Pro,Cosmic Purple,6GB,1TB,4.0,17277,0.26
+Samsung,Galaxy S21,Rose Gold,12GB,1TB,3.6,59519,0.14
+Vivo,Vivo Y21,Cosmic Purple,4GB,1TB,4.2,33584,0.0
+Vivo,Vivo Y21,Rose Gold,4GB,256GB,4.1,39240,0.09
+Realme,Realme 8 Pro,Ocean Blue,8GB,512GB,4.8,21242,0.13
+OnePlus,OnePlus 9 Pro,Ocean Blue,12GB,256GB,4.1,44253,0.1
+Samsung,Galaxy M32,Phantom White,6GB,64GB,4.5,119393,0.08
+OnePlus,OnePlus 9 Pro,Ocean Blue,6GB,128GB,4.2,18638,0.06
+OnePlus,OnePlus 9R,Silver,12GB,256GB,3.9,55213,0.02
+Apple,iPhone 13 Pro Max,Phantom White,4GB,128GB,4.7,169921,0.29
+Apple,iPhone 13,Silver,8GB,256GB,4.1,112558,0.12
+OnePlus,OnePlus 9,Silver,6GB,1TB,4.3,60541,0.19
+Xiaomi,Mi 11X,Silver,12GB,512GB,4.8,33973,0.21
+OnePlus,OnePlus 9R,Phantom White,8GB,512GB,4.4,55462,0.14
+Apple,iPhone 11,Phantom White,8GB,128GB,4.0,121377,0.25
+Realme,Realme GT,Graphite,12GB,256GB,4.6,27070,0.34
+OnePlus,OnePlus 9R,Phantom White,4GB,128GB,4.5,61386,0.09
+Vivo,Vivo V21,Ocean Blue,6GB,512GB,3.7,13090,0.33
+OnePlus,OnePlus Nord CE,Alpine Green,4GB,512GB,4.3,23455,0.04
+Realme,Realme Narzo 30,Midnight Black,12GB,256GB,3.9,34169,0.1
+Vivo,Vivo Y21,Phantom White,6GB,64GB,3.6,22692,0.3
+Xiaomi,Poco X3,Cosmic Purple,8GB,1TB,4.2,44342,0.06
+Realme,Realme GT,Rose Gold,8GB,256GB,4.2,17442,0.28
+OnePlus,OnePlus Nord 2,Silver,12GB,256GB,3.8,18691,0.0
+Samsung,Galaxy S22 Ultra,Graphite,12GB,1TB,3.6,134859,0.17
+OnePlus,OnePlus Nord 2,Alpine Green,12GB,256GB,4.4,18473,0.19
+Samsung,Galaxy Z Fold3,Rose Gold,12GB,128GB,3.8,110615,0.23
+OnePlus,OnePlus 9R,Graphite,4GB,512GB,4.4,51856,0.27
+Realme,Realme 8 Pro,Graphite,8GB,512GB,3.8,12243,0.06
+Xiaomi,Redmi Note 10,Cosmic Purple,12GB,256GB,4.5,41243,0.07
+Apple,iPhone 12,Alpine Green,4GB,128GB,4.9,118954,0.09
+Vivo,Vivo V20,Alpine Green,6GB,64GB,3.8,27173,0.08
+OnePlus,OnePlus Nord 2,Cosmic Purple,8GB,512GB,4.5,20079,0.12
+Samsung,Galaxy S21,Graphite,12GB,64GB,4.3,37803,0.07
+Xiaomi,Poco X3,Alpine Green,4GB,128GB,4.1,38029,0.09
+Apple,iPhone 12,Cosmic Purple,4GB,1TB,4.5,99643,0.17
+Vivo,Vivo X60,Silver,6GB,64GB,4.6,29008,0.18
+Xiaomi,Poco X3,Graphite,6GB,256GB,4.8,23272,0.34
+Samsung,Galaxy A52,Rose Gold,8GB,64GB,3.8,50188,0.2
+OnePlus,OnePlus 9R,Alpine Green,4GB,1TB,4.6,49147,0.24
+Samsung,Galaxy S22 Ultra,Midnight Black,6GB,128GB,4.2,103908,0.22
+Vivo,Vivo V21,Alpine Green,8GB,128GB,4.5,36934,0.04
+OnePlus,OnePlus 9R,Silver,8GB,512GB,4.6,19399,0.24
+Xiaomi,Redmi 10,Phantom White,8GB,64GB,4.2,37672,0.2
+Realme,Realme GT,Ocean Blue,6GB,1TB,4.1,33999,0.16
+Realme,Realme 7,Phantom White,4GB,1TB,3.8,19688,0.29
+Realme,Realme 8 Pro,Cosmic Purple,4GB,1TB,4.1,16079,0.31
+Realme,Realme 8 Pro,Ocean Blue,8GB,64GB,4.5,27660,0.29
+Samsung,Galaxy M32,Cosmic Purple,6GB,1TB,4.0,67713,0.22
+Apple,iPhone 11,Midnight Black,4GB,128GB,3.8,53198,0.07
+OnePlus,OnePlus 9R,Midnight Black,4GB,1TB,4.4,43467,0.23
+Realme,Realme 7,Graphite,4GB,256GB,3.9,33522,0.02
+Samsung,Galaxy A52,Cosmic Purple,4GB,512GB,4.6,21956,0.13
+Vivo,Vivo V20,Silver,4GB,1TB,3.9,12332,0.26
+Xiaomi,Redmi Note 10,Ocean Blue,4GB,64GB,4.5,43842,0.13
+Samsung,Galaxy M32,Ocean Blue,6GB,1TB,4.6,68419,0.26
+Vivo,Vivo Y33s,Silver,12GB,512GB,4.7,16466,0.28
+Realme,Realme GT,Silver,6GB,1TB,4.9,24516,0.33
+Xiaomi,Poco F3,Silver,8GB,512GB,4.6,37219,0.29
+Xiaomi,Poco F3,Ocean Blue,6GB,512GB,4.6,25651,0.13
+OnePlus,OnePlus 9 Pro,Rose Gold,4GB,64GB,4.9,57043,0.01
+Samsung,Galaxy S22 Ultra,Alpine Green,8GB,128GB,3.9,55275,0.01
+Vivo,Vivo X60,Phantom White,4GB,64GB,4.2,16115,0.05
+Xiaomi,Poco F3,Ocean Blue,6GB,256GB,4.7,15023,0.2
+Realme,Realme Narzo 30,Midnight Black,8GB,512GB,3.8,37056,0.31
+Vivo,Vivo Y33s,Midnight Black,8GB,64GB,4.6,29883,0.13
+Apple,iPhone 12 Pro Max,Silver,12GB,512GB,4.8,76598,0.3
+Samsung,Galaxy A52,Alpine Green,12GB,64GB,4.0,19397,0.11
+Realme,Realme Narzo 30,Silver,6GB,128GB,3.7,33972,0.35
+OnePlus,OnePlus Nord CE,Midnight Black,6GB,512GB,4.0,43842,0.05
+Xiaomi,Redmi Note 10,Cosmic Purple,4GB,1TB,4.1,14575,0.14
+OnePlus,OnePlus 9R,Phantom White,12GB,1TB,3.9,43907,0.23
+Samsung,Galaxy M32,Ocean Blue,6GB,64GB,3.9,70369,0.11
+Realme,Realme 8,Midnight Black,12GB,512GB,4.1,16241,0.11
+Realme,Realme 8,Graphite,6GB,256GB,4.4,36306,0.15
+Samsung,Galaxy Z Fold3,Alpine Green,6GB,128GB,4.5,34446,0.27
+Apple,iPhone 11,Alpine Green,6GB,1TB,4.8,120414,0.0
+Vivo,Vivo V21,Graphite,12GB,512GB,3.6,17848,0.26
+Samsung,Galaxy S22,Graphite,12GB,1TB,4.5,32526,0.24
+Vivo,Vivo V21,Rose Gold,4GB,256GB,3.8,20306,0.07
+Vivo,Vivo Y33s,Graphite,4GB,512GB,4.5,11273,0.02
+Vivo,Vivo X60,Silver,4GB,64GB,4.0,39947,0.23
+Samsung,Galaxy Z Fold3,Midnight Black,8GB,512GB,4.7,83672,0.03
+Samsung,Galaxy M32,Cosmic Purple,4GB,64GB,3.9,83391,0.11
+OnePlus,OnePlus 9 Pro,Phantom White,4GB,256GB,4.5,41290,0.22
+Samsung,Galaxy M32,Graphite,4GB,256GB,4.7,130706,0.35
+Apple,iPhone 13 Pro,Graphite,6GB,128GB,4.0,147982,0.23
+Apple,iPhone 13 Pro Max,Rose Gold,6GB,512GB,3.9,85042,0.15
+Xiaomi,Poco F3,Silver,12GB,1TB,3.8,18081,0.2
+Vivo,Vivo Y21,Phantom White,8GB,1TB,4.8,25092,0.35
+Samsung,Galaxy A52,Phantom White,8GB,64GB,4.3,138335,0.25
+Samsung,Galaxy S22 Ultra,Phantom White,4GB,256GB,4.7,68269,0.34
+Xiaomi,Poco X3,Graphite,6GB,128GB,3.7,21107,0.01
+Realme,Realme 7,Graphite,6GB,1TB,3.9,32523,0.01
+Apple,iPhone 13 Pro Max,Cosmic Purple,6GB,1TB,4.7,167883,0.25
+Xiaomi,Redmi Note 11,Rose Gold,12GB,512GB,3.8,21665,0.08
+OnePlus,OnePlus 9,Graphite,12GB,128GB,4.6,31292,0.27
+Apple,iPhone 12,Cosmic Purple,12GB,256GB,4.7,109692,0.15
+Apple,iPhone 13 Pro,Rose Gold,8GB,512GB,4.4,55095,0.18
+OnePlus,OnePlus 9 Pro,Alpine Green,6GB,1TB,4.3,20572,0.2
+Realme,Realme 8,Ocean Blue,8GB,512GB,4.1,19979,0.27
+Xiaomi,Poco X3,Phantom White,12GB,256GB,4.4,12574,0.24
+Samsung,Galaxy Z Fold3,Cosmic Purple,4GB,1TB,3.7,116069,0.2
+Vivo,Vivo Y33s,Phantom White,12GB,512GB,4.0,11816,0.06
+Realme,Realme Narzo 30,Cosmic Purple,4GB,256GB,4.0,31252,0.32
+Samsung,Galaxy A52,Midnight Black,4GB,64GB,4.5,97109,0.13
+Realme,Realme GT,Phantom White,12GB,1TB,4.1,35174,0.06
+Xiaomi,Poco F3,Phantom White,6GB,128GB,3.8,12362,0.15
+Xiaomi,Redmi 10,Cosmic Purple,8GB,128GB,3.8,17622,0.34
+Apple,iPhone 13 Pro,Graphite,4GB,512GB,4.2,175716,0.19
+Apple,iPhone 13 Pro,Cosmic Purple,6GB,128GB,4.4,169705,0.16
+OnePlus,OnePlus 9,Alpine Green,6GB,1TB,4.0,59198,0.2
+Samsung,Galaxy S21,Phantom White,6GB,64GB,4.4,18813,0.05
+Apple,iPhone 13 Pro Max,Graphite,8GB,64GB,3.7,154302,0.35
+Samsung,Galaxy A52,Graphite,6GB,512GB,4.6,61210,0.33
+Apple,iPhone 12 Pro Max,Silver,8GB,512GB,4.7,157020,0.3
+Apple,iPhone 12 Pro Max,Cosmic Purple,6GB,64GB,4.5,116937,0.12
+OnePlus,OnePlus Nord CE,Ocean Blue,6GB,1TB,3.7,55445,0.26
+Vivo,Vivo Y33s,Midnight Black,12GB,1TB,4.8,34160,0.1
+Realme,Realme 8 Pro,Graphite,8GB,128GB,4.4,26265,0.18
+Vivo,Vivo V20,Cosmic Purple,6GB,1TB,3.9,20518,0.34
+Apple,iPhone 11,Alpine Green,12GB,64GB,4.6,99350,0.28
+OnePlus,OnePlus 9 Pro,Alpine Green,8GB,256GB,4.3,59779,0.07
+Vivo,Vivo Y21,Graphite,8GB,64GB,4.0,27603,0.19
+Apple,iPhone 11,Silver,8GB,512GB,4.5,52632,0.29
+Samsung,Galaxy S22 Ultra,Silver,12GB,512GB,4.6,98626,0.05
+Samsung,Galaxy A52,Cosmic Purple,8GB,512GB,4.6,68257,0.32
+Apple,iPhone 13 Pro,Graphite,8GB,1TB,4.3,99594,0.2
+Xiaomi,Mi 11X,Midnight Black,6GB,256GB,4.7,31226,0.34
+Vivo,Vivo Y33s,Phantom White,12GB,128GB,4.4,39331,0.27
+Xiaomi,Redmi 10,Silver,4GB,256GB,4.1,41574,0.31
+Xiaomi,Poco X3,Graphite,6GB,1TB,4.0,16355,0.13
+Apple,iPhone 12,Midnight Black,12GB,1TB,3.6,171527,0.32
+Samsung,Galaxy S22,Silver,12GB,1TB,4.0,56904,0.05
+Apple,iPhone 13 Pro,Phantom White,6GB,64GB,4.2,75365,0.0
+Apple,iPhone 13 Pro Max,Midnight Black,8GB,512GB,4.8,72027,0.18
+Vivo,Vivo X60,Alpine Green,8GB,128GB,4.0,17309,0.1
+Realme,Realme 8 Pro,Cosmic Purple,4GB,256GB,3.8,18966,0.04
+Realme,Realme 7,Midnight Black,6GB,1TB,4.1,20436,0.09
+Vivo,Vivo X60,Ocean Blue,6GB,64GB,4.0,22099,0.19
+Apple,iPhone 12,Alpine Green,12GB,64GB,3.7,59103,0.03
+OnePlus,OnePlus 9R,Cosmic Purple,8GB,256GB,4.0,30985,0.25
+Vivo,Vivo Y33s,Midnight Black,12GB,1TB,3.8,37635,0.28
+Vivo,Vivo V20,Midnight Black,12GB,256GB,4.5,34272,0.27
+OnePlus,OnePlus 9R,Ocean Blue,6GB,1TB,3.9,41819,0.14
+Vivo,Vivo X60,Silver,12GB,512GB,3.6,26575,0.04
+OnePlus,OnePlus 9 Pro,Phantom White,8GB,256GB,4.4,26348,0.18
+OnePlus,OnePlus 9,Silver,4GB,256GB,4.3,44267,0.21
+Samsung,Galaxy M32,Ocean Blue,6GB,512GB,4.1,58658,0.07
+Vivo,Vivo Y33s,Rose Gold,12GB,1TB,4.6,28843,0.24
+Samsung,Galaxy A52,Midnight Black,12GB,64GB,4.4,74674,0.11
+Apple,iPhone 13,Phantom White,8GB,512GB,3.7,73506,0.24
+Realme,Realme GT,Silver,12GB,64GB,3.7,36772,0.05
+Realme,Realme 8,Phantom White,6GB,512GB,4.3,22778,0.22
+OnePlus,OnePlus 9R,Ocean Blue,8GB,256GB,4.3,37958,0.32
+OnePlus,OnePlus Nord 2,Midnight Black,4GB,1TB,4.9,44489,0.3
+Xiaomi,Redmi Note 10,Silver,4GB,64GB,4.5,32543,0.04
+Xiaomi,Redmi Note 10,Ocean Blue,12GB,1TB,4.1,29848,0.25
+OnePlus,OnePlus 9 Pro,Rose Gold,6GB,128GB,4.2,30335,0.19
+Xiaomi,Poco X3,Phantom White,8GB,128GB,3.8,13701,0.23
+Samsung,Galaxy A52,Cosmic Purple,12GB,128GB,3.7,98180,0.28
+OnePlus,OnePlus Nord CE,Rose Gold,6GB,512GB,4.3,54179,0.29
+OnePlus,OnePlus Nord 2,Ocean Blue,6GB,512GB,4.4,55875,0.17
+Vivo,Vivo Y21,Graphite,12GB,1TB,4.3,12096,0.34
+Realme,Realme GT,Silver,4GB,1TB,4.2,32626,0.03
+Vivo,Vivo Y33s,Graphite,12GB,1TB,3.7,30990,0.03
+OnePlus,OnePlus 9,Graphite,4GB,256GB,4.3,18706,0.16
+Realme,Realme GT,Silver,12GB,256GB,4.8,36156,0.1
+Samsung,Galaxy S21,Graphite,8GB,64GB,4.4,89778,0.06
+Apple,iPhone 13 Pro Max,Graphite,4GB,256GB,4.2,78245,0.18
+Xiaomi,Mi 11X,Phantom White,8GB,256GB,4.7,9930,0.26
+Realme,Realme Narzo 30,Phantom White,12GB,256GB,4.7,18560,0.27
+Samsung,Galaxy Z Fold3,Phantom White,4GB,256GB,4.9,33014,0.21
+Samsung,Galaxy Z Fold3,Rose Gold,12GB,128GB,4.5,109158,0.22
+Samsung,Galaxy M32,Silver,4GB,256GB,4.6,29203,0.02
+OnePlus,OnePlus 9 Pro,Cosmic Purple,8GB,512GB,4.6,52899,0.08
+Vivo,Vivo V20,Cosmic Purple,8GB,128GB,4.3,25245,0.0
+OnePlus,OnePlus 9 Pro,Silver,4GB,64GB,4.8,59774,0.12
+OnePlus,OnePlus Nord CE,Graphite,8GB,256GB,3.9,24440,0.09
+Realme,Realme GT,Cosmic Purple,6GB,1TB,4.6,27037,0.12
+Vivo,Vivo Y21,Silver,4GB,64GB,4.7,11391,0.14
+Realme,Realme 8,Cosmic Purple,8GB,128GB,4.5,18254,0.07
+Apple,iPhone 13 Pro,Midnight Black,4GB,1TB,4.5,101839,0.33
+Vivo,Vivo V21,Midnight Black,4GB,1TB,3.8,32508,0.27
+Vivo,Vivo Y33s,Phantom White,4GB,128GB,3.9,26301,0.23
+Apple,iPhone 13 Pro Max,Cosmic Purple,8GB,512GB,4.5,129778,0.09
+Apple,iPhone 12 Pro Max,Alpine Green,12GB,512GB,4.0,60744,0.09
+Xiaomi,Redmi Note 11,Cosmic Purple,4GB,512GB,4.9,22151,0.21
+Samsung,Galaxy A52,Cosmic Purple,4GB,128GB,4.3,70525,0.08
+Vivo,Vivo V21,Cosmic Purple,8GB,64GB,3.6,13307,0.2
+Xiaomi,Poco X3,Alpine Green,12GB,128GB,4.4,9056,0.33
+Vivo,Vivo V20,Graphite,6GB,256GB,4.8,29829,0.0
+Vivo,Vivo V20,Cosmic Purple,12GB,512GB,4.7,36589,0.28
+Apple,iPhone 13 Pro,Ocean Blue,4GB,512GB,4.8,171370,0.04
+Realme,Realme 8 Pro,Silver,8GB,512GB,3.7,31203,0.03
+Realme,Realme 8 Pro,Midnight Black,12GB,256GB,4.4,15787,0.19
+OnePlus,OnePlus 9R,Graphite,12GB,64GB,4.4,41544,0.17
+Vivo,Vivo V20,Ocean Blue,6GB,64GB,3.9,34584,0.35
+Samsung,Galaxy Z Fold3,Rose Gold,4GB,1TB,4.4,79494,0.19
+OnePlus,OnePlus 9,Alpine Green,8GB,64GB,4.0,20805,0.14
+Samsung,Galaxy A52,Cosmic Purple,6GB,1TB,3.9,23441,0.01
+Samsung,Galaxy Z Fold3,Alpine Green,12GB,1TB,3.7,105920,0.23
+Apple,iPhone 12,Alpine Green,8GB,64GB,4.2,89745,0.29
+Apple,iPhone 11,Midnight Black,12GB,1TB,4.6,102821,0.02
+Samsung,Galaxy Z Fold3,Silver,12GB,256GB,3.8,103664,0.2
+Samsung,Galaxy S22 Ultra,Ocean Blue,4GB,1TB,3.8,22286,0.04
+Samsung,Galaxy Z Fold3,Phantom White,8GB,1TB,3.8,45934,0.32
+Apple,iPhone 12,Midnight Black,12GB,128GB,3.6,172655,0.03
+Apple,iPhone 12,Midnight Black,8GB,512GB,4.5,169783,0.24
+Samsung,Galaxy S22,Graphite,12GB,512GB,3.9,36878,0.21
+Apple,iPhone 13 Pro,Phantom White,12GB,1TB,4.8,123957,0.12
+Apple,iPhone 13 Pro,Ocean Blue,6GB,64GB,4.9,70082,0.22
+Realme,Realme 7,Ocean Blue,12GB,128GB,4.0,16347,0.04
+Samsung,Galaxy A52,Cosmic Purple,12GB,128GB,3.8,134936,0.02
+Vivo,Vivo X60,Graphite,6GB,512GB,3.9,31211,0.28
+OnePlus,OnePlus 9,Midnight Black,4GB,1TB,3.8,19904,0.17
+Apple,iPhone 11,Ocean Blue,12GB,1TB,4.4,154855,0.07
+Vivo,Vivo X60,Ocean Blue,4GB,256GB,3.9,18769,0.26
+Samsung,Galaxy Z Fold3,Ocean Blue,4GB,512GB,4.4,21122,0.31
+Samsung,Galaxy S22,Cosmic Purple,6GB,512GB,4.1,73996,0.25
+Vivo,Vivo X60,Graphite,6GB,256GB,3.8,33682,0.2
+Xiaomi,Redmi Note 11,Midnight Black,12GB,512GB,4.1,31516,0.08
+Xiaomi,Poco F3,Phantom White,6GB,1TB,4.9,24053,0.03
+Realme,Realme GT,Ocean Blue,12GB,512GB,4.0,33921,0.15
+Samsung,Galaxy S22,Silver,12GB,1TB,3.9,135566,0.21
+Samsung,Galaxy M32,Alpine Green,12GB,64GB,3.7,75689,0.26
+Realme,Realme 8,Rose Gold,12GB,512GB,4.7,32827,0.29
+OnePlus,OnePlus 9 Pro,Ocean Blue,4GB,1TB,4.6,44648,0.33
+Samsung,Galaxy S22 Ultra,Graphite,6GB,64GB,3.6,101691,0.11
+Vivo,Vivo V20,Alpine Green,12GB,512GB,4.6,39645,0.25
+Samsung,Galaxy S22 Ultra,Cosmic Purple,4GB,64GB,4.1,104538,0.12
+Apple,iPhone 12 Pro Max,Rose Gold,8GB,1TB,4.3,99302,0.28
+Apple,iPhone 13 Pro,Silver,4GB,1TB,4.8,140417,0.31
+Apple,iPhone 13,Silver,12GB,1TB,3.7,141058,0.06
+Realme,Realme 8,Ocean Blue,6GB,256GB,3.9,13721,0.23
+Vivo,Vivo Y33s,Ocean Blue,6GB,256GB,4.1,19760,0.18
+OnePlus,OnePlus Nord 2,Alpine Green,4GB,256GB,4.0,49865,0.18
+Apple,iPhone 13,Graphite,12GB,1TB,4.1,62203,0.07
+OnePlus,OnePlus 9,Midnight Black,12GB,128GB,4.0,23042,0.04
+Xiaomi,Redmi Note 10,Phantom White,12GB,128GB,4.7,43123,0.33
+Apple,iPhone 12 Pro Max,Rose Gold,6GB,512GB,4.1,161355,0.26
+Apple,iPhone 12 Pro Max,Ocean Blue,4GB,64GB,4.7,105903,0.29
+Realme,Realme 8 Pro,Rose Gold,8GB,256GB,4.2,31818,0.24
+Realme,Realme GT,Cosmic Purple,8GB,1TB,3.8,35865,0.11
+Xiaomi,Redmi Note 11,Cosmic Purple,8GB,256GB,4.6,12101,0.05
+Xiaomi,Poco X3,Phantom White,6GB,1TB,4.0,20492,0.29
+Vivo,Vivo Y21,Phantom White,6GB,64GB,3.7,21375,0.2
+OnePlus,OnePlus Nord 2,Silver,6GB,128GB,4.3,20273,0.23
+Xiaomi,Redmi Note 11,Silver,12GB,1TB,4.9,43972,0.11
+Apple,iPhone 13,Cosmic Purple,6GB,512GB,4.8,85908,0.0
+Vivo,Vivo Y33s,Silver,8GB,512GB,4.8,35712,0.34
+Realme,Realme Narzo 30,Cosmic Purple,8GB,64GB,4.6,11313,0.05
+Realme,Realme 8,Graphite,4GB,512GB,4.4,17220,0.16
+Apple,iPhone 12 Pro Max,Alpine Green,6GB,1TB,4.3,117856,0.07
+Apple,iPhone 13 Pro,Cosmic Purple,4GB,1TB,4.1,173572,0.11
+Realme,Realme 7,Alpine Green,8GB,512GB,3.8,37977,0.15
+OnePlus,OnePlus Nord 2,Alpine Green,8GB,256GB,4.1,47201,0.31
+Apple,iPhone 12,Cosmic Purple,12GB,512GB,4.0,156105,0.26
+OnePlus,OnePlus 9R,Midnight Black,6GB,128GB,4.0,52426,0.35
+Apple,iPhone 13 Pro,Rose Gold,4GB,64GB,4.1,116651,0.15
+Realme,Realme GT,Phantom White,6GB,128GB,4.7,19485,0.19
+Apple,iPhone 12 Pro Max,Graphite,12GB,1TB,4.6,103856,0.01
+Apple,iPhone 12,Graphite,8GB,512GB,3.8,120415,0.15
+OnePlus,OnePlus 9R,Alpine Green,4GB,256GB,4.2,22372,0.21
+Xiaomi,Poco F3,Cosmic Purple,12GB,256GB,4.4,40197,0.34
+Apple,iPhone 12 Pro Max,Alpine Green,8GB,128GB,4.4,83308,0.11
+Vivo,Vivo Y21,Silver,6GB,64GB,4.0,24746,0.22
+Xiaomi,Redmi Note 10,Graphite,8GB,1TB,4.4,14034,0.18
+Vivo,Vivo Y21,Midnight Black,6GB,1TB,4.0,21361,0.29
+Vivo,Vivo X60,Graphite,8GB,64GB,4.3,22522,0.29
+Apple,iPhone 12,Graphite,8GB,512GB,4.1,87737,0.04
+Samsung,Galaxy M32,Ocean Blue,6GB,1TB,4.4,122975,0.33
+Realme,Realme 7,Midnight Black,12GB,512GB,4.8,13819,0.29
+Apple,iPhone 13,Silver,8GB,256GB,3.8,160851,0.31
+Realme,Realme 7,Silver,6GB,256GB,3.6,36691,0.04
+Samsung,Galaxy A52,Phantom White,6GB,256GB,3.8,31067,0.34
+OnePlus,OnePlus 9,Midnight Black,4GB,512GB,4.6,20786,0.07
+Apple,iPhone 13 Pro Max,Alpine Green,12GB,64GB,4.8,56345,0.02
+Vivo,Vivo V21,Midnight Black,4GB,1TB,3.9,17554,0.06
+Xiaomi,Redmi Note 10,Midnight Black,6GB,256GB,4.8,31795,0.12
+Realme,Realme 7,Ocean Blue,4GB,64GB,4.7,35009,0.0
+Samsung,Galaxy A52,Ocean Blue,8GB,128GB,4.8,84402,0.0
+Vivo,Vivo V21,Ocean Blue,12GB,256GB,4.5,17066,0.15
+Apple,iPhone 12,Silver,12GB,512GB,3.9,104651,0.14
+Xiaomi,Redmi Note 10,Cosmic Purple,4GB,1TB,3.8,32674,0.25
+Realme,Realme 8,Midnight Black,8GB,512GB,3.8,19293,0.16
+Vivo,Vivo X60,Cosmic Purple,6GB,1TB,4.1,39028,0.15
+Apple,iPhone 13,Silver,6GB,64GB,4.9,173882,0.24
+OnePlus,OnePlus 9 Pro,Midnight Black,4GB,128GB,4.1,56702,0.34
+Vivo,Vivo Y21,Midnight Black,8GB,128GB,4.0,30495,0.3
+OnePlus,OnePlus 9,Ocean Blue,12GB,512GB,4.0,56136,0.21
+Vivo,Vivo V20,Silver,12GB,1TB,4.8,26877,0.18
+Samsung,Galaxy Z Fold3,Midnight Black,4GB,256GB,4.2,44254,0.22
+Samsung,Galaxy S21,Midnight Black,4GB,64GB,4.2,17506,0.34
+OnePlus,OnePlus Nord CE,Silver,6GB,256GB,4.4,24313,0.27
+Vivo,Vivo Y33s,Cosmic Purple,12GB,128GB,4.0,27315,0.17
+Xiaomi,Poco F3,Silver,4GB,64GB,4.9,16807,0.13
+Xiaomi,Poco X3,Cosmic Purple,12GB,64GB,3.6,28860,0.31
+Samsung,Galaxy Z Fold3,Rose Gold,6GB,256GB,4.5,77891,0.27
+Realme,Realme GT,Cosmic Purple,12GB,1TB,4.7,26603,0.02
+Xiaomi,Poco X3,Rose Gold,8GB,256GB,4.0,10844,0.21
+Samsung,Galaxy S22 Ultra,Silver,4GB,256GB,4.1,70118,0.12
+Xiaomi,Poco X3,Silver,4GB,128GB,3.9,29453,0.21
+Vivo,Vivo V21,Graphite,4GB,256GB,3.8,28642,0.11
+OnePlus,OnePlus 9 Pro,Rose Gold,8GB,64GB,4.5,56534,0.01
+Xiaomi,Poco X3,Rose Gold,8GB,1TB,3.7,41005,0.04
+Vivo,Vivo Y21,Silver,12GB,1TB,4.7,32868,0.12
+Realme,Realme 8 Pro,Silver,12GB,128GB,4.2,37765,0.34
+Apple,iPhone 13 Pro,Ocean Blue,8GB,256GB,3.7,150389,0.28
+Realme,Realme 8,Midnight Black,8GB,256GB,3.7,36253,0.19
+OnePlus,OnePlus 9R,Silver,4GB,256GB,4.3,37654,0.15
+Realme,Realme 8 Pro,Ocean Blue,12GB,512GB,3.9,26887,0.16
+Realme,Realme Narzo 30,Alpine Green,6GB,1TB,4.2,31653,0.34
+Vivo,Vivo V20,Graphite,12GB,1TB,4.5,12962,0.18
+Xiaomi,Poco X3,Phantom White,6GB,128GB,4.6,28678,0.3
+OnePlus,OnePlus Nord 2,Midnight Black,6GB,512GB,3.9,36811,0.23
+Xiaomi,Redmi 10,Ocean Blue,12GB,128GB,3.7,21577,0.01
+Xiaomi,Poco X3,Cosmic Purple,12GB,512GB,4.4,11425,0.07
+Xiaomi,Redmi Note 11,Alpine Green,8GB,256GB,4.5,20533,0.23
+Apple,iPhone 13 Pro Max,Cosmic Purple,4GB,64GB,4.7,67001,0.11
+Xiaomi,Redmi Note 10,Rose Gold,8GB,64GB,4.1,18211,0.08
+Realme,Realme 7,Midnight Black,8GB,512GB,4.7,17801,0.21
+Xiaomi,Mi 11X,Rose Gold,6GB,512GB,3.9,16000,0.06
+Xiaomi,Poco X3,Rose Gold,8GB,1TB,3.7,43961,0.13
+Apple,iPhone 12 Pro Max,Rose Gold,12GB,128GB,4.9,82987,0.13
+Vivo,Vivo X60,Graphite,4GB,1TB,3.6,35230,0.23
+Apple,iPhone 13 Pro Max,Ocean Blue,8GB,1TB,4.1,140120,0.32
+Vivo,Vivo V21,Ocean Blue,12GB,512GB,3.6,23877,0.32
+Xiaomi,Mi 11X,Midnight Black,6GB,256GB,3.9,19500,0.32
+Vivo,Vivo X60,Rose Gold,4GB,256GB,4.7,37974,0.27
+OnePlus,OnePlus 9 Pro,Rose Gold,8GB,512GB,4.7,24579,0.29
+Vivo,Vivo X60,Midnight Black,8GB,512GB,4.4,37654,0.19
+Xiaomi,Poco X3,Alpine Green,4GB,128GB,4.4,17918,0.0
+Samsung,Galaxy A52,Graphite,8GB,1TB,3.7,34686,0.09
+Vivo,Vivo Y21,Rose Gold,8GB,512GB,4.2,35090,0.05
+Samsung,Galaxy A52,Silver,8GB,128GB,3.7,62182,0.06
+OnePlus,OnePlus Nord CE,Ocean Blue,4GB,64GB,4.8,60408,0.21
+Samsung,Galaxy S21,Cosmic Purple,6GB,256GB,4.5,36119,0.02
+Realme,Realme GT,Graphite,6GB,64GB,4.8,15574,0.33
+Apple,iPhone 11,Rose Gold,12GB,512GB,3.8,98253,0.07
+Xiaomi,Mi 11X,Cosmic Purple,12GB,128GB,4.2,22540,0.21
+Xiaomi,Redmi 10,Ocean Blue,12GB,128GB,4.1,18564,0.01
+Xiaomi,Redmi Note 11,Cosmic Purple,6GB,256GB,4.4,39026,0.03
+OnePlus,OnePlus 9R,Silver,12GB,128GB,4.5,45740,0.26
+Xiaomi,Redmi Note 10,Midnight Black,4GB,64GB,4.0,24390,0.16
+Xiaomi,Poco F3,Alpine Green,4GB,256GB,4.3,33965,0.11
+OnePlus,OnePlus Nord 2,Phantom White,4GB,1TB,3.8,29132,0.18
+Xiaomi,Poco X3,Phantom White,4GB,256GB,4.5,37372,0.05
+Apple,iPhone 12 Pro Max,Alpine Green,6GB,512GB,4.7,118662,0.26
+OnePlus,OnePlus Nord 2,Graphite,8GB,1TB,4.0,28812,0.11
+OnePlus,OnePlus 9R,Cosmic Purple,4GB,128GB,3.8,33064,0.06
+OnePlus,OnePlus Nord 2,Phantom White,12GB,512GB,3.8,50434,0.01
+Xiaomi,Redmi 10,Cosmic Purple,12GB,512GB,3.7,18702,0.04
+Apple,iPhone 12,Graphite,6GB,128GB,4.6,116510,0.2
+Vivo,Vivo Y33s,Ocean Blue,4GB,1TB,4.6,16916,0.15
+Apple,iPhone 12,Cosmic Purple,4GB,256GB,3.6,76979,0.14
+Realme,Realme 8,Silver,6GB,64GB,3.7,37220,0.25
+OnePlus,OnePlus 9 Pro,Graphite,4GB,256GB,4.9,61002,0.22
+OnePlus,OnePlus Nord 2,Phantom White,6GB,64GB,4.6,36543,0.11
+Apple,iPhone 13 Pro Max,Midnight Black,12GB,64GB,4.1,91664,0.08
+OnePlus,OnePlus 9,Alpine Green,6GB,128GB,4.1,44371,0.1
+Vivo,Vivo Y21,Midnight Black,8GB,512GB,4.6,35113,0.28
+Xiaomi,Redmi 10,Phantom White,8GB,64GB,4.7,42597,0.07
+OnePlus,OnePlus 9 Pro,Cosmic Purple,8GB,1TB,4.4,23912,0.26
+Xiaomi,Poco F3,Phantom White,12GB,512GB,3.7,42642,0.12
+OnePlus,OnePlus 9R,Phantom White,12GB,1TB,4.4,52385,0.03
+OnePlus,OnePlus 9 Pro,Midnight Black,12GB,256GB,3.8,26374,0.24
+Xiaomi,Redmi Note 11,Rose Gold,8GB,1TB,3.7,14015,0.32
+Realme,Realme 8,Rose Gold,12GB,64GB,4.2,33603,0.2
+Xiaomi,Mi 11X,Graphite,4GB,1TB,3.6,39335,0.06
+Samsung,Galaxy Z Fold3,Alpine Green,4GB,512GB,4.7,53013,0.11
+Vivo,Vivo V20,Cosmic Purple,8GB,256GB,4.9,39552,0.28
+Samsung,Galaxy S22,Midnight Black,8GB,64GB,4.2,16348,0.0
+Apple,iPhone 11,Phantom White,12GB,512GB,4.5,172591,0.11
+Realme,Realme 8 Pro,Rose Gold,8GB,64GB,3.8,10454,0.07
+Apple,iPhone 13 Pro Max,Ocean Blue,4GB,128GB,4.2,83051,0.23
+OnePlus,OnePlus Nord CE,Ocean Blue,4GB,256GB,4.6,27710,0.17
+Apple,iPhone 11,Phantom White,6GB,512GB,4.9,168598,0.01
+OnePlus,OnePlus Nord CE,Ocean Blue,6GB,256GB,4.3,43672,0.02
+Apple,iPhone 11,Rose Gold,12GB,512GB,4.6,121224,0.01
+OnePlus,OnePlus 9 Pro,Cosmic Purple,6GB,64GB,4.3,45656,0.2
+Realme,Realme 8,Graphite,12GB,512GB,3.8,30404,0.33
+Xiaomi,Poco X3,Rose Gold,4GB,128GB,4.0,21596,0.16
+OnePlus,OnePlus 9R,Ocean Blue,8GB,1TB,4.7,61054,0.16
+Xiaomi,Redmi 10,Rose Gold,12GB,256GB,4.6,19618,0.22
+Xiaomi,Redmi 10,Midnight Black,12GB,128GB,3.8,19244,0.21
+Apple,iPhone 13,Cosmic Purple,8GB,128GB,3.9,57333,0.35
+Xiaomi,Mi 11X,Silver,6GB,128GB,4.7,41995,0.01
+Apple,iPhone 12 Pro Max,Rose Gold,4GB,1TB,3.9,103745,0.17
+Xiaomi,Mi 11X,Alpine Green,8GB,128GB,4.7,42776,0.21
+Apple,iPhone 13 Pro Max,Alpine Green,12GB,512GB,4.9,74079,0.34
+Realme,Realme 7,Midnight Black,4GB,1TB,3.7,30641,0.04
+Samsung,Galaxy S22 Ultra,Phantom White,8GB,512GB,4.6,79325,0.26
+Apple,iPhone 12,Silver,8GB,128GB,3.8,97924,0.15
+OnePlus,OnePlus 9,Ocean Blue,12GB,256GB,4.0,29223,0.03
+Xiaomi,Redmi 10,Rose Gold,8GB,128GB,3.8,43711,0.15
+Samsung,Galaxy S22,Rose Gold,12GB,512GB,4.8,138759,0.3
+Vivo,Vivo X60,Alpine Green,12GB,128GB,4.6,34515,0.28
+Apple,iPhone 11,Silver,8GB,512GB,4.9,88076,0.15
+OnePlus,OnePlus 9,Phantom White,4GB,1TB,4.9,45479,0.14
+Vivo,Vivo Y33s,Graphite,8GB,256GB,3.6,20167,0.32
+Realme,Realme Narzo 30,Rose Gold,12GB,128GB,4.8,30459,0.28
+Vivo,Vivo V20,Silver,12GB,128GB,4.7,13761,0.01
+Xiaomi,Poco X3,Phantom White,8GB,128GB,3.7,29463,0.18
+Vivo,Vivo Y21,Alpine Green,4GB,1TB,4.4,18908,0.29
+Xiaomi,Redmi 10,Rose Gold,4GB,64GB,4.7,26023,0.22
+Xiaomi,Redmi Note 10,Alpine Green,4GB,512GB,4.0,9341,0.16
+Samsung,Galaxy A52,Ocean Blue,8GB,256GB,4.0,116863,0.29
+Realme,Realme Narzo 30,Rose Gold,6GB,64GB,4.0,29083,0.07
+Xiaomi,Poco X3,Midnight Black,6GB,512GB,4.7,14370,0.03
+OnePlus,OnePlus 9R,Cosmic Purple,6GB,512GB,3.7,52488,0.14
+Realme,Realme 7,Rose Gold,8GB,1TB,4.2,23874,0.35
+Vivo,Vivo V20,Rose Gold,6GB,128GB,4.3,26884,0.25
+Samsung,Galaxy A52,Midnight Black,6GB,512GB,4.2,111844,0.05
+Realme,Realme 8 Pro,Midnight Black,12GB,64GB,3.8,28735,0.1
+Realme,Realme Narzo 30,Midnight Black,8GB,256GB,4.9,19937,0.1
+Apple,iPhone 12,Phantom White,12GB,64GB,4.8,124996,0.31
+Samsung,Galaxy S22,Cosmic Purple,4GB,64GB,4.3,22855,0.3
+OnePlus,OnePlus 9 Pro,Graphite,12GB,256GB,4.6,49144,0.29
+Realme,Realme Narzo 30,Phantom White,12GB,512GB,4.5,14881,0.3
+Xiaomi,Redmi Note 10,Rose Gold,12GB,128GB,4.8,31216,0.19
+Vivo,Vivo V20,Graphite,4GB,128GB,4.5,29743,0.22
+Vivo,Vivo X60,Midnight Black,4GB,128GB,4.8,28754,0.2
+Apple,iPhone 13 Pro,Ocean Blue,12GB,1TB,4.8,76531,0.23
+Realme,Realme Narzo 30,Alpine Green,8GB,128GB,3.9,33121,0.29
+Realme,Realme GT,Midnight Black,8GB,512GB,4.4,26104,0.3
+Apple,iPhone 12 Pro Max,Rose Gold,6GB,512GB,3.6,128199,0.13
+Apple,iPhone 11,Midnight Black,6GB,256GB,3.8,111992,0.27
+Samsung,Galaxy S22 Ultra,Rose Gold,6GB,64GB,4.4,56636,0.06
+Vivo,Vivo V21,Graphite,12GB,64GB,4.0,24527,0.31
+Xiaomi,Poco X3,Midnight Black,4GB,128GB,3.9,24498,0.17
+Realme,Realme GT,Midnight Black,8GB,64GB,4.0,28124,0.14
+OnePlus,OnePlus 9,Rose Gold,6GB,64GB,3.9,56415,0.24
+Samsung,Galaxy M32,Phantom White,8GB,1TB,4.1,24998,0.3
+Realme,Realme Narzo 30,Phantom White,8GB,1TB,4.9,35625,0.09
+OnePlus,OnePlus Nord CE,Cosmic Purple,4GB,64GB,4.7,58680,0.1
+Samsung,Galaxy S21,Alpine Green,12GB,256GB,4.4,124033,0.24
+Xiaomi,Redmi 10,Ocean Blue,8GB,64GB,3.8,44002,0.2
+Xiaomi,Redmi Note 10,Rose Gold,4GB,128GB,4.5,27314,0.31
+Samsung,Galaxy M32,Silver,8GB,256GB,4.9,106766,0.16
+Samsung,Galaxy A52,Silver,8GB,128GB,4.2,92579,0.11
+Vivo,Vivo Y21,Alpine Green,12GB,64GB,4.8,33043,0.06
+Realme,Realme GT,Rose Gold,4GB,64GB,4.3,37265,0.29
+OnePlus,OnePlus 9,Silver,12GB,1TB,4.1,29612,0.29
+Vivo,Vivo V21,Midnight Black,12GB,256GB,4.8,25567,0.0
+Vivo,Vivo V21,Graphite,8GB,128GB,3.7,31101,0.22
+Vivo,Vivo Y21,Ocean Blue,12GB,256GB,3.6,27149,0.32
+Vivo,Vivo Y33s,Ocean Blue,4GB,128GB,4.9,31920,0.14
+Xiaomi,Poco F3,Cosmic Purple,6GB,1TB,3.9,20503,0.02
+Samsung,Galaxy A52,Midnight Black,6GB,256GB,4.8,126129,0.08
+Realme,Realme 8 Pro,Ocean Blue,4GB,1TB,4.4,32304,0.2
+OnePlus,OnePlus 9,Rose Gold,4GB,256GB,4.2,44665,0.1
+Vivo,Vivo Y33s,Cosmic Purple,12GB,256GB,4.3,12424,0.31
+Samsung,Galaxy S21,Graphite,12GB,1TB,4.2,14676,0.14
+Xiaomi,Redmi Note 10,Alpine Green,6GB,512GB,4.8,25382,0.07
+Xiaomi,Mi 11X,Midnight Black,4GB,64GB,4.2,10574,0.21
+Vivo,Vivo X60,Graphite,6GB,64GB,4.2,22167,0.29
+Xiaomi,Poco F3,Ocean Blue,4GB,1TB,4.4,15269,0.22
+Realme,Realme 8,Midnight Black,4GB,64GB,4.1,37777,0.24
+Samsung,Galaxy S21,Cosmic Purple,4GB,256GB,4.4,70602,0.02
+Vivo,Vivo V21,Alpine Green,8GB,512GB,4.1,31227,0.26
+Samsung,Galaxy M32,Alpine Green,12GB,512GB,4.2,70112,0.31
+Realme,Realme 8,Silver,4GB,512GB,4.3,29261,0.07
+Apple,iPhone 11,Midnight Black,6GB,1TB,3.8,178404,0.09
+OnePlus,OnePlus 9 Pro,Cosmic Purple,6GB,128GB,3.8,20888,0.02
+Xiaomi,Poco F3,Rose Gold,8GB,256GB,4.4,44464,0.27
+Samsung,Galaxy Z Fold3,Graphite,8GB,256GB,4.1,15059,0.18
+Vivo,Vivo Y21,Alpine Green,6GB,1TB,4.7,29332,0.3
+OnePlus,OnePlus Nord 2,Ocean Blue,6GB,128GB,4.6,40383,0.07
+OnePlus,OnePlus 9 Pro,Silver,8GB,1TB,4.0,39536,0.06
+OnePlus,OnePlus 9,Cosmic Purple,6GB,64GB,4.4,33091,0.16
+Samsung,Galaxy S22,Cosmic Purple,8GB,512GB,3.9,38149,0.29
+Apple,iPhone 12 Pro Max,Alpine Green,4GB,256GB,3.6,75196,0.05
+OnePlus,OnePlus 9R,Silver,4GB,64GB,3.9,36618,0.06
+Xiaomi,Redmi 10,Phantom White,8GB,1TB,3.9,21844,0.01
+Xiaomi,Redmi Note 10,Alpine Green,6GB,512GB,4.5,16272,0.12
+Samsung,Galaxy S22 Ultra,Cosmic Purple,6GB,256GB,4.7,100626,0.06
+Realme,Realme 7,Rose Gold,4GB,64GB,3.8,14285,0.28
+Samsung,Galaxy M32,Rose Gold,8GB,256GB,4.4,97380,0.09
+Apple,iPhone 13 Pro,Ocean Blue,8GB,128GB,4.0,58961,0.22
+Xiaomi,Redmi Note 11,Cosmic Purple,6GB,64GB,4.6,13251,0.06
+OnePlus,OnePlus Nord CE,Silver,12GB,1TB,4.2,39091,0.25
+Realme,Realme GT,Cosmic Purple,12GB,256GB,4.4,30909,0.32
+Realme,Realme 8,Ocean Blue,6GB,128GB,4.2,17680,0.14
+Xiaomi,Poco X3,Rose Gold,6GB,256GB,3.9,14554,0.05
+Apple,iPhone 12 Pro Max,Cosmic Purple,8GB,128GB,4.4,166963,0.18
+Xiaomi,Poco X3,Cosmic Purple,12GB,512GB,4.1,41606,0.11
+OnePlus,OnePlus 9,Phantom White,12GB,128GB,3.9,22973,0.13
+Apple,iPhone 12 Pro Max,Midnight Black,8GB,128GB,3.7,63703,0.13
+Realme,Realme Narzo 30,Silver,6GB,256GB,3.9,34419,0.29
+Vivo,Vivo X60,Ocean Blue,6GB,1TB,4.8,11279,0.27
+Xiaomi,Mi 11X,Rose Gold,12GB,1TB,4.6,9779,0.17
+Realme,Realme Narzo 30,Rose Gold,6GB,128GB,4.5,16877,0.17
+Realme,Realme 7,Cosmic Purple,12GB,256GB,4.6,20258,0.3
+OnePlus,OnePlus 9 Pro,Ocean Blue,12GB,512GB,4.7,19972,0.13
+Realme,Realme Narzo 30,Graphite,4GB,512GB,4.7,37338,0.12
+Samsung,Galaxy Z Fold3,Rose Gold,12GB,1TB,4.0,90933,0.01
+Apple,iPhone 12,Phantom White,8GB,1TB,4.4,147468,0.34
+Samsung,Galaxy Z Fold3,Midnight Black,12GB,128GB,4.2,57101,0.2
+OnePlus,OnePlus Nord 2,Midnight Black,6GB,64GB,4.5,29641,0.01
+Vivo,Vivo Y33s,Cosmic Purple,4GB,128GB,3.9,23644,0.1
+Samsung,Galaxy S22 Ultra,Midnight Black,12GB,64GB,4.1,15447,0.06
+OnePlus,OnePlus 9 Pro,Phantom White,4GB,128GB,4.3,49342,0.26
+OnePlus,OnePlus 9R,Phantom White,6GB,256GB,4.2,61567,0.17
+Realme,Realme 7,Graphite,6GB,1TB,4.5,25039,0.1
+Apple,iPhone 12,Cosmic Purple,4GB,512GB,4.4,109707,0.18
+Realme,Realme GT,Cosmic Purple,12GB,1TB,3.7,12985,0.1
+OnePlus,OnePlus Nord 2,Graphite,12GB,1TB,4.7,29477,0.15
+Samsung,Galaxy M32,Rose Gold,12GB,512GB,4.8,38044,0.24
+Apple,iPhone 13,Alpine Green,6GB,128GB,4.0,121517,0.23
+Apple,iPhone 13 Pro Max,Ocean Blue,12GB,512GB,4.9,76779,0.35
+Apple,iPhone 11,Silver,12GB,512GB,3.8,99361,0.18
+OnePlus,OnePlus 9,Midnight Black,12GB,512GB,4.0,44171,0.3
+OnePlus,OnePlus 9,Alpine Green,8GB,64GB,4.5,26944,0.11
+Vivo,Vivo V20,Cosmic Purple,12GB,64GB,3.7,32529,0.08
+OnePlus,OnePlus 9R,Cosmic Purple,8GB,128GB,3.8,19183,0.21
+Samsung,Galaxy S22 Ultra,Midnight Black,12GB,128GB,3.7,114085,0.0
+Xiaomi,Redmi Note 11,Cosmic Purple,8GB,128GB,3.9,11257,0.31
+Realme,Realme Narzo 30,Cosmic Purple,4GB,1TB,4.4,33475,0.23
+Apple,iPhone 13,Graphite,12GB,64GB,4.4,57757,0.27
+Samsung,Galaxy S22,Silver,6GB,128GB,3.7,69270,0.01
+Apple,iPhone 12 Pro Max,Ocean Blue,4GB,128GB,4.8,70323,0.28
+Vivo,Vivo Y21,Phantom White,4GB,512GB,4.3,37726,0.11
+Realme,Realme Narzo 30,Ocean Blue,12GB,512GB,3.8,17005,0.04
+Xiaomi,Redmi Note 11,Alpine Green,12GB,256GB,3.6,22943,0.16
+Apple,iPhone 13 Pro Max,Graphite,8GB,64GB,3.7,102294,0.14
+Realme,Realme GT,Midnight Black,6GB,256GB,4.8,29656,0.11
+Vivo,Vivo V20,Phantom White,8GB,128GB,4.4,39965,0.24
+Vivo,Vivo V20,Midnight Black,8GB,64GB,4.4,30170,0.16
+Realme,Realme Narzo 30,Alpine Green,6GB,64GB,4.4,14065,0.11
+Vivo,Vivo V20,Ocean Blue,4GB,64GB,3.8,27342,0.1
+Samsung,Galaxy Z Fold3,Ocean Blue,4GB,128GB,4.8,92390,0.35
+OnePlus,OnePlus Nord 2,Phantom White,8GB,256GB,4.4,20595,0.18
+OnePlus,OnePlus Nord 2,Alpine Green,6GB,256GB,4.0,31488,0.19
+Vivo,Vivo Y21,Ocean Blue,12GB,1TB,4.0,25495,0.22
+Apple,iPhone 13,Midnight Black,6GB,64GB,4.4,82101,0.33
+Samsung,Galaxy S21,Phantom White,6GB,128GB,4.3,69868,0.25
+Xiaomi,Redmi Note 11,Ocean Blue,6GB,512GB,3.8,25316,0.11
+Realme,Realme GT,Ocean Blue,8GB,512GB,3.7,21782,0.14
+Samsung,Galaxy Z Fold3,Cosmic Purple,12GB,1TB,4.4,70810,0.27
+OnePlus,OnePlus 9,Rose Gold,12GB,64GB,4.6,37675,0.21
+Samsung,Galaxy M32,Phantom White,8GB,512GB,4.2,73454,0.1
+Realme,Realme 7,Cosmic Purple,4GB,256GB,3.8,25376,0.07
+Samsung,Galaxy S21,Alpine Green,8GB,512GB,4.1,68502,0.33
+Vivo,Vivo X60,Rose Gold,12GB,256GB,4.4,30277,0.02
+Apple,iPhone 11,Rose Gold,6GB,128GB,4.6,111914,0.27
+Vivo,Vivo X60,Cosmic Purple,8GB,64GB,4.4,24894,0.26
+Samsung,Galaxy Z Fold3,Alpine Green,8GB,64GB,4.5,98585,0.05
+Realme,Realme GT,Phantom White,8GB,128GB,4.4,31712,0.29
+Apple,iPhone 11,Midnight Black,12GB,512GB,4.5,66062,0.18
+Samsung,Galaxy Z Fold3,Phantom White,12GB,256GB,4.5,79620,0.34
+Vivo,Vivo V20,Graphite,12GB,64GB,3.7,29763,0.27
+Xiaomi,Redmi Note 11,Graphite,6GB,512GB,4.5,9420,0.35
+OnePlus,OnePlus 9,Midnight Black,4GB,512GB,4.3,60894,0.1
+OnePlus,OnePlus 9R,Phantom White,8GB,128GB,4.5,30977,0.17
+Realme,Realme 8,Cosmic Purple,6GB,128GB,3.9,34573,0.06
+Samsung,Galaxy S22 Ultra,Rose Gold,12GB,1TB,3.7,97418,0.06
+Xiaomi,Redmi Note 10,Rose Gold,4GB,256GB,3.7,10944,0.2
+OnePlus,OnePlus 9 Pro,Midnight Black,4GB,64GB,3.9,18473,0.23
+Apple,iPhone 11,Ocean Blue,4GB,512GB,4.4,114687,0.33
+OnePlus,OnePlus Nord 2,Rose Gold,8GB,256GB,4.5,40483,0.35
+Samsung,Galaxy S22 Ultra,Rose Gold,12GB,1TB,3.7,60665,0.31
+Apple,iPhone 11,Cosmic Purple,12GB,128GB,3.6,77216,0.3
+Xiaomi,Redmi 10,Ocean Blue,8GB,512GB,4.4,40142,0.18
+Vivo,Vivo Y21,Alpine Green,8GB,64GB,4.4,39620,0.02
+Vivo,Vivo X60,Cosmic Purple,6GB,1TB,4.2,35222,0.21
+Apple,iPhone 12 Pro Max,Rose Gold,12GB,64GB,4.6,122034,0.21
+Vivo,Vivo Y21,Alpine Green,6GB,512GB,4.6,20874,0.29
+Realme,Realme GT,Phantom White,12GB,64GB,4.2,27716,0.08
+Samsung,Galaxy S22,Midnight Black,4GB,512GB,4.9,17830,0.06
+Xiaomi,Poco X3,Graphite,6GB,256GB,4.5,17067,0.23
+Realme,Realme GT,Midnight Black,8GB,128GB,4.8,35111,0.32
+Apple,iPhone 13 Pro Max,Silver,12GB,512GB,4.5,159547,0.28
+Samsung,Galaxy S22 Ultra,Midnight Black,8GB,64GB,3.7,58595,0.26
+Samsung,Galaxy A52,Midnight Black,8GB,128GB,4.7,139051,0.13
+Vivo,Vivo V21,Graphite,4GB,1TB,4.3,38758,0.14
+OnePlus,OnePlus Nord 2,Silver,6GB,1TB,4.5,56717,0.08
+OnePlus,OnePlus 9,Cosmic Purple,8GB,128GB,4.7,37452,0.29
+OnePlus,OnePlus 9 Pro,Phantom White,8GB,128GB,4.6,20250,0.21
+Xiaomi,Poco F3,Midnight Black,8GB,1TB,4.2,23136,0.17
+Vivo,Vivo V20,Alpine Green,8GB,128GB,4.7,17901,0.3
+Samsung,Galaxy A52,Alpine Green,6GB,512GB,4.5,53203,0.34
+Vivo,Vivo Y21,Alpine Green,12GB,256GB,4.1,26513,0.35
+OnePlus,OnePlus 9 Pro,Midnight Black,8GB,256GB,4.5,30785,0.25
+Realme,Realme GT,Midnight Black,6GB,256GB,4.6,29018,0.3
+Apple,iPhone 13 Pro Max,Graphite,12GB,128GB,4.4,160837,0.24
+Xiaomi,Redmi Note 11,Ocean Blue,6GB,128GB,4.6,9598,0.13
+Realme,Realme 8,Phantom White,12GB,512GB,4.5,15512,0.32
+Apple,iPhone 12 Pro Max,Cosmic Purple,6GB,64GB,3.8,133732,0.21
+Samsung,Galaxy A52,Rose Gold,6GB,64GB,3.8,65989,0.17
+Vivo,Vivo Y33s,Phantom White,12GB,64GB,4.6,39340,0.29
+OnePlus,OnePlus Nord 2,Cosmic Purple,8GB,64GB,3.8,23415,0.04
+Vivo,Vivo Y33s,Ocean Blue,4GB,1TB,4.3,29763,0.17
+Vivo,Vivo V21,Phantom White,12GB,512GB,4.9,34027,0.15
+Realme,Realme Narzo 30,Midnight Black,8GB,64GB,4.5,36057,0.19
+OnePlus,OnePlus 9,Rose Gold,12GB,64GB,4.3,56320,0.19
+Vivo,Vivo V21,Ocean Blue,4GB,128GB,4.7,33780,0.06
+Realme,Realme GT,Silver,4GB,64GB,3.8,16757,0.23
+Apple,iPhone 13 Pro,Graphite,4GB,64GB,4.9,177683,0.1
+Realme,Realme Narzo 30,Rose Gold,4GB,128GB,4.0,27021,0.32
+Xiaomi,Redmi 10,Cosmic Purple,6GB,1TB,4.2,29508,0.18
+Xiaomi,Poco F3,Ocean Blue,4GB,64GB,3.9,21325,0.05
+Samsung,Galaxy S22,Ocean Blue,8GB,256GB,3.8,95567,0.15
+Realme,Realme 8 Pro,Graphite,12GB,128GB,4.1,12728,0.33
+Vivo,Vivo V20,Phantom White,6GB,64GB,4.4,19827,0.35
+Vivo,Vivo Y21,Silver,6GB,512GB,4.7,21366,0.35
+OnePlus,OnePlus 9 Pro,Alpine Green,6GB,64GB,4.0,52830,0.04
+Realme,Realme GT,Midnight Black,8GB,64GB,4.1,20928,0.27
+Samsung,Galaxy S22,Graphite,4GB,64GB,4.1,43127,0.13
+Apple,iPhone 11,Phantom White,8GB,1TB,4.7,173350,0.03
+Xiaomi,Redmi 10,Graphite,8GB,1TB,3.7,12143,0.06
+OnePlus,OnePlus 9R,Silver,12GB,512GB,4.4,34977,0.0
+Realme,Realme Narzo 30,Phantom White,6GB,512GB,4.3,18761,0.02
+Vivo,Vivo X60,Ocean Blue,12GB,512GB,3.8,22599,0.28
+Realme,Realme 8 Pro,Graphite,12GB,1TB,4.8,36673,0.08
+Vivo,Vivo V21,Graphite,12GB,256GB,4.7,31797,0.03
+Vivo,Vivo Y21,Midnight Black,6GB,1TB,3.7,35360,0.1
+OnePlus,OnePlus 9,Rose Gold,6GB,512GB,4.2,52891,0.24
+OnePlus,OnePlus 9,Ocean Blue,4GB,512GB,4.5,40613,0.09
+Vivo,Vivo Y33s,Alpine Green,12GB,128GB,4.5,39899,0.27
+Samsung,Galaxy S22,Midnight Black,8GB,128GB,4.3,138843,0.02
+OnePlus,OnePlus 9 Pro,Phantom White,8GB,64GB,4.0,34368,0.29
+Apple,iPhone 12 Pro Max,Graphite,12GB,256GB,3.9,45585,0.26
+Realme,Realme GT,Ocean Blue,8GB,1TB,4.7,11160,0.33
+Realme,Realme GT,Alpine Green,8GB,64GB,4.4,20765,0.1
+Apple,iPhone 11,Silver,6GB,512GB,4.1,71565,0.15
+Samsung,Galaxy S21,Phantom White,12GB,64GB,4.8,14905,0.05
+Vivo,Vivo X60,Ocean Blue,12GB,512GB,4.1,22943,0.15
+Samsung,Galaxy M32,Graphite,4GB,512GB,4.5,71587,0.06
+Xiaomi,Redmi 10,Rose Gold,4GB,256GB,4.7,22006,0.04
+Xiaomi,Redmi Note 10,Phantom White,12GB,512GB,4.6,11071,0.06
+Samsung,Galaxy Z Fold3,Graphite,4GB,512GB,4.2,78955,0.28
+Vivo,Vivo Y21,Silver,12GB,1TB,4.5,35310,0.3
+OnePlus,OnePlus 9R,Midnight Black,4GB,64GB,3.8,40552,0.18
+Vivo,Vivo Y21,Alpine Green,8GB,512GB,4.9,35164,0.0
+OnePlus,OnePlus Nord 2,Graphite,12GB,64GB,4.6,34236,0.22
+Vivo,Vivo Y33s,Phantom White,6GB,256GB,4.6,39317,0.09
+Vivo,Vivo Y21,Rose Gold,6GB,512GB,4.5,37540,0.04
+Vivo,Vivo Y33s,Phantom White,6GB,1TB,4.4,15873,0.08
+Samsung,Galaxy Z Fold3,Alpine Green,8GB,128GB,4.8,69876,0.01
+Samsung,Galaxy S21,Alpine Green,12GB,512GB,4.3,105771,0.22
+Samsung,Galaxy S22,Silver,12GB,512GB,3.7,69977,0.23
+Xiaomi,Redmi Note 10,Graphite,8GB,256GB,4.8,36398,0.09
+Apple,iPhone 12,Alpine Green,4GB,64GB,4.5,129315,0.07
+OnePlus,OnePlus Nord 2,Midnight Black,12GB,128GB,3.9,50196,0.13
+Xiaomi,Redmi Note 10,Midnight Black,4GB,1TB,4.6,17539,0.12
+Vivo,Vivo X60,Silver,6GB,256GB,3.9,23584,0.03
+Apple,iPhone 12,Midnight Black,4GB,1TB,4.9,94921,0.07
+OnePlus,OnePlus 9,Midnight Black,8GB,256GB,4.5,31238,0.19
+Samsung,Galaxy S21,Phantom White,6GB,512GB,4.3,47099,0.31
+Realme,Realme 8 Pro,Silver,12GB,64GB,4.8,12218,0.17
+Realme,Realme 7,Alpine Green,6GB,1TB,4.0,14224,0.1
+Realme,Realme 8,Ocean Blue,12GB,512GB,4.5,26825,0.34
+Samsung,Galaxy Z Fold3,Rose Gold,12GB,512GB,4.4,41122,0.06
+Samsung,Galaxy M32,Ocean Blue,4GB,1TB,4.2,106766,0.25
+Xiaomi,Mi 11X,Ocean Blue,8GB,256GB,4.3,20213,0.08
+Realme,Realme Narzo 30,Graphite,4GB,128GB,4.8,19101,0.32
+Xiaomi,Redmi Note 10,Ocean Blue,6GB,1TB,3.8,31771,0.22
+Xiaomi,Mi 11X,Midnight Black,8GB,128GB,4.1,28326,0.11
+Apple,iPhone 13 Pro Max,Alpine Green,8GB,128GB,4.5,118319,0.06
+Apple,iPhone 13 Pro,Midnight Black,12GB,256GB,4.7,99043,0.29
+Samsung,Galaxy S22 Ultra,Graphite,6GB,1TB,4.4,126488,0.26
+Samsung,Galaxy Z Fold3,Ocean Blue,12GB,256GB,3.8,76784,0.03
+Samsung,Galaxy Z Fold3,Phantom White,6GB,128GB,4.3,137647,0.26
+Vivo,Vivo X60,Alpine Green,8GB,128GB,4.8,37787,0.14
+Realme,Realme Narzo 30,Midnight Black,6GB,64GB,4.2,24910,0.32
+OnePlus,OnePlus 9,Phantom White,4GB,1TB,3.7,43165,0.01
+Apple,iPhone 13 Pro Max,Alpine Green,6GB,128GB,4.6,115164,0.05
+Vivo,Vivo Y33s,Alpine Green,4GB,64GB,4.3,37812,0.12
+Vivo,Vivo V21,Ocean Blue,6GB,512GB,4.6,25559,0.29
+Xiaomi,Mi 11X,Cosmic Purple,6GB,128GB,3.7,26528,0.22
+Apple,iPhone 11,Alpine Green,4GB,1TB,4.0,179097,0.31
+OnePlus,OnePlus 9R,Alpine Green,6GB,64GB,3.9,43256,0.05
+Vivo,Vivo X60,Ocean Blue,12GB,64GB,4.2,14608,0.08
+Xiaomi,Mi 11X,Midnight Black,8GB,64GB,4.1,14557,0.31
+Realme,Realme Narzo 30,Phantom White,12GB,1TB,4.0,15942,0.24
+Samsung,Galaxy A52,Graphite,8GB,256GB,4.7,49532,0.32
+Vivo,Vivo X60,Graphite,4GB,64GB,4.7,15870,0.27
+Samsung,Galaxy S22 Ultra,Phantom White,12GB,512GB,4.5,116963,0.34
+Apple,iPhone 11,Rose Gold,8GB,128GB,3.7,78432,0.06
+OnePlus,OnePlus Nord 2,Silver,12GB,512GB,4.2,45128,0.21
+Vivo,Vivo X60,Phantom White,6GB,512GB,4.1,27289,0.19
+OnePlus,OnePlus Nord CE,Ocean Blue,12GB,64GB,4.4,45645,0.18
+Vivo,Vivo Y21,Midnight Black,6GB,256GB,3.6,38872,0.01
+Realme,Realme GT,Phantom White,4GB,64GB,4.8,21824,0.3
+Samsung,Galaxy S22 Ultra,Cosmic Purple,6GB,1TB,4.9,133662,0.15
+Samsung,Galaxy S22,Alpine Green,6GB,64GB,4.9,106269,0.05
+Vivo,Vivo V21,Rose Gold,8GB,64GB,4.5,32716,0.2
+OnePlus,OnePlus Nord CE,Phantom White,4GB,128GB,4.1,23176,0.09
+Apple,iPhone 13 Pro,Rose Gold,6GB,128GB,4.2,81729,0.26
+Vivo,Vivo X60,Cosmic Purple,12GB,256GB,4.2,32130,0.24
+Xiaomi,Redmi Note 10,Phantom White,4GB,64GB,4.4,20375,0.18
+Apple,iPhone 13,Rose Gold,12GB,1TB,4.5,112647,0.32
+Realme,Realme 8 Pro,Ocean Blue,12GB,128GB,4.0,13012,0.18
+Samsung,Galaxy A52,Ocean Blue,12GB,1TB,3.7,65418,0.06
+Vivo,Vivo Y33s,Midnight Black,12GB,512GB,4.0,32033,0.14
+OnePlus,OnePlus 9R,Alpine Green,8GB,512GB,3.9,25104,0.04
+Xiaomi,Poco F3,Silver,4GB,128GB,4.0,44492,0.04
+Samsung,Galaxy M32,Alpine Green,8GB,128GB,4.3,97674,0.33
+Samsung,Galaxy S22 Ultra,Midnight Black,4GB,1TB,4.9,77413,0.02
+Xiaomi,Redmi Note 10,Graphite,4GB,256GB,4.6,35092,0.18
+Xiaomi,Poco X3,Silver,6GB,64GB,4.0,42002,0.04
+Samsung,Galaxy S21,Rose Gold,12GB,1TB,4.7,18903,0.1
+Samsung,Galaxy A52,Cosmic Purple,4GB,64GB,4.8,44352,0.31
+Vivo,Vivo Y21,Phantom White,8GB,512GB,4.6,22109,0.1
+Realme,Realme GT,Alpine Green,12GB,128GB,3.9,30001,0.21
+Samsung,Galaxy M32,Cosmic Purple,4GB,64GB,3.8,128092,0.11
+Apple,iPhone 13,Midnight Black,12GB,256GB,3.8,122491,0.06
+Xiaomi,Poco F3,Silver,8GB,64GB,3.7,39195,0.09
+OnePlus,OnePlus Nord 2,Cosmic Purple,6GB,64GB,4.9,49998,0.01
+Xiaomi,Poco X3,Rose Gold,6GB,512GB,4.1,29555,0.13
+Vivo,Vivo V20,Cosmic Purple,8GB,64GB,4.4,32098,0.02
+Samsung,Galaxy A52,Alpine Green,6GB,64GB,4.0,34736,0.2
+Apple,iPhone 12,Rose Gold,12GB,64GB,4.1,167811,0.22
+OnePlus,OnePlus 9,Midnight Black,6GB,64GB,4.8,44014,0.27
+Samsung,Galaxy Z Fold3,Silver,4GB,256GB,4.0,93215,0.17
+Vivo,Vivo V20,Midnight Black,8GB,512GB,3.6,16103,0.33
+Samsung,Galaxy A52,Ocean Blue,8GB,1TB,3.6,92784,0.27
+Apple,iPhone 12 Pro Max,Rose Gold,12GB,128GB,3.7,51014,0.33
+Vivo,Vivo V20,Graphite,8GB,128GB,3.7,13269,0.1
+Apple,iPhone 12 Pro Max,Cosmic Purple,12GB,1TB,3.9,113012,0.06
+Apple,iPhone 11,Rose Gold,8GB,256GB,3.8,136560,0.33
+OnePlus,OnePlus 9 Pro,Phantom White,12GB,256GB,4.8,55376,0.14
+Apple,iPhone 13 Pro,Ocean Blue,4GB,1TB,4.4,129864,0.23
+Vivo,Vivo X60,Alpine Green,6GB,512GB,4.8,27365,0.3
+Apple,iPhone 13 Pro Max,Rose Gold,8GB,1TB,4.5,163111,0.33
+Samsung,Galaxy A52,Cosmic Purple,4GB,64GB,3.9,38596,0.15
+Realme,Realme Narzo 30,Rose Gold,6GB,256GB,3.9,16263,0.34
+Realme,Realme 8,Silver,8GB,64GB,4.0,20058,0.18
+Apple,iPhone 13 Pro Max,Cosmic Purple,12GB,512GB,4.1,137330,0.29
+OnePlus,OnePlus Nord CE,Silver,4GB,128GB,4.2,42452,0.06
+Realme,Realme Narzo 30,Rose Gold,12GB,256GB,4.7,32562,0.24
+Vivo,Vivo X60,Midnight Black,4GB,64GB,3.7,11538,0.22
+OnePlus,OnePlus 9,Cosmic Purple,4GB,512GB,4.3,20138,0.23
+OnePlus,OnePlus 9R,Ocean Blue,12GB,1TB,4.1,30816,0.3
+Apple,iPhone 12 Pro Max,Cosmic Purple,12GB,512GB,3.6,143210,0.27
+Realme,Realme 8 Pro,Graphite,8GB,256GB,4.7,36055,0.32
+Vivo,Vivo Y21,Alpine Green,12GB,64GB,3.6,16025,0.28
+Realme,Realme 7,Silver,8GB,128GB,4.8,24090,0.08
+OnePlus,OnePlus 9R,Rose Gold,4GB,1TB,4.2,59698,0.14
+Vivo,Vivo Y21,Rose Gold,8GB,1TB,3.8,18568,0.03
+Samsung,Galaxy M32,Midnight Black,12GB,256GB,4.7,34847,0.33
+Samsung,Galaxy S21,Midnight Black,4GB,512GB,3.6,114929,0.21
+Apple,iPhone 13 Pro,Midnight Black,12GB,64GB,4.6,79222,0.34
+Vivo,Vivo X60,Phantom White,6GB,128GB,4.0,28544,0.29
+Vivo,Vivo V20,Graphite,4GB,256GB,3.7,15711,0.22
+Vivo,Vivo Y33s,Midnight Black,4GB,512GB,4.8,15020,0.04
+Xiaomi,Mi 11X,Phantom White,4GB,64GB,4.2,32684,0.32
+Samsung,Galaxy Z Fold3,Midnight Black,12GB,64GB,4.1,77768,0.34
+Apple,iPhone 12,Rose Gold,12GB,256GB,4.4,163195,0.28
+Samsung,Galaxy S22 Ultra,Alpine Green,6GB,1TB,4.4,126041,0.01
+Xiaomi,Mi 11X,Cosmic Purple,4GB,128GB,4.3,25678,0.32
+Samsung,Galaxy M32,Alpine Green,4GB,1TB,4.3,33968,0.08
+Xiaomi,Redmi Note 10,Ocean Blue,4GB,256GB,3.8,14468,0.25
+Samsung,Galaxy S22 Ultra,Graphite,12GB,128GB,4.8,59685,0.25
+Vivo,Vivo X60,Cosmic Purple,12GB,512GB,4.3,24105,0.32
+Xiaomi,Redmi Note 11,Ocean Blue,8GB,512GB,3.7,29420,0.06
+Samsung,Galaxy A52,Cosmic Purple,12GB,512GB,4.2,111921,0.1
+Xiaomi,Poco F3,Midnight Black,12GB,512GB,3.9,32128,0.13
+Vivo,Vivo V21,Cosmic Purple,6GB,64GB,4.8,19292,0.21
+Xiaomi,Poco F3,Silver,12GB,64GB,3.7,30147,0.15
+Samsung,Galaxy S22 Ultra,Ocean Blue,4GB,128GB,4.5,62754,0.05
+Xiaomi,Redmi Note 10,Alpine Green,8GB,64GB,4.5,23009,0.16
+Xiaomi,Redmi Note 11,Midnight Black,12GB,256GB,4.4,43554,0.08
+Realme,Realme 8 Pro,Midnight Black,12GB,512GB,4.0,20489,0.07
+Apple,iPhone 13,Cosmic Purple,4GB,256GB,4.1,77530,0.16
+Realme,Realme 8 Pro,Rose Gold,6GB,1TB,3.6,10584,0.23
+Realme,Realme 8,Cosmic Purple,8GB,128GB,4.7,23199,0.01
+Realme,Realme 7,Alpine Green,8GB,64GB,3.7,13116,0.29
+OnePlus,OnePlus Nord 2,Graphite,8GB,256GB,4.1,54467,0.27
+OnePlus,OnePlus Nord CE,Alpine Green,12GB,256GB,4.5,47791,0.17
+Vivo,Vivo V21,Silver,4GB,64GB,3.9,38048,0.0
+Apple,iPhone 12 Pro Max,Rose Gold,6GB,128GB,3.7,141699,0.29
+Realme,Realme 8,Alpine Green,8GB,64GB,3.7,19970,0.03
+Xiaomi,Redmi 10,Rose Gold,8GB,128GB,4.8,39192,0.04
+Xiaomi,Redmi Note 11,Rose Gold,12GB,64GB,4.3,24762,0.2
+Vivo,Vivo V20,Graphite,8GB,512GB,3.9,19644,0.27
+Vivo,Vivo V21,Silver,6GB,128GB,4.5,13462,0.34
+Apple,iPhone 12,Alpine Green,6GB,512GB,4.7,94261,0.17
+Xiaomi,Redmi Note 11,Silver,8GB,512GB,4.5,42063,0.04
+Samsung,Galaxy S22,Silver,12GB,512GB,4.7,81300,0.07
+OnePlus,OnePlus 9R,Midnight Black,8GB,512GB,3.8,38129,0.33
+Realme,Realme 8,Phantom White,12GB,64GB,4.6,17882,0.01
+OnePlus,OnePlus 9R,Graphite,4GB,512GB,4.5,47664,0.12
+Apple,iPhone 13 Pro,Midnight Black,8GB,512GB,3.9,149052,0.18
+Realme,Realme 8 Pro,Alpine Green,12GB,256GB,4.1,11610,0.23
+Vivo,Vivo V20,Ocean Blue,8GB,128GB,4.1,30465,0.1
+Realme,Realme GT,Rose Gold,4GB,64GB,4.4,13639,0.08
+Apple,iPhone 11,Graphite,6GB,64GB,4.3,117210,0.08
+Realme,Realme GT,Rose Gold,12GB,64GB,3.9,37003,0.31
+Xiaomi,Poco X3,Ocean Blue,6GB,128GB,4.1,27873,0.25
+Xiaomi,Redmi 10,Alpine Green,4GB,128GB,4.3,40244,0.26
+Vivo,Vivo Y21,Phantom White,8GB,64GB,3.8,21884,0.31
+Samsung,Galaxy S21,Cosmic Purple,12GB,256GB,3.6,48581,0.31
+Samsung,Galaxy A52,Alpine Green,8GB,512GB,4.4,78003,0.31
+OnePlus,OnePlus 9,Alpine Green,4GB,1TB,4.5,37048,0.29
+Realme,Realme 7,Phantom White,6GB,64GB,3.7,36341,0.26
+OnePlus,OnePlus 9 Pro,Silver,8GB,512GB,3.9,48064,0.0
+Xiaomi,Mi 11X,Silver,12GB,64GB,4.0,43033,0.25
+Apple,iPhone 12,Rose Gold,6GB,128GB,4.1,53101,0.09
+Vivo,Vivo V20,Silver,6GB,64GB,3.9,23379,0.22
+Xiaomi,Redmi 10,Cosmic Purple,6GB,256GB,4.8,31861,0.31
+OnePlus,OnePlus Nord CE,Rose Gold,8GB,256GB,3.8,55979,0.18
+Xiaomi,Poco F3,Midnight Black,12GB,512GB,4.3,31740,0.1
+Apple,iPhone 13,Phantom White,12GB,128GB,4.3,120964,0.22
+Vivo,Vivo Y21,Graphite,12GB,256GB,3.7,20657,0.01
+Apple,iPhone 12,Graphite,4GB,64GB,4.2,46334,0.15
+Vivo,Vivo V21,Alpine Green,8GB,128GB,4.1,20282,0.27
+Realme,Realme 7,Phantom White,4GB,256GB,3.8,34020,0.07
+Realme,Realme 8,Graphite,6GB,64GB,4.2,21620,0.09
+Vivo,Vivo V20,Rose Gold,12GB,64GB,4.8,20896,0.21
+Samsung,Galaxy M32,Rose Gold,8GB,1TB,3.8,114618,0.07
+Samsung,Galaxy Z Fold3,Ocean Blue,8GB,256GB,3.7,88273,0.32
+OnePlus,OnePlus Nord CE,Phantom White,12GB,512GB,3.7,52509,0.15
+Xiaomi,Poco F3,Silver,12GB,256GB,4.2,36558,0.34
+OnePlus,OnePlus 9,Alpine Green,12GB,64GB,4.6,58318,0.32
+Samsung,Galaxy M32,Silver,6GB,1TB,4.3,88130,0.31
+Apple,iPhone 13,Phantom White,12GB,64GB,4.2,165644,0.29
+Apple,iPhone 11,Graphite,4GB,256GB,4.4,121172,0.2
+Vivo,Vivo X60,Alpine Green,4GB,1TB,4.5,35227,0.25
+Vivo,Vivo Y21,Phantom White,12GB,128GB,3.9,33140,0.22
+Samsung,Galaxy S22 Ultra,Graphite,4GB,512GB,4.4,40306,0.04
+Apple,iPhone 12,Midnight Black,4GB,128GB,3.9,169188,0.01
+Realme,Realme GT,Rose Gold,4GB,64GB,4.0,25850,0.34
+Samsung,Galaxy M32,Graphite,12GB,1TB,3.8,33168,0.22
+Samsung,Galaxy S22,Ocean Blue,6GB,1TB,4.6,85654,0.07
+OnePlus,OnePlus Nord 2,Graphite,4GB,1TB,4.2,61758,0.1
+OnePlus,OnePlus 9,Cosmic Purple,12GB,512GB,3.8,36574,0.16
+Realme,Realme GT,Alpine Green,8GB,64GB,4.4,31534,0.22
+Apple,iPhone 12 Pro Max,Phantom White,12GB,512GB,4.0,86501,0.13
+Realme,Realme Narzo 30,Silver,12GB,1TB,3.7,31493,0.05
+Vivo,Vivo Y33s,Silver,12GB,128GB,4.0,35989,0.23
+OnePlus,OnePlus 9,Cosmic Purple,12GB,512GB,4.4,29821,0.2
+Realme,Realme 7,Graphite,6GB,256GB,4.4,29029,0.12
+Realme,Realme GT,Midnight Black,4GB,64GB,4.7,15215,0.08
+Vivo,Vivo V21,Cosmic Purple,12GB,256GB,4.6,36288,0.28
+Vivo,Vivo Y21,Midnight Black,6GB,512GB,4.6,24764,0.32
+Apple,iPhone 13 Pro,Graphite,4GB,64GB,4.7,64105,0.15
+Xiaomi,Poco F3,Alpine Green,6GB,256GB,3.7,38459,0.13
+Vivo,Vivo Y33s,Ocean Blue,6GB,256GB,4.2,33244,0.1
+Samsung,Galaxy A52,Phantom White,12GB,1TB,4.7,39204,0.03
+Apple,iPhone 13 Pro Max,Midnight Black,6GB,64GB,4.7,46372,0.13
+OnePlus,OnePlus Nord CE,Midnight Black,8GB,128GB,4.5,60089,0.18
+Samsung,Galaxy S22,Cosmic Purple,8GB,256GB,4.4,87229,0.3
+Apple,iPhone 13,Rose Gold,12GB,64GB,4.3,78342,0.27
+Xiaomi,Redmi Note 10,Midnight Black,12GB,128GB,3.7,44424,0.12
+Samsung,Galaxy S22 Ultra,Graphite,12GB,256GB,3.7,128225,0.06
+Xiaomi,Redmi Note 10,Ocean Blue,8GB,512GB,4.4,44778,0.24
+Apple,iPhone 13 Pro,Cosmic Purple,8GB,64GB,3.6,155468,0.09
+Xiaomi,Redmi Note 10,Phantom White,6GB,1TB,4.7,30601,0.32
+Vivo,Vivo V21,Ocean Blue,12GB,64GB,4.6,29476,0.32
+Vivo,Vivo V21,Silver,4GB,512GB,4.4,31068,0.33
+Realme,Realme GT,Phantom White,8GB,64GB,3.7,26272,0.18
+Vivo,Vivo X60,Rose Gold,12GB,256GB,4.6,39719,0.34
+Apple,iPhone 11,Alpine Green,6GB,1TB,4.4,144454,0.24
+Vivo,Vivo V21,Cosmic Purple,4GB,512GB,4.6,33788,0.04
+Vivo,Vivo V20,Phantom White,4GB,512GB,3.8,31173,0.34
+Xiaomi,Mi 11X,Ocean Blue,8GB,512GB,4.8,24608,0.08
+Realme,Realme 8,Ocean Blue,12GB,1TB,4.3,36272,0.01
+Vivo,Vivo Y21,Alpine Green,4GB,64GB,3.8,16917,0.1
+Xiaomi,Mi 11X,Ocean Blue,8GB,128GB,4.4,40372,0.23
+Vivo,Vivo V21,Midnight Black,8GB,1TB,3.9,34109,0.26
+Xiaomi,Redmi Note 11,Cosmic Purple,8GB,256GB,4.6,28181,0.3
+Samsung,Galaxy M32,Graphite,8GB,1TB,4.3,21077,0.12
+OnePlus,OnePlus Nord CE,Cosmic Purple,8GB,64GB,3.9,26987,0.29
+Realme,Realme Narzo 30,Graphite,6GB,64GB,4.1,36751,0.28
+Apple,iPhone 12,Cosmic Purple,12GB,64GB,3.6,53848,0.09
+Realme,Realme GT,Graphite,4GB,64GB,4.0,29980,0.13
+Apple,iPhone 13,Rose Gold,12GB,64GB,3.9,144438,0.06
+OnePlus,OnePlus Nord CE,Alpine Green,8GB,64GB,4.3,40793,0.33
+Realme,Realme 8 Pro,Graphite,6GB,64GB,4.0,37172,0.22
+OnePlus,OnePlus 9,Midnight Black,12GB,256GB,4.7,53046,0.16
+Realme,Realme 7,Graphite,6GB,512GB,4.2,17806,0.05
+Apple,iPhone 12 Pro Max,Graphite,4GB,128GB,4.6,122548,0.12
+OnePlus,OnePlus 9,Graphite,8GB,256GB,4.5,60797,0.28
+Realme,Realme 8,Midnight Black,8GB,1TB,4.5,37394,0.09
+Samsung,Galaxy Z Fold3,Cosmic Purple,4GB,512GB,3.6,18850,0.34
+OnePlus,OnePlus Nord CE,Ocean Blue,12GB,64GB,4.4,23213,0.1
+Realme,Realme 7,Silver,4GB,512GB,3.8,35099,0.28
+Xiaomi,Poco X3,Phantom White,6GB,128GB,3.8,12249,0.08
+Vivo,Vivo V21,Phantom White,12GB,1TB,4.0,29134,0.25
+Apple,iPhone 13 Pro Max,Graphite,8GB,64GB,4.5,137624,0.19
+Apple,iPhone 13 Pro,Ocean Blue,8GB,64GB,3.7,161342,0.04
+Apple,iPhone 12,Ocean Blue,8GB,1TB,4.1,154043,0.02
+OnePlus,OnePlus Nord 2,Phantom White,4GB,256GB,4.4,41611,0.12
+OnePlus,OnePlus Nord 2,Cosmic Purple,8GB,1TB,3.6,42137,0.02
+Samsung,Galaxy M32,Alpine Green,4GB,1TB,3.9,55039,0.18
+Vivo,Vivo Y33s,Silver,6GB,512GB,4.7,12068,0.23
+Samsung,Galaxy Z Fold3,Midnight Black,4GB,128GB,4.3,89292,0.22
+Vivo,Vivo V20,Midnight Black,4GB,1TB,4.2,28185,0.18
+Xiaomi,Mi 11X,Ocean Blue,8GB,128GB,4.0,32721,0.08
+Xiaomi,Redmi 10,Midnight Black,6GB,512GB,4.6,35864,0.13
+Xiaomi,Poco F3,Midnight Black,8GB,512GB,4.4,38423,0.28
+Samsung,Galaxy M32,Phantom White,6GB,512GB,4.5,101281,0.05
+Xiaomi,Mi 11X,Silver,8GB,64GB,3.7,36592,0.18
+Samsung,Galaxy M32,Cosmic Purple,6GB,128GB,4.7,16033,0.06
+OnePlus,OnePlus Nord 2,Cosmic Purple,4GB,128GB,4.7,46273,0.01
+Samsung,Galaxy S21,Phantom White,12GB,512GB,4.1,66732,0.24
+Samsung,Galaxy A52,Graphite,4GB,256GB,4.8,131749,0.12
+Realme,Realme 7,Midnight Black,4GB,64GB,4.6,21631,0.33
+OnePlus,OnePlus 9 Pro,Rose Gold,8GB,512GB,4.5,30022,0.25
+Realme,Realme 7,Midnight Black,6GB,64GB,4.4,22120,0.24
+OnePlus,OnePlus 9 Pro,Silver,12GB,128GB,4.3,56540,0.1
+Apple,iPhone 12,Graphite,12GB,256GB,3.7,178228,0.3
+OnePlus,OnePlus Nord 2,Silver,12GB,256GB,4.6,27384,0.01
+Vivo,Vivo Y21,Rose Gold,8GB,1TB,4.7,21301,0.03
+Xiaomi,Redmi Note 11,Midnight Black,8GB,256GB,4.2,23656,0.31
+Xiaomi,Mi 11X,Midnight Black,6GB,256GB,3.8,22555,0.19
+Realme,Realme Narzo 30,Alpine Green,4GB,1TB,4.3,16394,0.0
+Apple,iPhone 12 Pro Max,Ocean Blue,8GB,1TB,4.2,161608,0.18
+OnePlus,OnePlus Nord 2,Midnight Black,4GB,512GB,4.8,50325,0.09
+Samsung,Galaxy S22 Ultra,Midnight Black,8GB,64GB,4.6,43155,0.25
+Xiaomi,Redmi Note 11,Silver,8GB,512GB,4.4,42609,0.24
+Apple,iPhone 13 Pro Max,Silver,4GB,512GB,3.7,128237,0.07
+Realme,Realme 8,Alpine Green,6GB,128GB,4.4,17215,0.24
+Xiaomi,Poco X3,Phantom White,12GB,128GB,4.6,27520,0.05
+Vivo,Vivo V21,Ocean Blue,4GB,512GB,3.7,29275,0.21
+Vivo,Vivo Y21,Alpine Green,12GB,256GB,4.4,31677,0.2
+Vivo,Vivo X60,Cosmic Purple,6GB,256GB,4.7,39673,0.1
+OnePlus,OnePlus 9 Pro,Rose Gold,8GB,1TB,4.2,24326,0.08
+Xiaomi,Poco X3,Cosmic Purple,8GB,128GB,4.5,16590,0.06
+Xiaomi,Redmi 10,Midnight Black,8GB,512GB,4.5,40702,0.29
+OnePlus,OnePlus Nord CE,Rose Gold,6GB,64GB,4.0,51258,0.08
+OnePlus,OnePlus 9,Silver,8GB,256GB,4.1,46963,0.15
+Xiaomi,Redmi Note 10,Graphite,12GB,128GB,4.0,11990,0.11
+OnePlus,OnePlus 9R,Phantom White,6GB,64GB,4.8,58193,0.21
+Samsung,Galaxy M32,Alpine Green,4GB,512GB,3.7,106370,0.12
+Xiaomi,Poco F3,Midnight Black,4GB,1TB,3.9,44092,0.07
+Samsung,Galaxy M32,Rose Gold,6GB,256GB,4.6,133361,0.13
+OnePlus,OnePlus 9R,Ocean Blue,4GB,64GB,4.7,52508,0.04
+OnePlus,OnePlus 9 Pro,Alpine Green,6GB,256GB,4.0,33073,0.22
+Vivo,Vivo Y21,Alpine Green,8GB,64GB,4.7,23381,0.23
+Samsung,Galaxy A52,Graphite,4GB,64GB,3.7,108648,0.25
+Vivo,Vivo V20,Alpine Green,4GB,1TB,4.4,15975,0.03
+Realme,Realme GT,Ocean Blue,8GB,256GB,4.2,34362,0.01
+Xiaomi,Poco X3,Ocean Blue,4GB,256GB,4.9,39893,0.13
+OnePlus,OnePlus 9,Ocean Blue,12GB,1TB,4.0,36639,0.32
+Realme,Realme 7,Ocean Blue,12GB,64GB,4.9,33840,0.14
+Xiaomi,Poco F3,Midnight Black,12GB,128GB,4.4,10631,0.14
+Samsung,Galaxy Z Fold3,Silver,12GB,1TB,3.7,54712,0.12
+Vivo,Vivo V21,Midnight Black,6GB,128GB,4.7,27050,0.21
+Apple,iPhone 12,Rose Gold,12GB,1TB,4.5,105930,0.02
+OnePlus,OnePlus Nord 2,Rose Gold,8GB,256GB,4.7,20392,0.11
+Realme,Realme 7,Rose Gold,4GB,256GB,4.5,34741,0.2
+OnePlus,OnePlus Nord CE,Cosmic Purple,8GB,128GB,4.0,49653,0.18
+Vivo,Vivo V21,Midnight Black,12GB,64GB,4.1,35801,0.0
+Realme,Realme 8,Phantom White,6GB,512GB,4.7,13724,0.01
+OnePlus,OnePlus 9 Pro,Phantom White,12GB,128GB,4.6,53853,0.15
+Apple,iPhone 12 Pro Max,Midnight Black,12GB,256GB,4.5,116069,0.18
+Realme,Realme 8 Pro,Phantom White,6GB,256GB,4.3,16699,0.28
+Vivo,Vivo X60,Graphite,12GB,512GB,3.9,21819,0.32
+Vivo,Vivo Y21,Phantom White,12GB,64GB,4.0,16872,0.05
+Apple,iPhone 11,Graphite,6GB,128GB,4.5,165217,0.12
+Apple,iPhone 13 Pro,Cosmic Purple,6GB,64GB,4.1,104252,0.12
+Apple,iPhone 12,Graphite,8GB,512GB,4.4,125150,0.13
+OnePlus,OnePlus Nord 2,Ocean Blue,4GB,1TB,3.8,32184,0.1
+Xiaomi,Poco F3,Midnight Black,6GB,1TB,4.4,34096,0.12
+Realme,Realme 7,Graphite,12GB,128GB,3.8,35669,0.08
+Samsung,Galaxy S21,Phantom White,6GB,128GB,4.2,14032,0.11
+Apple,iPhone 12,Cosmic Purple,12GB,512GB,4.0,176170,0.27
+Samsung,Galaxy M32,Rose Gold,12GB,512GB,4.5,60529,0.11
+Realme,Realme 8 Pro,Midnight Black,6GB,128GB,4.8,37315,0.1
+Samsung,Galaxy Z Fold3,Cosmic Purple,12GB,256GB,4.5,87125,0.31
+Vivo,Vivo X60,Phantom White,4GB,256GB,4.7,36255,0.23
+Vivo,Vivo V20,Ocean Blue,6GB,512GB,4.1,35498,0.35
+Samsung,Galaxy Z Fold3,Silver,6GB,64GB,4.4,57050,0.03
+Xiaomi,Mi 11X,Alpine Green,8GB,64GB,4.4,40374,0.14
+Vivo,Vivo X60,Graphite,4GB,1TB,4.7,39284,0.25
+OnePlus,OnePlus Nord CE,Cosmic Purple,12GB,128GB,4.2,60437,0.26
+Apple,iPhone 11,Silver,4GB,1TB,4.8,85158,0.25
+Samsung,Galaxy S22,Midnight Black,12GB,64GB,3.7,97555,0.25
+Xiaomi,Redmi Note 10,Graphite,6GB,1TB,4.6,30801,0.29
+Xiaomi,Redmi 10,Phantom White,8GB,1TB,3.6,35422,0.15
+Vivo,Vivo V21,Midnight Black,6GB,1TB,3.8,19737,0.03
+OnePlus,OnePlus 9,Graphite,6GB,1TB,4.1,59635,0.26
+Apple,iPhone 12 Pro Max,Graphite,8GB,64GB,4.0,67569,0.2
+OnePlus,OnePlus 9,Midnight Black,4GB,128GB,4.5,30167,0.11
+Vivo,Vivo V21,Phantom White,4GB,128GB,4.4,26084,0.03
+Vivo,Vivo Y21,Graphite,6GB,128GB,4.0,23429,0.25
+Samsung,Galaxy S22 Ultra,Phantom White,8GB,512GB,3.9,38673,0.1
+Samsung,Galaxy S22,Graphite,8GB,512GB,3.9,78210,0.12
+Xiaomi,Mi 11X,Cosmic Purple,6GB,64GB,4.8,34275,0.05
+Realme,Realme Narzo 30,Rose Gold,8GB,256GB,3.9,32926,0.34
+Realme,Realme 8 Pro,Midnight Black,6GB,256GB,3.9,18547,0.01
+Apple,iPhone 13 Pro,Phantom White,12GB,128GB,4.2,129670,0.13
+OnePlus,OnePlus Nord CE,Alpine Green,8GB,64GB,4.4,18517,0.06
+OnePlus,OnePlus Nord 2,Silver,4GB,128GB,4.8,38072,0.06
+Realme,Realme Narzo 30,Alpine Green,12GB,1TB,4.2,28873,0.24
+Vivo,Vivo V20,Cosmic Purple,6GB,256GB,4.5,30691,0.12
+Vivo,Vivo V20,Graphite,4GB,128GB,4.6,27612,0.04
+OnePlus,OnePlus Nord 2,Rose Gold,4GB,128GB,4.3,37698,0.31
+Vivo,Vivo Y33s,Ocean Blue,6GB,128GB,4.5,36839,0.34
+Apple,iPhone 12 Pro Max,Phantom White,8GB,512GB,4.1,165740,0.0
+Samsung,Galaxy S22,Phantom White,8GB,256GB,3.7,44957,0.3
+OnePlus,OnePlus 9,Ocean Blue,6GB,1TB,4.7,42527,0.0
+Samsung,Galaxy S22 Ultra,Midnight Black,12GB,1TB,4.5,105590,0.07
+OnePlus,OnePlus 9 Pro,Cosmic Purple,6GB,64GB,4.1,38863,0.27
+Samsung,Galaxy Z Fold3,Silver,8GB,512GB,4.4,84007,0.03
+OnePlus,OnePlus Nord CE,Alpine Green,6GB,1TB,3.8,33411,0.13
+Xiaomi,Poco F3,Alpine Green,12GB,64GB,4.4,18049,0.17
+Apple,iPhone 12,Graphite,12GB,64GB,4.0,92153,0.15
+Xiaomi,Mi 11X,Rose Gold,12GB,64GB,3.9,36638,0.06
+OnePlus,OnePlus Nord CE,Midnight Black,12GB,64GB,4.1,24645,0.23
+OnePlus,OnePlus 9,Phantom White,8GB,128GB,4.3,43165,0.24
+Apple,iPhone 13,Rose Gold,12GB,64GB,4.0,112803,0.26
+Apple,iPhone 13 Pro,Cosmic Purple,8GB,512GB,4.5,140646,0.04
+Samsung,Galaxy Z Fold3,Rose Gold,4GB,128GB,3.6,138282,0.33
+Realme,Realme 8 Pro,Ocean Blue,12GB,512GB,3.7,19231,0.01
+OnePlus,OnePlus 9 Pro,Silver,4GB,1TB,4.5,34536,0.15
+Vivo,Vivo X60,Alpine Green,8GB,128GB,4.0,24666,0.01
+Xiaomi,Mi 11X,Alpine Green,4GB,256GB,4.6,43817,0.26
+Samsung,Galaxy S22,Midnight Black,4GB,128GB,4.5,96958,0.17
+Xiaomi,Mi 11X,Cosmic Purple,6GB,1TB,4.3,11663,0.03
+Xiaomi,Redmi Note 10,Phantom White,4GB,512GB,4.3,14161,0.12
+Vivo,Vivo X60,Rose Gold,12GB,64GB,3.8,35470,0.09
+Vivo,Vivo V21,Rose Gold,4GB,128GB,4.3,20935,0.22
+Realme,Realme Narzo 30,Alpine Green,8GB,1TB,4.2,34927,0.33
+Xiaomi,Redmi 10,Phantom White,8GB,1TB,4.5,35127,0.32
+Vivo,Vivo X60,Graphite,4GB,512GB,3.9,36626,0.15
+Samsung,Galaxy S22 Ultra,Graphite,12GB,1TB,4.6,97211,0.11
+Samsung,Galaxy S22,Alpine Green,8GB,128GB,3.7,51726,0.25
+Realme,Realme GT,Rose Gold,8GB,1TB,4.1,28273,0.0
+Xiaomi,Mi 11X,Silver,12GB,128GB,4.2,41700,0.07
+Vivo,Vivo Y21,Rose Gold,8GB,512GB,3.6,38927,0.2
+Apple,iPhone 13 Pro Max,Cosmic Purple,8GB,64GB,3.9,141781,0.11
+Xiaomi,Poco X3,Cosmic Purple,4GB,128GB,4.4,19927,0.22
+Realme,Realme GT,Rose Gold,4GB,256GB,4.3,26081,0.35
+OnePlus,OnePlus Nord CE,Phantom White,12GB,1TB,4.8,26093,0.03
+Samsung,Galaxy S22,Midnight Black,8GB,128GB,4.7,114515,0.27
+Vivo,Vivo V20,Rose Gold,8GB,128GB,4.1,30636,0.1
+Xiaomi,Redmi 10,Midnight Black,8GB,1TB,4.3,34701,0.08
+OnePlus,OnePlus 9 Pro,Cosmic Purple,8GB,512GB,3.8,29640,0.14
+Apple,iPhone 13 Pro,Silver,12GB,128GB,4.5,70774,0.13
+Vivo,Vivo V20,Rose Gold,12GB,128GB,4.4,31279,0.08
+Realme,Realme 7,Midnight Black,12GB,64GB,4.0,18190,0.06
+Vivo,Vivo V20,Midnight Black,8GB,64GB,4.6,39950,0.28
+OnePlus,OnePlus Nord CE,Ocean Blue,6GB,512GB,4.1,33683,0.06
+Vivo,Vivo Y21,Silver,6GB,256GB,3.7,12012,0.07
+OnePlus,OnePlus 9 Pro,Ocean Blue,12GB,128GB,4.6,48238,0.18
+Apple,iPhone 13 Pro,Silver,6GB,128GB,4.2,63308,0.0
+Apple,iPhone 13 Pro Max,Rose Gold,12GB,512GB,3.7,154337,0.34
+Vivo,Vivo Y33s,Midnight Black,4GB,512GB,4.2,34790,0.02
+OnePlus,OnePlus 9,Silver,12GB,1TB,4.4,46838,0.15
+Apple,iPhone 11,Phantom White,8GB,1TB,4.6,74303,0.25
+Xiaomi,Poco X3,Silver,6GB,128GB,4.6,22768,0.09
+Xiaomi,Redmi 10,Midnight Black,12GB,512GB,4.6,26039,0.12
+Vivo,Vivo V20,Silver,12GB,256GB,4.3,30478,0.01
+Samsung,Galaxy S22,Graphite,4GB,128GB,4.7,87864,0.13
+Xiaomi,Mi 11X,Phantom White,8GB,512GB,4.5,28325,0.05
+Vivo,Vivo Y21,Phantom White,8GB,512GB,3.9,18468,0.01
+Samsung,Galaxy M32,Graphite,6GB,1TB,3.6,61731,0.25
+Vivo,Vivo Y33s,Rose Gold,12GB,1TB,4.8,22279,0.23
+Realme,Realme 7,Silver,8GB,512GB,4.7,25900,0.23
+Realme,Realme GT,Phantom White,12GB,512GB,3.6,12121,0.12
+Xiaomi,Redmi Note 11,Ocean Blue,6GB,256GB,4.4,16837,0.23
+Xiaomi,Poco X3,Cosmic Purple,4GB,1TB,4.8,22273,0.13
+Apple,iPhone 13,Midnight Black,8GB,1TB,3.7,65826,0.34
+Apple,iPhone 13,Ocean Blue,6GB,256GB,4.6,92889,0.24
+Vivo,Vivo Y21,Ocean Blue,12GB,128GB,3.7,30960,0.09
+Xiaomi,Redmi Note 10,Ocean Blue,4GB,128GB,4.3,12988,0.07
+Samsung,Galaxy M32,Cosmic Purple,12GB,64GB,4.3,116421,0.02
+Vivo,Vivo V21,Ocean Blue,12GB,64GB,4.2,26598,0.07
+Realme,Realme 7,Ocean Blue,12GB,256GB,4.3,29061,0.15
+Apple,iPhone 13 Pro Max,Cosmic Purple,6GB,1TB,4.6,164604,0.35
+Xiaomi,Poco X3,Graphite,12GB,128GB,4.0,40672,0.18
+Vivo,Vivo X60,Graphite,6GB,256GB,4.0,29391,0.18
+Vivo,Vivo V20,Midnight Black,6GB,512GB,3.6,27696,0.16
+Samsung,Galaxy S22,Midnight Black,12GB,256GB,3.7,126987,0.16
+Vivo,Vivo Y33s,Phantom White,6GB,64GB,4.6,17986,0.11
+Xiaomi,Mi 11X,Cosmic Purple,4GB,256GB,4.8,22781,0.2
+Samsung,Galaxy S22 Ultra,Phantom White,6GB,512GB,4.6,125720,0.06
+Vivo,Vivo Y21,Silver,12GB,1TB,4.6,36551,0.25
+Samsung,Galaxy S22 Ultra,Cosmic Purple,8GB,256GB,3.8,57741,0.25
+Vivo,Vivo X60,Cosmic Purple,8GB,512GB,4.3,35991,0.15
+OnePlus,OnePlus 9,Rose Gold,8GB,128GB,4.9,35970,0.01
+Vivo,Vivo Y21,Ocean Blue,8GB,256GB,4.7,11775,0.11
+OnePlus,OnePlus Nord 2,Ocean Blue,6GB,1TB,4.3,35954,0.04
+Samsung,Galaxy S22,Silver,12GB,1TB,4.2,138086,0.02
+Vivo,Vivo V20,Cosmic Purple,6GB,256GB,4.9,30205,0.13
+Apple,iPhone 11,Silver,8GB,1TB,4.1,119510,0.04
+Samsung,Galaxy A52,Midnight Black,8GB,512GB,4.7,128550,0.05
+Xiaomi,Poco F3,Ocean Blue,4GB,512GB,3.9,44821,0.27
+Xiaomi,Poco F3,Graphite,4GB,128GB,4.6,13456,0.3
+Vivo,Vivo X60,Silver,12GB,128GB,3.8,26346,0.08
+Xiaomi,Mi 11X,Ocean Blue,8GB,256GB,4.4,10516,0.05
+Vivo,Vivo V20,Rose Gold,12GB,512GB,4.6,38252,0.18
+Realme,Realme 8 Pro,Alpine Green,12GB,64GB,4.8,36157,0.11
+Realme,Realme GT,Graphite,8GB,64GB,4.6,28523,0.03
+Realme,Realme 8,Phantom White,4GB,1TB,4.8,29989,0.23
+Samsung,Galaxy S21,Rose Gold,8GB,512GB,4.2,129414,0.35
+Samsung,Galaxy A52,Silver,4GB,128GB,4.4,58539,0.16
+Vivo,Vivo V20,Alpine Green,12GB,1TB,4.0,31437,0.29
+Apple,iPhone 11,Ocean Blue,8GB,512GB,3.8,103429,0.2
+Xiaomi,Poco F3,Cosmic Purple,6GB,1TB,4.8,19001,0.07
+Samsung,Galaxy S22,Graphite,6GB,64GB,3.6,92895,0.33
+Apple,iPhone 12,Silver,4GB,256GB,4.7,105320,0.23
+Samsung,Galaxy S22 Ultra,Phantom White,12GB,256GB,3.9,134570,0.08
+Xiaomi,Redmi Note 10,Phantom White,12GB,64GB,4.7,33583,0.01
+Vivo,Vivo Y21,Rose Gold,4GB,512GB,4.2,17508,0.07
+OnePlus,OnePlus Nord CE,Midnight Black,4GB,128GB,4.3,55899,0.25
+Apple,iPhone 12,Ocean Blue,4GB,512GB,4.6,138949,0.26
+Xiaomi,Poco X3,Ocean Blue,6GB,64GB,4.6,32583,0.17
+Realme,Realme 8,Cosmic Purple,4GB,64GB,4.1,23763,0.14
+Apple,iPhone 12 Pro Max,Silver,8GB,64GB,4.2,123825,0.08
+Vivo,Vivo V21,Rose Gold,12GB,64GB,4.8,20001,0.26
+Xiaomi,Redmi Note 10,Phantom White,6GB,128GB,4.3,17385,0.18
+Samsung,Galaxy A52,Cosmic Purple,4GB,64GB,4.4,41502,0.3
+Vivo,Vivo X60,Silver,12GB,128GB,4.1,16722,0.33
+Samsung,Galaxy A52,Phantom White,8GB,64GB,4.6,17929,0.17
+Xiaomi,Poco X3,Silver,8GB,1TB,4.0,10692,0.12
+OnePlus,OnePlus 9,Phantom White,12GB,64GB,4.3,57223,0.25
+Samsung,Galaxy S22,Midnight Black,4GB,256GB,4.8,26074,0.15
+Apple,iPhone 11,Cosmic Purple,12GB,512GB,4.7,160452,0.05
+Realme,Realme 8,Graphite,12GB,512GB,4.8,18416,0.04
+Vivo,Vivo Y33s,Silver,4GB,512GB,4.2,38233,0.3
+Samsung,Galaxy S22,Ocean Blue,6GB,128GB,3.9,24772,0.26
+Vivo,Vivo V20,Graphite,4GB,128GB,3.9,17049,0.26
+Xiaomi,Mi 11X,Cosmic Purple,8GB,128GB,4.0,33560,0.23
+Realme,Realme 8,Rose Gold,4GB,128GB,4.9,10469,0.05
+Apple,iPhone 12,Phantom White,12GB,256GB,3.6,171032,0.17
+Xiaomi,Redmi Note 11,Rose Gold,12GB,128GB,4.2,26223,0.19
+Apple,iPhone 13 Pro Max,Graphite,8GB,256GB,4.9,93842,0.09
+OnePlus,OnePlus Nord CE,Cosmic Purple,4GB,256GB,4.6,35227,0.02
+Xiaomi,Poco X3,Alpine Green,6GB,64GB,3.9,38978,0.29
+Apple,iPhone 13 Pro,Graphite,6GB,256GB,4.0,159337,0.19
+Apple,iPhone 13 Pro,Phantom White,12GB,1TB,3.9,103158,0.27
+Samsung,Galaxy A52,Silver,6GB,1TB,4.7,82818,0.02
+Realme,Realme 8 Pro,Ocean Blue,6GB,256GB,3.8,32295,0.06
+Vivo,Vivo Y33s,Ocean Blue,6GB,1TB,4.8,30977,0.15
+Samsung,Galaxy S22 Ultra,Alpine Green,12GB,256GB,4.1,82386,0.34
+OnePlus,OnePlus 9 Pro,Silver,6GB,256GB,3.6,34471,0.25
+Vivo,Vivo X60,Ocean Blue,4GB,64GB,4.6,15597,0.05
+Samsung,Galaxy S22,Rose Gold,6GB,512GB,4.1,39345,0.09
+Xiaomi,Redmi Note 10,Ocean Blue,8GB,128GB,4.8,17091,0.25
+Realme,Realme Narzo 30,Ocean Blue,12GB,128GB,4.5,34922,0.11
+Vivo,Vivo V21,Graphite,4GB,1TB,4.2,32640,0.15
+Apple,iPhone 13 Pro,Cosmic Purple,6GB,64GB,4.7,134489,0.31
+Apple,iPhone 13,Graphite,4GB,512GB,4.2,89159,0.31
+Vivo,Vivo V20,Graphite,6GB,1TB,3.7,34978,0.21
+Realme,Realme 8 Pro,Ocean Blue,12GB,512GB,4.1,30907,0.04
+Xiaomi,Redmi 10,Graphite,8GB,1TB,4.0,25465,0.34
+Apple,iPhone 11,Midnight Black,12GB,128GB,4.4,103035,0.21
+Vivo,Vivo X60,Midnight Black,12GB,1TB,4.4,29534,0.13
+Realme,Realme GT,Alpine Green,4GB,1TB,4.7,31059,0.33
+Realme,Realme 8,Midnight Black,6GB,256GB,4.4,33242,0.32
+OnePlus,OnePlus 9 Pro,Alpine Green,8GB,512GB,4.7,55574,0.3
+Apple,iPhone 13,Rose Gold,4GB,128GB,4.3,51329,0.22
+Xiaomi,Redmi Note 10,Graphite,12GB,64GB,4.5,25614,0.13
+Vivo,Vivo X60,Silver,6GB,256GB,4.2,12566,0.11
+Vivo,Vivo X60,Phantom White,6GB,1TB,4.6,28933,0.23
+Vivo,Vivo V20,Silver,6GB,512GB,4.7,21936,0.12
+Realme,Realme Narzo 30,Silver,8GB,64GB,4.8,12963,0.22
+Xiaomi,Poco F3,Cosmic Purple,6GB,512GB,3.9,40813,0.12
+OnePlus,OnePlus Nord 2,Phantom White,6GB,256GB,3.6,30438,0.2
+Realme,Realme 7,Graphite,6GB,512GB,4.4,12488,0.07
+Apple,iPhone 13 Pro Max,Rose Gold,8GB,128GB,4.5,137746,0.14
+OnePlus,OnePlus 9,Graphite,4GB,256GB,4.9,47002,0.29
+Samsung,Galaxy M32,Phantom White,8GB,64GB,4.2,123215,0.24
+Samsung,Galaxy S22,Ocean Blue,12GB,128GB,3.8,52901,0.09
+Apple,iPhone 13 Pro,Cosmic Purple,12GB,512GB,4.3,95394,0.14
+Realme,Realme 7,Rose Gold,12GB,256GB,4.5,21926,0.28
+Xiaomi,Poco X3,Silver,8GB,128GB,4.0,32401,0.03
+Vivo,Vivo Y21,Silver,6GB,1TB,4.4,14166,0.34
+Realme,Realme GT,Silver,4GB,1TB,3.9,21414,0.25
+Vivo,Vivo Y33s,Ocean Blue,12GB,256GB,4.3,12743,0.16
+OnePlus,OnePlus 9 Pro,Rose Gold,4GB,128GB,3.6,47390,0.2
+Apple,iPhone 12 Pro Max,Cosmic Purple,6GB,64GB,4.5,62147,0.33
+Xiaomi,Poco F3,Graphite,4GB,1TB,4.2,17739,0.35
+Samsung,Galaxy A52,Cosmic Purple,8GB,1TB,4.5,53932,0.12
+Realme,Realme 7,Rose Gold,6GB,1TB,4.9,29230,0.11
+Apple,iPhone 13 Pro,Alpine Green,8GB,1TB,3.8,63615,0.21
+Realme,Realme GT,Phantom White,6GB,128GB,4.9,35353,0.27
+Samsung,Galaxy S22,Alpine Green,12GB,64GB,4.0,26341,0.33
+Realme,Realme GT,Rose Gold,12GB,512GB,3.8,21249,0.06
+Xiaomi,Mi 11X,Phantom White,12GB,256GB,4.2,21095,0.09
+Samsung,Galaxy S22,Silver,4GB,256GB,4.2,26324,0.18
+Apple,iPhone 13 Pro,Alpine Green,4GB,256GB,3.7,45453,0.34
+Realme,Realme 8,Alpine Green,8GB,512GB,4.0,36215,0.32
+Realme,Realme 8 Pro,Midnight Black,6GB,128GB,4.4,26325,0.06
+Samsung,Galaxy S22 Ultra,Midnight Black,6GB,1TB,4.1,37190,0.31
+Vivo,Vivo Y21,Phantom White,12GB,64GB,4.4,28615,0.31
+Apple,iPhone 12 Pro Max,Graphite,4GB,256GB,4.5,88879,0.32
+OnePlus,OnePlus 9R,Phantom White,8GB,512GB,4.8,53912,0.29
+OnePlus,OnePlus 9,Midnight Black,8GB,128GB,4.1,33692,0.34
+OnePlus,OnePlus 9R,Rose Gold,4GB,256GB,3.7,49485,0.28
+Vivo,Vivo Y33s,Midnight Black,4GB,256GB,4.8,29448,0.2
+Realme,Realme 7,Rose Gold,6GB,256GB,4.0,24676,0.27
+Xiaomi,Redmi 10,Rose Gold,12GB,512GB,4.1,41143,0.01
+Apple,iPhone 12 Pro Max,Cosmic Purple,12GB,256GB,4.2,120286,0.27
+Vivo,Vivo V21,Alpine Green,6GB,64GB,4.0,30250,0.26
+Realme,Realme 7,Phantom White,8GB,64GB,4.3,11546,0.34
+OnePlus,OnePlus 9R,Silver,4GB,512GB,4.6,52339,0.3
+Realme,Realme 8 Pro,Alpine Green,6GB,64GB,4.2,16085,0.31
+Vivo,Vivo X60,Midnight Black,6GB,512GB,3.9,31985,0.21
+Apple,iPhone 13,Ocean Blue,4GB,256GB,3.6,108016,0.23
+Xiaomi,Redmi Note 11,Rose Gold,6GB,256GB,4.8,35342,0.02
+Samsung,Galaxy M32,Ocean Blue,8GB,512GB,4.5,107083,0.3
+Vivo,Vivo X60,Ocean Blue,8GB,512GB,4.5,24627,0.29
+OnePlus,OnePlus Nord 2,Ocean Blue,12GB,256GB,4.4,59060,0.24
+Apple,iPhone 13 Pro Max,Cosmic Purple,6GB,128GB,3.7,74984,0.04
+OnePlus,OnePlus 9,Phantom White,8GB,128GB,4.8,34809,0.33
+Vivo,Vivo V20,Graphite,8GB,256GB,4.7,19568,0.04
+Apple,iPhone 13,Ocean Blue,4GB,1TB,4.7,97635,0.04
+Apple,iPhone 13,Cosmic Purple,4GB,64GB,3.9,146728,0.06
+Vivo,Vivo V21,Ocean Blue,12GB,1TB,4.1,35194,0.05
+Realme,Realme 8,Ocean Blue,6GB,256GB,3.7,10465,0.33
+Xiaomi,Mi 11X,Phantom White,8GB,512GB,3.9,12698,0.14
+Samsung,Galaxy S22 Ultra,Midnight Black,6GB,128GB,4.4,58025,0.23
+OnePlus,OnePlus 9,Cosmic Purple,4GB,128GB,4.4,36861,0.19
+Samsung,Galaxy M32,Silver,4GB,64GB,4.5,67729,0.18
+Apple,iPhone 13 Pro,Phantom White,8GB,256GB,3.6,72208,0.24
+Apple,iPhone 13,Alpine Green,4GB,512GB,4.6,76363,0.3
+Vivo,Vivo V21,Midnight Black,4GB,512GB,4.8,32128,0.14
+Vivo,Vivo Y33s,Rose Gold,12GB,128GB,4.5,31073,0.09
+Vivo,Vivo V20,Cosmic Purple,6GB,512GB,4.3,22800,0.08
+Xiaomi,Redmi 10,Phantom White,12GB,256GB,4.7,33122,0.26
+OnePlus,OnePlus Nord 2,Phantom White,4GB,512GB,4.1,53487,0.3
+OnePlus,OnePlus 9R,Silver,6GB,512GB,4.1,45376,0.16
+OnePlus,OnePlus 9 Pro,Rose Gold,12GB,256GB,4.0,61605,0.14
+Vivo,Vivo Y33s,Ocean Blue,6GB,128GB,4.5,29624,0.07
+Vivo,Vivo Y33s,Silver,12GB,1TB,4.7,36954,0.14
+Vivo,Vivo X60,Ocean Blue,12GB,128GB,4.2,28787,0.23
+Xiaomi,Poco F3,Rose Gold,4GB,128GB,3.9,19270,0.23
+Realme,Realme GT,Phantom White,12GB,64GB,4.5,22647,0.2
+Samsung,Galaxy S22 Ultra,Phantom White,12GB,1TB,4.6,39927,0.05
+Xiaomi,Poco X3,Ocean Blue,6GB,512GB,4.0,43772,0.26
+Apple,iPhone 13 Pro Max,Midnight Black,4GB,64GB,3.6,58828,0.12
+Apple,iPhone 12 Pro Max,Silver,6GB,128GB,4.8,125625,0.29
+Xiaomi,Poco F3,Silver,12GB,512GB,4.0,20483,0.1
+Apple,iPhone 13 Pro,Phantom White,6GB,128GB,4.1,152395,0.06
+Realme,Realme GT,Graphite,6GB,64GB,4.5,14805,0.32
+Apple,iPhone 11,Phantom White,12GB,512GB,4.1,89684,0.27
+Realme,Realme 8 Pro,Cosmic Purple,6GB,512GB,4.8,26114,0.33
+Realme,Realme 8 Pro,Silver,4GB,256GB,3.7,14421,0.22
+Vivo,Vivo V20,Phantom White,4GB,128GB,4.9,21508,0.1
+Apple,iPhone 12 Pro Max,Cosmic Purple,4GB,1TB,4.8,154507,0.35
+Xiaomi,Mi 11X,Ocean Blue,8GB,1TB,4.8,10536,0.17
+Samsung,Galaxy S21,Ocean Blue,8GB,256GB,4.2,70747,0.12
+Xiaomi,Redmi 10,Cosmic Purple,4GB,256GB,4.3,17562,0.31
+Realme,Realme 8,Alpine Green,8GB,512GB,3.9,25404,0.13
+Apple,iPhone 13 Pro Max,Graphite,12GB,256GB,4.1,179370,0.3
+OnePlus,OnePlus 9 Pro,Silver,6GB,256GB,4.5,54200,0.07
+Xiaomi,Mi 11X,Midnight Black,12GB,64GB,4.6,29880,0.3
+Apple,iPhone 11,Phantom White,4GB,128GB,3.7,142881,0.02
+Realme,Realme Narzo 30,Midnight Black,4GB,64GB,4.5,34133,0.28
+Realme,Realme 8,Phantom White,12GB,256GB,4.6,13467,0.21
+Apple,iPhone 13 Pro Max,Phantom White,6GB,64GB,3.8,69008,0.0
+Vivo,Vivo Y21,Ocean Blue,4GB,64GB,4.1,31494,0.19
+OnePlus,OnePlus 9R,Cosmic Purple,6GB,512GB,4.0,56784,0.3
+Apple,iPhone 13,Phantom White,4GB,64GB,3.8,96831,0.09
+Realme,Realme 7,Ocean Blue,4GB,64GB,3.8,37807,0.11
+Samsung,Galaxy S22,Rose Gold,8GB,1TB,4.1,97964,0.1
+OnePlus,OnePlus Nord 2,Silver,6GB,1TB,3.6,34493,0.1
+Samsung,Galaxy S21,Alpine Green,4GB,512GB,4.0,110064,0.02
+OnePlus,OnePlus 9,Cosmic Purple,4GB,64GB,4.0,41689,0.24
+Realme,Realme 8,Graphite,8GB,512GB,4.1,36573,0.17
+OnePlus,OnePlus Nord 2,Cosmic Purple,8GB,1TB,4.9,30470,0.08
+Samsung,Galaxy S21,Silver,12GB,512GB,4.7,56515,0.32
+OnePlus,OnePlus 9 Pro,Cosmic Purple,12GB,128GB,3.8,43268,0.15
+Apple,iPhone 12,Silver,12GB,128GB,4.1,48656,0.15
+Vivo,Vivo Y21,Phantom White,6GB,128GB,3.7,23821,0.17
+Xiaomi,Mi 11X,Ocean Blue,4GB,512GB,4.1,28891,0.29
+Realme,Realme 8 Pro,Ocean Blue,6GB,512GB,4.4,26355,0.15
+Samsung,Galaxy Z Fold3,Alpine Green,8GB,64GB,3.7,56373,0.25
+Realme,Realme 8 Pro,Phantom White,6GB,1TB,4.8,36333,0.08
+OnePlus,OnePlus 9,Graphite,6GB,256GB,4.4,58532,0.15
+Apple,iPhone 13 Pro,Phantom White,8GB,256GB,4.5,78589,0.13
+OnePlus,OnePlus 9,Alpine Green,12GB,256GB,4.1,31726,0.33
+Vivo,Vivo Y21,Silver,12GB,256GB,4.3,29914,0.28
+Vivo,Vivo Y21,Phantom White,8GB,1TB,4.9,18501,0.25
+Realme,Realme Narzo 30,Ocean Blue,12GB,1TB,4.2,10635,0.11
+Apple,iPhone 13,Phantom White,8GB,64GB,4.3,166291,0.21
+Vivo,Vivo X60,Midnight Black,12GB,512GB,4.6,36928,0.27
+Vivo,Vivo Y21,Silver,4GB,512GB,3.9,31744,0.0
+Xiaomi,Poco F3,Cosmic Purple,6GB,256GB,4.8,40765,0.34
+Realme,Realme 7,Ocean Blue,6GB,1TB,4.4,19686,0.26
+Vivo,Vivo Y21,Graphite,6GB,512GB,4.1,37823,0.3
+Xiaomi,Mi 11X,Ocean Blue,6GB,256GB,3.6,36618,0.03
+OnePlus,OnePlus 9R,Cosmic Purple,12GB,1TB,3.8,47107,0.27
+Apple,iPhone 12 Pro Max,Cosmic Purple,8GB,128GB,4.5,163838,0.1
+Realme,Realme Narzo 30,Silver,4GB,64GB,3.7,20699,0.19
+Xiaomi,Redmi Note 11,Silver,12GB,1TB,3.6,37459,0.23
+OnePlus,OnePlus 9R,Silver,4GB,256GB,4.0,55259,0.01
+Realme,Realme 8,Phantom White,12GB,64GB,4.8,14584,0.05
+Realme,Realme Narzo 30,Ocean Blue,4GB,256GB,4.9,21080,0.03
+Xiaomi,Redmi Note 10,Cosmic Purple,12GB,1TB,3.7,36286,0.22
+OnePlus,OnePlus 9R,Midnight Black,6GB,512GB,3.8,35088,0.08
+Apple,iPhone 13 Pro Max,Alpine Green,4GB,128GB,4.2,56056,0.08
+Samsung,Galaxy S22,Phantom White,8GB,256GB,4.1,97142,0.23
+Apple,iPhone 13 Pro,Graphite,12GB,64GB,4.5,153773,0.19
+Apple,iPhone 12,Alpine Green,6GB,128GB,4.4,46874,0.12
+Apple,iPhone 13 Pro,Silver,6GB,512GB,3.9,46926,0.32
+Vivo,Vivo Y33s,Graphite,8GB,1TB,4.1,23727,0.06
+Samsung,Galaxy M32,Graphite,8GB,128GB,4.0,48123,0.14
+Vivo,Vivo X60,Cosmic Purple,4GB,512GB,4.4,32345,0.24
+OnePlus,OnePlus 9R,Phantom White,4GB,64GB,4.1,24994,0.26
+Samsung,Galaxy S22,Graphite,6GB,1TB,4.7,61308,0.16
+Vivo,Vivo Y21,Graphite,6GB,1TB,3.6,11405,0.08
+Samsung,Galaxy S22 Ultra,Ocean Blue,12GB,512GB,4.5,74015,0.34
+Realme,Realme Narzo 30,Cosmic Purple,12GB,1TB,4.4,36050,0.35
+Samsung,Galaxy S21,Midnight Black,4GB,64GB,4.4,126350,0.0
+Xiaomi,Redmi Note 10,Graphite,12GB,512GB,4.5,19452,0.03
+Xiaomi,Redmi Note 11,Ocean Blue,12GB,256GB,3.7,36360,0.23
+Xiaomi,Redmi Note 10,Midnight Black,8GB,128GB,3.9,22412,0.04
+Vivo,Vivo V21,Cosmic Purple,6GB,64GB,3.7,34750,0.08
+Realme,Realme 7,Graphite,8GB,64GB,4.5,25719,0.02
+Vivo,Vivo Y21,Ocean Blue,4GB,512GB,4.5,11979,0.01
+OnePlus,OnePlus 9 Pro,Rose Gold,6GB,64GB,4.3,20885,0.23
+Xiaomi,Redmi 10,Graphite,12GB,128GB,4.6,10599,0.23
+Samsung,Galaxy S22,Cosmic Purple,4GB,64GB,4.7,123496,0.3
+Realme,Realme GT,Ocean Blue,4GB,256GB,4.1,29596,0.13
+OnePlus,OnePlus Nord CE,Phantom White,8GB,256GB,4.5,53439,0.05
+Vivo,Vivo X60,Rose Gold,6GB,1TB,4.1,26318,0.34
+Xiaomi,Redmi Note 11,Cosmic Purple,12GB,256GB,4.8,14665,0.21
+Samsung,Galaxy S22 Ultra,Silver,12GB,512GB,4.6,126957,0.24
+Apple,iPhone 12 Pro Max,Phantom White,8GB,1TB,4.4,86793,0.3
+Realme,Realme Narzo 30,Ocean Blue,12GB,64GB,4.7,13666,0.35
+Realme,Realme 8,Midnight Black,4GB,256GB,4.8,31778,0.33
+Vivo,Vivo Y21,Silver,12GB,64GB,4.0,38409,0.28
+Realme,Realme GT,Rose Gold,6GB,1TB,4.1,23369,0.24
+Apple,iPhone 12,Cosmic Purple,6GB,128GB,4.5,177254,0.28
+OnePlus,OnePlus 9R,Midnight Black,8GB,128GB,4.6,37848,0.29
+Realme,Realme 8,Ocean Blue,4GB,64GB,3.6,13967,0.07
+Vivo,Vivo V21,Midnight Black,8GB,512GB,4.8,24825,0.33
+Vivo,Vivo V20,Alpine Green,8GB,256GB,4.1,17830,0.11
+Realme,Realme 7,Cosmic Purple,4GB,512GB,4.9,26383,0.11
+Apple,iPhone 12 Pro Max,Cosmic Purple,12GB,1TB,4.6,155808,0.24
+Realme,Realme 8 Pro,Cosmic Purple,4GB,512GB,3.7,25972,0.27
+Apple,iPhone 13,Graphite,4GB,64GB,3.9,69643,0.16
+Vivo,Vivo X60,Ocean Blue,12GB,64GB,4.0,29108,0.27
+OnePlus,OnePlus 9R,Rose Gold,4GB,64GB,4.5,56890,0.3
+Apple,iPhone 13 Pro,Cosmic Purple,4GB,1TB,3.8,117021,0.24
+OnePlus,OnePlus Nord CE,Alpine Green,8GB,1TB,3.8,51864,0.17
+OnePlus,OnePlus Nord 2,Phantom White,4GB,256GB,4.4,45966,0.04
+Samsung,Galaxy S21,Ocean Blue,12GB,512GB,3.9,64764,0.27
+Vivo,Vivo Y21,Rose Gold,4GB,256GB,3.8,22143,0.3
+Realme,Realme GT,Ocean Blue,12GB,64GB,3.7,14561,0.05
+Realme,Realme 7,Alpine Green,12GB,512GB,4.1,32902,0.15
+Vivo,Vivo Y33s,Silver,4GB,512GB,4.2,20139,0.15
+Vivo,Vivo V20,Midnight Black,4GB,64GB,3.9,32780,0.13
+OnePlus,OnePlus Nord CE,Ocean Blue,6GB,64GB,3.6,23660,0.2
+Vivo,Vivo Y21,Cosmic Purple,8GB,1TB,3.9,13189,0.34
+Vivo,Vivo Y21,Rose Gold,4GB,1TB,3.7,17633,0.05
+Samsung,Galaxy A52,Rose Gold,4GB,256GB,3.7,117296,0.0
+Realme,Realme 8 Pro,Alpine Green,8GB,128GB,4.0,17984,0.3
+Samsung,Galaxy S22,Cosmic Purple,12GB,512GB,3.9,36599,0.14
+Vivo,Vivo Y33s,Midnight Black,6GB,128GB,4.7,15764,0.3
+Apple,iPhone 13,Midnight Black,6GB,128GB,4.4,153398,0.29
+Xiaomi,Redmi Note 11,Graphite,12GB,64GB,4.6,11812,0.3
+OnePlus,OnePlus 9,Ocean Blue,8GB,512GB,4.2,32727,0.26
+Samsung,Galaxy Z Fold3,Rose Gold,6GB,128GB,4.4,51699,0.17
+Apple,iPhone 13,Alpine Green,12GB,64GB,4.3,83158,0.27
+Apple,iPhone 12 Pro Max,Graphite,12GB,256GB,4.2,134517,0.11
+Realme,Realme 7,Silver,8GB,512GB,4.3,22651,0.27
+Vivo,Vivo Y33s,Phantom White,12GB,256GB,3.7,27045,0.34
+Realme,Realme 7,Midnight Black,8GB,256GB,4.8,19468,0.21
+Samsung,Galaxy S22 Ultra,Silver,6GB,1TB,3.8,54153,0.07
+Xiaomi,Poco F3,Rose Gold,8GB,256GB,4.4,21343,0.27
+Samsung,Galaxy A52,Graphite,6GB,256GB,4.5,86470,0.11
+OnePlus,OnePlus Nord CE,Phantom White,4GB,256GB,4.4,31482,0.21
+Vivo,Vivo X60,Phantom White,12GB,256GB,3.9,26870,0.25
+Realme,Realme GT,Silver,6GB,256GB,4.4,18275,0.04
+OnePlus,OnePlus Nord CE,Rose Gold,4GB,64GB,3.8,34699,0.32
+OnePlus,OnePlus Nord CE,Graphite,12GB,128GB,3.9,46030,0.22
+OnePlus,OnePlus Nord CE,Midnight Black,12GB,512GB,4.1,25827,0.05
+Apple,iPhone 12 Pro Max,Alpine Green,4GB,64GB,4.0,115363,0.04
+Apple,iPhone 13 Pro Max,Rose Gold,6GB,64GB,4.8,60697,0.0
+Xiaomi,Poco F3,Graphite,8GB,512GB,3.9,23446,0.22
+Realme,Realme 8 Pro,Silver,6GB,128GB,3.6,29140,0.11
+Samsung,Galaxy S22,Rose Gold,6GB,1TB,4.4,139104,0.06
+Realme,Realme 7,Graphite,12GB,64GB,3.7,37701,0.14
+Samsung,Galaxy Z Fold3,Phantom White,6GB,128GB,4.0,14415,0.08
+Xiaomi,Poco X3,Rose Gold,12GB,128GB,3.9,14373,0.14
+OnePlus,OnePlus 9 Pro,Phantom White,12GB,1TB,4.6,19509,0.19
+Xiaomi,Redmi Note 11,Cosmic Purple,12GB,1TB,4.0,10357,0.17
+Realme,Realme GT,Cosmic Purple,6GB,256GB,3.8,12534,0.21
+Vivo,Vivo V20,Phantom White,12GB,128GB,3.9,22575,0.14
+Samsung,Galaxy A52,Graphite,6GB,512GB,4.4,75566,0.34
+Vivo,Vivo Y33s,Ocean Blue,4GB,512GB,4.5,11716,0.14
+Xiaomi,Mi 11X,Rose Gold,4GB,512GB,4.2,38184,0.32
+Apple,iPhone 13,Graphite,8GB,128GB,3.9,113120,0.17
+Samsung,Galaxy S22,Ocean Blue,4GB,512GB,4.1,113707,0.08
+Vivo,Vivo Y21,Midnight Black,4GB,256GB,3.7,19360,0.16
+Xiaomi,Redmi Note 11,Rose Gold,8GB,128GB,3.9,29420,0.06
+Apple,iPhone 12,Midnight Black,4GB,1TB,4.5,91122,0.1
+OnePlus,OnePlus 9 Pro,Phantom White,6GB,64GB,4.7,30804,0.21
+Apple,iPhone 11,Midnight Black,8GB,128GB,4.3,166251,0.19
+Xiaomi,Redmi 10,Phantom White,6GB,1TB,4.8,25098,0.28
+Xiaomi,Redmi Note 11,Graphite,4GB,1TB,4.3,12725,0.14
+Samsung,Galaxy S21,Cosmic Purple,6GB,128GB,3.9,93818,0.29
+Realme,Realme 8 Pro,Cosmic Purple,6GB,512GB,3.8,13600,0.25
+Samsung,Galaxy A52,Alpine Green,4GB,512GB,3.8,51644,0.16
+OnePlus,OnePlus 9 Pro,Rose Gold,12GB,1TB,4.1,57683,0.2
+Vivo,Vivo V20,Graphite,12GB,128GB,4.3,27375,0.04
+Apple,iPhone 12,Midnight Black,8GB,256GB,3.8,153111,0.13
+Xiaomi,Mi 11X,Alpine Green,8GB,512GB,3.9,10051,0.08
+Vivo,Vivo Y21,Cosmic Purple,6GB,256GB,4.1,15663,0.01
+Samsung,Galaxy Z Fold3,Graphite,12GB,512GB,4.2,74975,0.13
+Samsung,Galaxy Z Fold3,Phantom White,12GB,64GB,3.9,33075,0.31
+Apple,iPhone 12 Pro Max,Silver,4GB,256GB,4.2,146333,0.31
+OnePlus,OnePlus 9,Graphite,8GB,1TB,4.3,20655,0.33
+OnePlus,OnePlus 9,Silver,8GB,128GB,4.0,51208,0.06
+Apple,iPhone 12,Graphite,4GB,64GB,4.3,142325,0.01
+OnePlus,OnePlus Nord 2,Cosmic Purple,8GB,1TB,4.0,42115,0.02
+Realme,Realme 7,Midnight Black,12GB,512GB,4.2,26841,0.01
+Realme,Realme 7,Midnight Black,6GB,512GB,4.0,33405,0.15
+Vivo,Vivo X60,Phantom White,6GB,128GB,3.7,23579,0.1
+Samsung,Galaxy S21,Alpine Green,8GB,64GB,4.8,39492,0.15
+Samsung,Galaxy Z Fold3,Phantom White,12GB,1TB,4.3,134071,0.07
+Apple,iPhone 12,Alpine Green,8GB,512GB,4.6,102434,0.16
+Samsung,Galaxy A52,Cosmic Purple,4GB,64GB,4.5,120389,0.31
+Realme,Realme 8 Pro,Cosmic Purple,8GB,1TB,4.3,36685,0.26
+Vivo,Vivo X60,Phantom White,8GB,1TB,4.6,19037,0.08
+Apple,iPhone 13,Cosmic Purple,8GB,256GB,4.8,123792,0.17
+Vivo,Vivo V20,Alpine Green,8GB,256GB,3.7,15848,0.19
+Samsung,Galaxy S22,Cosmic Purple,6GB,64GB,4.5,80301,0.13
+Vivo,Vivo V20,Rose Gold,8GB,256GB,3.7,16323,0.22
+Vivo,Vivo V21,Silver,4GB,512GB,4.1,25161,0.05
+OnePlus,OnePlus 9,Silver,8GB,64GB,4.0,49884,0.31
+OnePlus,OnePlus 9 Pro,Ocean Blue,12GB,512GB,4.7,36773,0.09
+Samsung,Galaxy S22 Ultra,Phantom White,8GB,1TB,4.1,24863,0.04
+Apple,iPhone 13 Pro Max,Alpine Green,6GB,1TB,4.2,69199,0.33
+Vivo,Vivo Y21,Alpine Green,4GB,512GB,3.8,15373,0.1
+Xiaomi,Redmi 10,Silver,4GB,64GB,3.8,29300,0.12
+Apple,iPhone 13 Pro,Midnight Black,4GB,1TB,3.6,95396,0.28
+OnePlus,OnePlus 9 Pro,Midnight Black,8GB,1TB,4.0,52477,0.03
+Realme,Realme 8 Pro,Phantom White,4GB,512GB,4.4,18519,0.06
+Vivo,Vivo Y33s,Midnight Black,12GB,1TB,3.9,20296,0.01
+Xiaomi,Redmi 10,Phantom White,12GB,512GB,4.1,42349,0.11
+Vivo,Vivo V20,Rose Gold,6GB,256GB,4.5,17899,0.08
+Samsung,Galaxy A52,Phantom White,4GB,64GB,3.7,128706,0.04
+Apple,iPhone 13,Phantom White,6GB,64GB,4.0,132222,0.24
+Realme,Realme Narzo 30,Cosmic Purple,12GB,512GB,3.8,31112,0.23
+Vivo,Vivo Y33s,Graphite,6GB,512GB,4.5,22934,0.05
+Samsung,Galaxy S22 Ultra,Midnight Black,4GB,64GB,4.7,119333,0.09
+Samsung,Galaxy Z Fold3,Cosmic Purple,12GB,256GB,4.2,120926,0.11
+Vivo,Vivo V20,Silver,6GB,64GB,4.7,16379,0.33
+OnePlus,OnePlus 9,Cosmic Purple,8GB,128GB,3.7,27197,0.08
+Realme,Realme GT,Graphite,6GB,128GB,4.1,35259,0.0
+Xiaomi,Redmi 10,Silver,8GB,256GB,3.6,40640,0.27
+Realme,Realme Narzo 30,Ocean Blue,6GB,256GB,4.5,34135,0.26
+Xiaomi,Poco F3,Rose Gold,6GB,512GB,4.6,11583,0.16
+Vivo,Vivo Y33s,Graphite,12GB,64GB,4.0,11587,0.14
+Vivo,Vivo V21,Cosmic Purple,12GB,512GB,4.8,30947,0.2
+Xiaomi,Poco F3,Ocean Blue,12GB,256GB,4.0,11536,0.29
+Vivo,Vivo Y33s,Graphite,12GB,256GB,3.6,18511,0.01
+OnePlus,OnePlus 9R,Rose Gold,4GB,512GB,3.7,22987,0.28
+Xiaomi,Poco F3,Rose Gold,4GB,1TB,4.7,29067,0.27
+Vivo,Vivo V21,Cosmic Purple,6GB,1TB,4.5,20422,0.27
+Samsung,Galaxy Z Fold3,Silver,6GB,1TB,4.5,15862,0.24
+Apple,iPhone 12 Pro Max,Ocean Blue,12GB,64GB,3.7,112683,0.06
+Xiaomi,Redmi 10,Graphite,12GB,128GB,4.8,22375,0.26
+Xiaomi,Redmi Note 10,Graphite,8GB,1TB,4.5,13495,0.03
+Samsung,Galaxy S21,Alpine Green,6GB,64GB,4.6,118127,0.27
+Xiaomi,Redmi Note 11,Midnight Black,12GB,256GB,3.8,44035,0.16
+Apple,iPhone 13,Graphite,4GB,256GB,4.6,137599,0.06
+Samsung,Galaxy M32,Graphite,4GB,1TB,4.6,117980,0.27
+Apple,iPhone 12,Phantom White,8GB,128GB,4.3,95900,0.17
+Vivo,Vivo X60,Alpine Green,8GB,512GB,4.6,25168,0.04
+Realme,Realme GT,Ocean Blue,6GB,128GB,4.4,25840,0.27
+Vivo,Vivo V21,Ocean Blue,12GB,1TB,4.6,23690,0.11
+Xiaomi,Redmi Note 11,Alpine Green,4GB,512GB,3.8,32292,0.01
+Vivo,Vivo X60,Silver,12GB,64GB,4.9,39246,0.16
+Samsung,Galaxy S21,Midnight Black,6GB,512GB,4.2,86299,0.25
+Xiaomi,Redmi Note 10,Alpine Green,8GB,128GB,4.0,36894,0.1
+Apple,iPhone 11,Graphite,6GB,256GB,4.7,85117,0.1
+OnePlus,OnePlus 9,Silver,4GB,512GB,4.0,37649,0.14
+Apple,iPhone 12 Pro Max,Silver,6GB,64GB,4.7,71246,0.13
+Apple,iPhone 12 Pro Max,Silver,8GB,64GB,3.8,100655,0.2
+Apple,iPhone 12,Alpine Green,8GB,256GB,4.7,65883,0.28
+Realme,Realme 7,Graphite,8GB,64GB,4.8,34651,0.33
+Xiaomi,Poco X3,Midnight Black,8GB,256GB,4.6,17971,0.02
+Realme,Realme 8,Midnight Black,12GB,64GB,4.2,21833,0.14
+Apple,iPhone 12 Pro Max,Phantom White,6GB,64GB,4.0,93530,0.23
+Realme,Realme 8,Alpine Green,12GB,128GB,4.5,14150,0.06
+Vivo,Vivo Y33s,Ocean Blue,12GB,64GB,4.5,39674,0.1
+Vivo,Vivo Y21,Cosmic Purple,6GB,64GB,4.2,31095,0.23
+Samsung,Galaxy M32,Graphite,8GB,128GB,4.1,91433,0.14
+Realme,Realme 8 Pro,Graphite,6GB,1TB,4.7,14084,0.25
+Xiaomi,Redmi 10,Cosmic Purple,4GB,64GB,4.1,21528,0.26
+Vivo,Vivo Y21,Phantom White,4GB,128GB,3.8,12317,0.08
+Samsung,Galaxy A52,Alpine Green,4GB,512GB,3.8,42591,0.1
+Apple,iPhone 13 Pro,Alpine Green,6GB,64GB,4.7,48607,0.14
+Xiaomi,Redmi Note 11,Cosmic Purple,6GB,128GB,4.5,17076,0.3
+Xiaomi,Poco X3,Rose Gold,8GB,512GB,4.5,18562,0.07
+Xiaomi,Redmi Note 11,Ocean Blue,12GB,512GB,4.8,37668,0.02
+Apple,iPhone 13,Cosmic Purple,6GB,64GB,4.6,60621,0.26
+Realme,Realme 8 Pro,Ocean Blue,12GB,64GB,4.7,14610,0.1
+Samsung,Galaxy Z Fold3,Alpine Green,12GB,1TB,3.7,73562,0.12
+Vivo,Vivo Y21,Cosmic Purple,6GB,256GB,4.7,23799,0.09
+OnePlus,OnePlus 9R,Cosmic Purple,6GB,64GB,4.6,60285,0.17
+Samsung,Galaxy M32,Phantom White,4GB,256GB,4.5,82423,0.09
+Apple,iPhone 12 Pro Max,Graphite,12GB,64GB,3.7,73080,0.08
+Xiaomi,Mi 11X,Ocean Blue,6GB,512GB,4.9,9220,0.05
+Apple,iPhone 12 Pro Max,Rose Gold,8GB,64GB,4.2,94118,0.04
+Xiaomi,Redmi 10,Rose Gold,8GB,256GB,4.4,35342,0.23
+Realme,Realme 7,Silver,4GB,512GB,4.2,16431,0.31
+Xiaomi,Redmi Note 10,Silver,8GB,512GB,4.6,43897,0.12
+Samsung,Galaxy Z Fold3,Alpine Green,4GB,64GB,4.3,31956,0.08
+Apple,iPhone 12,Cosmic Purple,12GB,1TB,4.9,64032,0.04
+Realme,Realme GT,Phantom White,6GB,128GB,3.9,13173,0.01
+Apple,iPhone 13 Pro,Rose Gold,4GB,256GB,4.4,162922,0.31
+Apple,iPhone 12 Pro Max,Ocean Blue,4GB,64GB,4.6,108231,0.02
+Vivo,Vivo X60,Phantom White,4GB,512GB,4.7,18089,0.28
+Xiaomi,Redmi Note 10,Midnight Black,6GB,1TB,4.0,36990,0.24
+Xiaomi,Poco X3,Phantom White,4GB,64GB,4.9,10399,0.23
+Samsung,Galaxy S22,Phantom White,6GB,64GB,4.6,39671,0.29
+Samsung,Galaxy S22,Graphite,12GB,64GB,4.5,43573,0.22
+Apple,iPhone 11,Ocean Blue,8GB,256GB,4.7,158199,0.05
+Apple,iPhone 12,Cosmic Purple,12GB,64GB,3.8,54208,0.19
+Vivo,Vivo V20,Midnight Black,4GB,128GB,3.9,16037,0.15
+OnePlus,OnePlus 9R,Phantom White,8GB,1TB,4.5,52790,0.33
+Realme,Realme 7,Silver,12GB,128GB,4.7,29473,0.19
+Realme,Realme Narzo 30,Cosmic Purple,12GB,128GB,4.4,36041,0.16
+Xiaomi,Mi 11X,Ocean Blue,4GB,128GB,4.1,33610,0.27
+OnePlus,OnePlus 9,Midnight Black,6GB,64GB,3.9,52966,0.33
+Apple,iPhone 13 Pro,Cosmic Purple,12GB,1TB,4.5,80446,0.02
+Samsung,Galaxy M32,Ocean Blue,6GB,128GB,4.8,80639,0.3
+Realme,Realme 8,Ocean Blue,4GB,256GB,4.3,13065,0.09
+Xiaomi,Poco F3,Phantom White,6GB,64GB,4.2,22454,0.05
+Samsung,Galaxy A52,Midnight Black,6GB,1TB,4.2,69328,0.25
+Realme,Realme 8,Silver,12GB,128GB,4.5,37761,0.12
+Apple,iPhone 11,Alpine Green,4GB,64GB,3.7,88233,0.27
+Vivo,Vivo Y33s,Midnight Black,4GB,128GB,4.2,37390,0.03
+Realme,Realme 8 Pro,Alpine Green,4GB,128GB,4.9,20251,0.13
+Apple,iPhone 13 Pro,Graphite,8GB,256GB,3.8,83782,0.21
+Realme,Realme 7,Cosmic Purple,8GB,512GB,4.3,35165,0.03
+Samsung,Galaxy S22 Ultra,Alpine Green,8GB,512GB,4.2,80472,0.15
+Apple,iPhone 11,Alpine Green,4GB,256GB,4.8,144063,0.12
+Xiaomi,Redmi Note 10,Silver,8GB,1TB,3.8,33754,0.2
+Samsung,Galaxy Z Fold3,Phantom White,8GB,1TB,3.9,56158,0.13
+Apple,iPhone 12 Pro Max,Graphite,6GB,1TB,4.1,55976,0.19
+Apple,iPhone 13 Pro Max,Cosmic Purple,4GB,512GB,3.9,152527,0.21
+Realme,Realme 7,Cosmic Purple,8GB,64GB,4.6,35513,0.22
+Realme,Realme Narzo 30,Phantom White,4GB,64GB,3.9,11539,0.32
+OnePlus,OnePlus Nord 2,Midnight Black,4GB,256GB,4.4,34951,0.34
+Vivo,Vivo Y21,Cosmic Purple,12GB,128GB,4.3,23389,0.25
+Samsung,Galaxy M32,Midnight Black,12GB,256GB,3.9,102211,0.02
+Vivo,Vivo V20,Graphite,6GB,1TB,4.3,32938,0.23
+Xiaomi,Poco X3,Graphite,6GB,64GB,3.9,36511,0.26
+Samsung,Galaxy S22 Ultra,Rose Gold,6GB,64GB,4.0,116012,0.09
+OnePlus,OnePlus 9,Rose Gold,8GB,512GB,3.8,42488,0.27
+Apple,iPhone 12,Rose Gold,6GB,256GB,4.0,94009,0.1
+Vivo,Vivo V21,Midnight Black,12GB,512GB,4.0,36955,0.1
+Xiaomi,Poco F3,Alpine Green,6GB,64GB,4.1,41831,0.18
+Xiaomi,Mi 11X,Phantom White,12GB,1TB,4.7,13032,0.24
+Xiaomi,Redmi Note 10,Graphite,4GB,256GB,3.9,23164,0.07
+Xiaomi,Redmi Note 11,Graphite,8GB,64GB,4.1,23541,0.28
+Apple,iPhone 11,Midnight Black,12GB,1TB,4.2,77447,0.19
+Realme,Realme Narzo 30,Ocean Blue,4GB,128GB,4.2,14414,0.14
+Xiaomi,Redmi Note 11,Alpine Green,12GB,64GB,4.5,14496,0.32
+Realme,Realme 7,Cosmic Purple,8GB,512GB,3.7,26406,0.3
+Realme,Realme 7,Alpine Green,4GB,128GB,3.9,10870,0.35
+Apple,iPhone 13 Pro,Midnight Black,8GB,512GB,3.7,78530,0.29
+Realme,Realme 8,Ocean Blue,12GB,256GB,4.2,33030,0.17
+Vivo,Vivo X60,Midnight Black,12GB,64GB,4.7,33286,0.07
+Xiaomi,Poco F3,Silver,6GB,64GB,3.7,13647,0.28
+Realme,Realme 7,Graphite,4GB,1TB,4.0,17580,0.14
+OnePlus,OnePlus Nord 2,Alpine Green,6GB,512GB,3.9,28333,0.33
+Realme,Realme 7,Phantom White,4GB,128GB,4.2,20983,0.12
+Apple,iPhone 11,Graphite,4GB,256GB,3.8,151757,0.33
+Apple,iPhone 12 Pro Max,Alpine Green,8GB,128GB,4.2,148677,0.15
+Vivo,Vivo V21,Midnight Black,4GB,128GB,4.2,38739,0.01
+Apple,iPhone 12,Alpine Green,6GB,256GB,4.1,68168,0.29
+Apple,iPhone 13,Phantom White,12GB,64GB,4.0,100798,0.03
+Samsung,Galaxy S22,Graphite,8GB,256GB,3.7,70333,0.18
+Samsung,Galaxy Z Fold3,Midnight Black,12GB,512GB,4.2,87580,0.23
+Samsung,Galaxy M32,Ocean Blue,8GB,256GB,4.6,19287,0.04
+Xiaomi,Poco F3,Alpine Green,12GB,128GB,4.0,24559,0.17
+Vivo,Vivo Y33s,Phantom White,12GB,64GB,3.9,32139,0.13
+Vivo,Vivo V21,Alpine Green,4GB,256GB,4.2,33739,0.01
+Apple,iPhone 13 Pro,Silver,4GB,256GB,4.0,92652,0.33
+Vivo,Vivo V20,Graphite,6GB,512GB,4.6,34139,0.2
+Vivo,Vivo V20,Rose Gold,8GB,1TB,4.4,35887,0.21
+Vivo,Vivo V20,Midnight Black,8GB,128GB,4.3,22999,0.2
+Vivo,Vivo Y33s,Ocean Blue,6GB,256GB,4.3,20647,0.01
+Realme,Realme 8 Pro,Ocean Blue,6GB,128GB,3.7,37498,0.27
+Samsung,Galaxy S22 Ultra,Phantom White,12GB,512GB,4.3,139911,0.33
+OnePlus,OnePlus Nord CE,Alpine Green,12GB,128GB,4.1,25714,0.16
+OnePlus,OnePlus 9,Cosmic Purple,6GB,128GB,4.0,32949,0.18
+Samsung,Galaxy S22 Ultra,Silver,6GB,1TB,3.8,131580,0.2
+Apple,iPhone 12 Pro Max,Alpine Green,8GB,512GB,4.8,75881,0.34
+Vivo,Vivo Y33s,Rose Gold,8GB,64GB,4.3,38819,0.27
+OnePlus,OnePlus Nord CE,Silver,6GB,512GB,4.5,24127,0.27
+OnePlus,OnePlus Nord CE,Rose Gold,8GB,512GB,4.4,32197,0.01
+OnePlus,OnePlus 9 Pro,Midnight Black,6GB,128GB,4.6,38558,0.2
+Apple,iPhone 12 Pro Max,Ocean Blue,8GB,512GB,4.3,108072,0.21
+Xiaomi,Poco F3,Graphite,4GB,64GB,4.7,19763,0.17
+Samsung,Galaxy S21,Alpine Green,12GB,1TB,4.1,130029,0.14
+Apple,iPhone 11,Rose Gold,6GB,64GB,3.7,95681,0.29
+Xiaomi,Redmi Note 10,Alpine Green,4GB,512GB,4.3,27300,0.03
+Vivo,Vivo Y33s,Midnight Black,8GB,64GB,4.2,36351,0.06
+Vivo,Vivo Y33s,Ocean Blue,12GB,512GB,4.4,12648,0.26
+Samsung,Galaxy A52,Graphite,8GB,64GB,4.8,71756,0.15
+Xiaomi,Poco X3,Phantom White,4GB,512GB,4.8,35425,0.27
+OnePlus,OnePlus 9R,Phantom White,8GB,64GB,4.3,24033,0.26
+OnePlus,OnePlus 9 Pro,Rose Gold,4GB,128GB,4.3,57439,0.02
+Xiaomi,Redmi Note 10,Rose Gold,8GB,64GB,4.9,22004,0.07
+Samsung,Galaxy S21,Phantom White,8GB,256GB,4.5,36445,0.07
+OnePlus,OnePlus 9,Cosmic Purple,4GB,512GB,3.6,28765,0.24
+Apple,iPhone 13 Pro,Phantom White,4GB,512GB,3.7,155598,0.08
+Realme,Realme 8 Pro,Phantom White,12GB,512GB,4.3,21303,0.13
+Samsung,Galaxy S22,Cosmic Purple,4GB,1TB,4.0,48681,0.21
+Vivo,Vivo Y21,Silver,4GB,128GB,4.7,20634,0.18
+Apple,iPhone 13,Graphite,8GB,64GB,3.9,98710,0.24
+Apple,iPhone 13,Cosmic Purple,4GB,128GB,4.8,175982,0.23
+Samsung,Galaxy S22,Midnight Black,4GB,128GB,4.4,129105,0.17
+Realme,Realme 7,Phantom White,4GB,128GB,3.9,23758,0.06
+Realme,Realme 8 Pro,Cosmic Purple,12GB,128GB,4.6,37077,0.08
+Realme,Realme Narzo 30,Midnight Black,6GB,1TB,4.5,20434,0.14
+Xiaomi,Redmi Note 11,Cosmic Purple,4GB,512GB,4.6,44690,0.25
+OnePlus,OnePlus 9 Pro,Midnight Black,12GB,512GB,4.5,44388,0.3
+OnePlus,OnePlus 9R,Rose Gold,6GB,64GB,4.1,18147,0.13
+Samsung,Galaxy S21,Phantom White,6GB,128GB,4.4,56977,0.24
+Apple,iPhone 13,Silver,4GB,256GB,4.3,162252,0.33
+Vivo,Vivo X60,Rose Gold,6GB,64GB,4.3,36234,0.33
+Apple,iPhone 13 Pro,Phantom White,8GB,1TB,4.1,164727,0.26
+Apple,iPhone 13 Pro,Graphite,6GB,512GB,4.4,120708,0.27
+Apple,iPhone 12,Phantom White,4GB,256GB,4.6,105240,0.23
+Realme,Realme GT,Graphite,8GB,128GB,4.0,29844,0.12
+Vivo,Vivo Y33s,Midnight Black,4GB,256GB,4.1,31514,0.19
+OnePlus,OnePlus 9,Cosmic Purple,4GB,256GB,4.8,33419,0.31
+OnePlus,OnePlus 9 Pro,Rose Gold,12GB,128GB,4.3,61039,0.07
+Realme,Realme GT,Graphite,12GB,64GB,4.9,12080,0.25
+Vivo,Vivo V20,Cosmic Purple,12GB,512GB,4.3,39082,0.22
+OnePlus,OnePlus Nord CE,Cosmic Purple,6GB,128GB,4.0,55801,0.07
+Vivo,Vivo V21,Silver,4GB,512GB,4.4,33358,0.22
+Samsung,Galaxy S22 Ultra,Alpine Green,8GB,64GB,4.5,127742,0.13
+OnePlus,OnePlus 9 Pro,Silver,12GB,1TB,3.6,26180,0.06
+Realme,Realme Narzo 30,Silver,8GB,256GB,3.9,27156,0.14
+Realme,Realme GT,Ocean Blue,6GB,256GB,4.7,30033,0.1
+Vivo,Vivo Y21,Phantom White,8GB,512GB,4.7,18280,0.3
+Samsung,Galaxy M32,Midnight Black,8GB,512GB,3.8,24434,0.24
+Xiaomi,Redmi Note 11,Silver,12GB,128GB,4.8,31501,0.14
+Realme,Realme Narzo 30,Rose Gold,6GB,128GB,4.0,29920,0.27
+Xiaomi,Redmi Note 10,Ocean Blue,4GB,1TB,4.5,33197,0.13
+Vivo,Vivo V20,Graphite,12GB,1TB,4.0,30984,0.11
+OnePlus,OnePlus Nord 2,Graphite,6GB,64GB,3.9,59164,0.22
+Vivo,Vivo Y33s,Midnight Black,4GB,512GB,4.4,16400,0.02
+Realme,Realme 8 Pro,Ocean Blue,8GB,64GB,3.7,21934,0.07
+Xiaomi,Redmi Note 10,Silver,8GB,512GB,3.7,30480,0.07
+Samsung,Galaxy A52,Phantom White,8GB,1TB,4.8,121156,0.15
+Vivo,Vivo Y33s,Midnight Black,6GB,512GB,4.2,21397,0.02
+Realme,Realme 8 Pro,Phantom White,4GB,256GB,4.8,35967,0.03
+Xiaomi,Redmi Note 11,Cosmic Purple,12GB,1TB,4.3,16996,0.24
+Realme,Realme GT,Alpine Green,6GB,512GB,3.6,21828,0.05
+Realme,Realme 7,Silver,12GB,128GB,4.8,20842,0.2
+OnePlus,OnePlus 9 Pro,Alpine Green,8GB,1TB,4.3,47476,0.19
+Xiaomi,Mi 11X,Phantom White,6GB,512GB,4.5,42437,0.12
+Vivo,Vivo X60,Silver,12GB,256GB,4.6,21398,0.28
+Realme,Realme 8 Pro,Phantom White,6GB,256GB,4.8,13888,0.34
+Vivo,Vivo V20,Silver,4GB,128GB,4.8,11205,0.31
+Apple,iPhone 12,Graphite,8GB,128GB,4.4,105840,0.03
+Samsung,Galaxy S22,Midnight Black,8GB,256GB,3.7,14730,0.11
+OnePlus,OnePlus 9,Ocean Blue,12GB,1TB,4.6,24577,0.1
+Xiaomi,Poco F3,Rose Gold,12GB,1TB,4.4,41153,0.05
+Vivo,Vivo Y21,Rose Gold,12GB,512GB,4.5,20590,0.23
+Samsung,Galaxy A52,Alpine Green,6GB,256GB,4.7,110829,0.25
+Xiaomi,Mi 11X,Ocean Blue,4GB,1TB,3.9,20329,0.25
+Apple,iPhone 13 Pro Max,Phantom White,6GB,64GB,3.8,82542,0.31
+Vivo,Vivo V21,Graphite,4GB,64GB,4.1,11265,0.31
+Realme,Realme Narzo 30,Rose Gold,8GB,512GB,3.8,33512,0.19
+Xiaomi,Redmi Note 10,Phantom White,12GB,512GB,4.3,14707,0.23
+Samsung,Galaxy S22,Silver,12GB,512GB,4.0,111888,0.34
+Realme,Realme 8 Pro,Cosmic Purple,6GB,512GB,3.8,28717,0.33
+Xiaomi,Redmi Note 11,Midnight Black,12GB,512GB,4.8,24800,0.26
+OnePlus,OnePlus 9,Phantom White,12GB,64GB,4.4,29504,0.02
+Vivo,Vivo Y21,Ocean Blue,12GB,128GB,4.8,32476,0.2
+Samsung,Galaxy S21,Silver,6GB,128GB,3.8,139199,0.2
+Realme,Realme Narzo 30,Rose Gold,6GB,64GB,4.6,36194,0.11
+Realme,Realme 8,Graphite,6GB,1TB,4.3,17748,0.31
+Xiaomi,Redmi 10,Silver,6GB,1TB,4.7,44400,0.07
+Realme,Realme 8 Pro,Graphite,12GB,64GB,4.2,31122,0.16
+Vivo,Vivo V20,Ocean Blue,6GB,512GB,4.0,11640,0.2
+Xiaomi,Mi 11X,Cosmic Purple,4GB,128GB,4.8,37756,0.0
+Realme,Realme Narzo 30,Cosmic Purple,4GB,128GB,3.7,18076,0.23
+Realme,Realme GT,Cosmic Purple,4GB,128GB,4.2,36787,0.11
+Realme,Realme 7,Ocean Blue,6GB,128GB,3.6,32125,0.26
+Apple,iPhone 12,Silver,12GB,64GB,4.3,90420,0.01
+Apple,iPhone 12 Pro Max,Cosmic Purple,12GB,1TB,4.3,159916,0.12
+Samsung,Galaxy A52,Silver,8GB,128GB,3.9,84122,0.14
+Apple,iPhone 11,Ocean Blue,4GB,256GB,4.9,106941,0.32
+Vivo,Vivo V21,Silver,4GB,512GB,3.7,38367,0.31
+Samsung,Galaxy A52,Midnight Black,4GB,128GB,4.4,35951,0.27
+Vivo,Vivo Y33s,Silver,4GB,64GB,4.0,26662,0.1
+Vivo,Vivo Y33s,Ocean Blue,4GB,1TB,4.7,11160,0.2
+OnePlus,OnePlus 9,Ocean Blue,12GB,64GB,4.4,25547,0.05
+Apple,iPhone 13 Pro Max,Phantom White,6GB,64GB,3.9,75953,0.3
+Vivo,Vivo V20,Rose Gold,12GB,128GB,3.7,30852,0.27
+Vivo,Vivo V21,Midnight Black,4GB,512GB,4.1,15243,0.32
+Apple,iPhone 11,Alpine Green,12GB,128GB,4.5,159723,0.33
+Samsung,Galaxy M32,Ocean Blue,4GB,256GB,4.3,70550,0.13
+Samsung,Galaxy M32,Alpine Green,6GB,512GB,4.4,101181,0.28
+Realme,Realme 8,Phantom White,8GB,128GB,3.7,19320,0.01
+Realme,Realme GT,Phantom White,8GB,64GB,4.3,20703,0.34
+Samsung,Galaxy M32,Graphite,12GB,128GB,3.6,121903,0.21
+Vivo,Vivo X60,Silver,12GB,64GB,4.7,35116,0.23
+Samsung,Galaxy A52,Silver,6GB,1TB,4.2,16239,0.27
+Samsung,Galaxy Z Fold3,Midnight Black,6GB,256GB,3.8,136574,0.13
+Xiaomi,Poco F3,Silver,12GB,256GB,4.6,17541,0.07
+Apple,iPhone 12 Pro Max,Midnight Black,6GB,64GB,3.8,171314,0.33
+OnePlus,OnePlus 9,Silver,6GB,512GB,3.9,50430,0.1
+Samsung,Galaxy M32,Alpine Green,12GB,64GB,4.2,126979,0.21
+OnePlus,OnePlus 9R,Phantom White,6GB,256GB,4.3,25014,0.12
+Xiaomi,Redmi Note 11,Alpine Green,6GB,256GB,3.6,12843,0.04
+Realme,Realme 8 Pro,Rose Gold,12GB,1TB,4.8,30966,0.16
+OnePlus,OnePlus Nord 2,Midnight Black,8GB,512GB,4.4,40808,0.13
+OnePlus,OnePlus 9R,Ocean Blue,8GB,512GB,4.7,26969,0.29
+Xiaomi,Poco X3,Rose Gold,4GB,64GB,3.7,12892,0.27
+Realme,Realme 8,Alpine Green,6GB,64GB,4.6,34139,0.28
+Realme,Realme Narzo 30,Midnight Black,12GB,512GB,4.0,12948,0.17
+OnePlus,OnePlus Nord CE,Alpine Green,4GB,1TB,3.7,61921,0.13
+Apple,iPhone 12,Alpine Green,4GB,256GB,4.5,166492,0.03
+Realme,Realme 8,Rose Gold,12GB,64GB,3.9,25137,0.25
+Xiaomi,Redmi Note 10,Alpine Green,8GB,256GB,4.9,27058,0.17
+Samsung,Galaxy Z Fold3,Phantom White,4GB,128GB,3.6,88072,0.15
+Xiaomi,Poco F3,Silver,12GB,512GB,4.5,25630,0.17
+Samsung,Galaxy S21,Alpine Green,8GB,128GB,4.9,119336,0.31
+Samsung,Galaxy M32,Rose Gold,6GB,512GB,4.8,123881,0.15
+OnePlus,OnePlus 9 Pro,Phantom White,4GB,256GB,4.4,52381,0.08
+Samsung,Galaxy A52,Cosmic Purple,4GB,64GB,3.7,48865,0.14
+OnePlus,OnePlus 9,Graphite,8GB,1TB,3.6,22444,0.28
+Apple,iPhone 13,Cosmic Purple,12GB,64GB,4.8,54791,0.01
+Vivo,Vivo X60,Ocean Blue,4GB,1TB,4.6,39112,0.25
+Vivo,Vivo X60,Alpine Green,8GB,128GB,4.5,34190,0.02
+Samsung,Galaxy S21,Graphite,4GB,1TB,4.0,122806,0.21
+OnePlus,OnePlus 9 Pro,Cosmic Purple,6GB,64GB,3.9,56687,0.15
+Apple,iPhone 13,Rose Gold,8GB,64GB,4.1,145140,0.33
+Samsung,Galaxy S22,Cosmic Purple,8GB,64GB,4.2,88844,0.09
+Samsung,Galaxy S22,Silver,12GB,128GB,3.9,104293,0.34
+Vivo,Vivo Y33s,Graphite,4GB,1TB,4.2,11480,0.02
+Xiaomi,Redmi Note 11,Rose Gold,6GB,64GB,3.9,12341,0.18
+Realme,Realme Narzo 30,Midnight Black,4GB,512GB,3.7,15189,0.23
+Vivo,Vivo V21,Graphite,4GB,1TB,4.8,37187,0.03
+Xiaomi,Redmi 10,Cosmic Purple,6GB,64GB,3.7,38127,0.34
+Vivo,Vivo Y33s,Graphite,4GB,64GB,4.9,24074,0.31
+Xiaomi,Poco F3,Phantom White,6GB,64GB,4.2,32334,0.18
+Vivo,Vivo Y21,Cosmic Purple,8GB,512GB,4.8,28665,0.06
+Apple,iPhone 12 Pro Max,Alpine Green,12GB,512GB,4.0,69562,0.29
+Samsung,Galaxy S22,Rose Gold,4GB,256GB,4.4,25993,0.27
+Vivo,Vivo V21,Phantom White,12GB,1TB,4.0,16418,0.21
+OnePlus,OnePlus Nord CE,Phantom White,12GB,512GB,4.4,61927,0.33
+OnePlus,OnePlus 9,Graphite,4GB,1TB,4.1,25727,0.09
+Apple,iPhone 13 Pro,Rose Gold,4GB,256GB,4.2,174592,0.31
+Vivo,Vivo Y21,Phantom White,12GB,256GB,4.5,37492,0.24
+Realme,Realme Narzo 30,Silver,12GB,256GB,3.7,25081,0.2
+Vivo,Vivo V20,Phantom White,8GB,64GB,4.8,24816,0.25
+Xiaomi,Poco F3,Rose Gold,12GB,1TB,3.9,26355,0.33
+OnePlus,OnePlus 9,Graphite,12GB,1TB,4.0,22244,0.16
+Samsung,Galaxy M32,Silver,4GB,512GB,3.8,136344,0.12
+Samsung,Galaxy A52,Rose Gold,8GB,1TB,4.3,14044,0.18
+Realme,Realme Narzo 30,Graphite,12GB,1TB,4.5,17469,0.21
+OnePlus,OnePlus 9R,Graphite,12GB,512GB,3.8,52551,0.16
+Realme,Realme 8,Rose Gold,4GB,1TB,4.7,12922,0.1
+Samsung,Galaxy S21,Ocean Blue,8GB,1TB,4.4,35396,0.35
+Samsung,Galaxy A52,Rose Gold,4GB,128GB,3.9,108334,0.14
+Apple,iPhone 12 Pro Max,Phantom White,6GB,64GB,4.8,129205,0.19
+Apple,iPhone 13,Silver,4GB,128GB,4.1,117985,0.26
+OnePlus,OnePlus 9R,Graphite,4GB,1TB,3.7,38832,0.23
+Samsung,Galaxy A52,Graphite,8GB,64GB,4.6,68577,0.14
+Apple,iPhone 13,Cosmic Purple,4GB,1TB,3.8,112814,0.21
+Realme,Realme 7,Alpine Green,4GB,512GB,4.2,28060,0.05
+Xiaomi,Redmi Note 10,Cosmic Purple,8GB,512GB,4.3,15854,0.28
+Xiaomi,Poco F3,Phantom White,12GB,512GB,4.8,44777,0.15
+Vivo,Vivo Y33s,Ocean Blue,12GB,1TB,4.3,21211,0.33
+OnePlus,OnePlus Nord CE,Graphite,4GB,256GB,4.0,35119,0.34
+Vivo,Vivo V21,Midnight Black,4GB,1TB,3.8,30631,0.24
+Apple,iPhone 13 Pro Max,Cosmic Purple,8GB,128GB,4.5,145005,0.31
+Apple,iPhone 12 Pro Max,Midnight Black,4GB,512GB,3.7,61218,0.08
+Realme,Realme 7,Rose Gold,6GB,512GB,4.0,23460,0.34
+Vivo,Vivo Y21,Midnight Black,8GB,256GB,4.1,12828,0.13
+Apple,iPhone 11,Alpine Green,8GB,128GB,4.0,110593,0.06
+Xiaomi,Poco X3,Rose Gold,8GB,1TB,4.4,37268,0.17
+Apple,iPhone 12 Pro Max,Rose Gold,8GB,128GB,3.6,126459,0.11
+Xiaomi,Poco X3,Cosmic Purple,8GB,1TB,4.8,38531,0.27
+Xiaomi,Mi 11X,Ocean Blue,6GB,1TB,4.6,10893,0.15
+Samsung,Galaxy S22 Ultra,Graphite,12GB,512GB,4.6,125973,0.22
+OnePlus,OnePlus Nord 2,Graphite,4GB,64GB,4.1,39889,0.21
+Xiaomi,Redmi Note 11,Alpine Green,4GB,512GB,3.8,21238,0.04
+Samsung,Galaxy S22 Ultra,Phantom White,12GB,512GB,4.9,76700,0.24
+OnePlus,OnePlus Nord 2,Rose Gold,6GB,256GB,4.4,43568,0.01
+Apple,iPhone 12,Graphite,4GB,64GB,4.1,176952,0.29
+Xiaomi,Poco F3,Rose Gold,4GB,64GB,4.6,44183,0.01
+OnePlus,OnePlus Nord CE,Rose Gold,12GB,512GB,4.9,26378,0.07
+Apple,iPhone 12,Silver,12GB,64GB,4.8,116616,0.16
+Vivo,Vivo V20,Graphite,6GB,512GB,3.7,34935,0.04
+Samsung,Galaxy S21,Ocean Blue,8GB,128GB,4.6,129932,0.17
+Samsung,Galaxy Z Fold3,Silver,12GB,1TB,3.7,86627,0.12
+Vivo,Vivo Y21,Silver,8GB,1TB,3.8,15191,0.04
+Realme,Realme Narzo 30,Silver,8GB,256GB,4.6,18793,0.02
+Vivo,Vivo V20,Graphite,8GB,256GB,4.0,26309,0.12
+Samsung,Galaxy S22,Midnight Black,4GB,128GB,4.8,34206,0.33
+OnePlus,OnePlus Nord 2,Cosmic Purple,4GB,512GB,4.2,44092,0.27
+Samsung,Galaxy A52,Graphite,6GB,512GB,3.8,39117,0.3
+Realme,Realme 7,Rose Gold,6GB,64GB,4.8,21587,0.25
+Vivo,Vivo Y33s,Alpine Green,4GB,1TB,4.6,19091,0.29
+Xiaomi,Mi 11X,Ocean Blue,4GB,512GB,4.4,24043,0.11
+Realme,Realme 7,Phantom White,8GB,1TB,4.8,20846,0.3
+Xiaomi,Redmi Note 10,Alpine Green,4GB,1TB,3.7,34974,0.15
+Realme,Realme 8 Pro,Midnight Black,12GB,256GB,4.9,19137,0.09
+Vivo,Vivo X60,Graphite,8GB,512GB,3.7,28423,0.07
+Realme,Realme 8 Pro,Midnight Black,12GB,1TB,4.4,24756,0.25
+Realme,Realme 8,Alpine Green,8GB,128GB,4.4,14041,0.05
+OnePlus,OnePlus Nord CE,Graphite,12GB,1TB,4.3,45891,0.35
+Realme,Realme 7,Phantom White,4GB,256GB,4.9,20305,0.17
+Vivo,Vivo Y21,Cosmic Purple,4GB,256GB,4.7,33315,0.05
+OnePlus,OnePlus 9R,Alpine Green,4GB,1TB,4.3,42991,0.25
+Samsung,Galaxy S22 Ultra,Phantom White,6GB,1TB,4.4,91646,0.16
+Realme,Realme Narzo 30,Ocean Blue,4GB,128GB,4.9,31170,0.23
+OnePlus,OnePlus 9,Rose Gold,6GB,1TB,3.9,29298,0.18
+Realme,Realme 8,Ocean Blue,6GB,128GB,3.8,36745,0.04
+Samsung,Galaxy S22,Phantom White,4GB,64GB,3.7,82422,0.14
+OnePlus,OnePlus 9 Pro,Midnight Black,4GB,64GB,4.3,59378,0.21
+Realme,Realme GT,Rose Gold,4GB,64GB,4.3,36798,0.1
+Xiaomi,Poco X3,Midnight Black,8GB,64GB,4.8,24416,0.31
+Xiaomi,Mi 11X,Ocean Blue,4GB,1TB,4.3,12104,0.28
+Xiaomi,Poco X3,Phantom White,6GB,256GB,4.0,29735,0.29
+Apple,iPhone 11,Alpine Green,6GB,64GB,4.2,150978,0.32
+Apple,iPhone 12 Pro Max,Graphite,8GB,1TB,4.1,64538,0.12
+Vivo,Vivo V21,Rose Gold,12GB,512GB,4.1,14015,0.03
+Vivo,Vivo V20,Silver,8GB,64GB,4.5,34071,0.29
+Samsung,Galaxy S22 Ultra,Alpine Green,12GB,1TB,4.0,66274,0.21
+Realme,Realme 8 Pro,Cosmic Purple,4GB,1TB,4.4,22035,0.27
+Samsung,Galaxy Z Fold3,Rose Gold,6GB,256GB,4.3,63534,0.19
+Realme,Realme 7,Rose Gold,6GB,512GB,4.4,35719,0.01
+Samsung,Galaxy M32,Rose Gold,4GB,512GB,4.3,103407,0.23
+OnePlus,OnePlus Nord CE,Midnight Black,8GB,64GB,4.1,56755,0.15
+Xiaomi,Poco X3,Midnight Black,12GB,512GB,3.6,24515,0.04
+Apple,iPhone 12,Rose Gold,8GB,512GB,4.7,93961,0.13
+Xiaomi,Redmi Note 10,Alpine Green,8GB,128GB,4.8,39211,0.13
+Realme,Realme 8 Pro,Midnight Black,12GB,512GB,4.2,33136,0.03
+Vivo,Vivo Y21,Cosmic Purple,8GB,512GB,4.4,36692,0.03
+Realme,Realme 7,Phantom White,8GB,64GB,4.4,29405,0.14
+Samsung,Galaxy Z Fold3,Graphite,6GB,128GB,3.8,137604,0.17
+Realme,Realme 7,Midnight Black,12GB,64GB,4.7,18661,0.25
+Xiaomi,Mi 11X,Phantom White,4GB,1TB,4.1,28244,0.13
+Apple,iPhone 12 Pro Max,Rose Gold,6GB,64GB,4.7,82102,0.04
+Xiaomi,Poco X3,Alpine Green,4GB,64GB,3.7,35168,0.08
+Vivo,Vivo X60,Rose Gold,8GB,64GB,4.2,17922,0.29
+Xiaomi,Poco X3,Phantom White,6GB,1TB,4.4,27349,0.0
+Apple,iPhone 13,Phantom White,6GB,256GB,4.5,108011,0.03
+OnePlus,OnePlus 9,Rose Gold,8GB,64GB,4.2,21861,0.28
+Realme,Realme 8,Midnight Black,4GB,1TB,4.1,10033,0.21
+OnePlus,OnePlus 9,Midnight Black,8GB,128GB,4.2,20858,0.26
+Samsung,Galaxy Z Fold3,Alpine Green,6GB,128GB,3.7,74604,0.02
+OnePlus,OnePlus Nord CE,Silver,4GB,64GB,4.8,34805,0.32
+Vivo,Vivo V21,Graphite,8GB,256GB,3.9,32163,0.05
+Realme,Realme 7,Cosmic Purple,12GB,1TB,4.3,16990,0.3
+OnePlus,OnePlus Nord 2,Phantom White,8GB,256GB,4.8,25573,0.14
+Vivo,Vivo V21,Phantom White,12GB,128GB,4.6,37572,0.19
+Samsung,Galaxy A52,Midnight Black,4GB,256GB,4.0,34149,0.12
+Realme,Realme 7,Rose Gold,6GB,128GB,3.7,19724,0.07
+Vivo,Vivo X60,Cosmic Purple,8GB,1TB,4.6,37996,0.08
+Samsung,Galaxy Z Fold3,Alpine Green,12GB,256GB,4.9,71071,0.01
+OnePlus,OnePlus 9 Pro,Ocean Blue,6GB,256GB,4.8,53516,0.18
+Realme,Realme 8 Pro,Phantom White,8GB,128GB,4.1,36142,0.32
+Xiaomi,Poco X3,Phantom White,4GB,256GB,4.0,38197,0.29
+Xiaomi,Redmi 10,Alpine Green,12GB,256GB,4.2,30991,0.12
+Xiaomi,Poco X3,Phantom White,6GB,1TB,3.8,9637,0.21
+Realme,Realme 8 Pro,Silver,4GB,64GB,4.2,32932,0.11
+Apple,iPhone 13 Pro Max,Midnight Black,6GB,64GB,4.8,71245,0.16
+Realme,Realme GT,Midnight Black,4GB,128GB,4.0,19664,0.25
+OnePlus,OnePlus 9 Pro,Alpine Green,6GB,128GB,4.4,44615,0.25
+Xiaomi,Redmi Note 11,Silver,8GB,64GB,4.5,9042,0.31
+Vivo,Vivo Y21,Phantom White,12GB,256GB,4.6,29543,0.13
+Apple,iPhone 11,Phantom White,12GB,64GB,3.7,74096,0.12
+Vivo,Vivo Y21,Silver,8GB,512GB,4.4,31238,0.12
+OnePlus,OnePlus Nord 2,Alpine Green,12GB,64GB,4.6,30534,0.3
+OnePlus,OnePlus Nord CE,Alpine Green,8GB,1TB,4.5,60199,0.01
+Samsung,Galaxy A52,Midnight Black,4GB,64GB,4.9,51728,0.34
+Realme,Realme Narzo 30,Graphite,4GB,128GB,4.5,28971,0.04
+Xiaomi,Mi 11X,Phantom White,4GB,128GB,4.2,42192,0.21
+Xiaomi,Redmi Note 10,Midnight Black,8GB,1TB,4.8,23508,0.35
+Xiaomi,Poco F3,Phantom White,8GB,256GB,4.6,24966,0.32
+Vivo,Vivo Y33s,Silver,6GB,64GB,4.1,13315,0.01
+OnePlus,OnePlus 9 Pro,Alpine Green,4GB,512GB,4.3,53880,0.02
+Realme,Realme GT,Cosmic Purple,12GB,256GB,3.7,32788,0.31
+OnePlus,OnePlus Nord CE,Graphite,6GB,128GB,4.5,55373,0.3
+Xiaomi,Poco F3,Silver,6GB,64GB,3.6,41163,0.16
+Samsung,Galaxy S22 Ultra,Silver,4GB,128GB,3.8,59605,0.29
+Apple,iPhone 13,Ocean Blue,12GB,256GB,3.9,147541,0.06
+Apple,iPhone 13,Graphite,6GB,1TB,3.7,93960,0.23
+Realme,Realme Narzo 30,Ocean Blue,6GB,256GB,4.0,13121,0.02
+Vivo,Vivo V21,Alpine Green,12GB,64GB,4.1,11184,0.22
+Realme,Realme 7,Rose Gold,8GB,128GB,3.6,13822,0.03
+OnePlus,OnePlus 9 Pro,Ocean Blue,6GB,1TB,4.8,36454,0.31
+Xiaomi,Poco X3,Silver,12GB,256GB,4.7,21194,0.03
+Realme,Realme 7,Rose Gold,8GB,128GB,4.1,17567,0.33
+Samsung,Galaxy Z Fold3,Phantom White,4GB,128GB,4.2,60363,0.18
+Apple,iPhone 12 Pro Max,Cosmic Purple,12GB,64GB,4.5,78051,0.0
+OnePlus,OnePlus 9,Midnight Black,8GB,128GB,3.9,54092,0.0
+Samsung,Galaxy Z Fold3,Phantom White,4GB,1TB,4.5,36402,0.02
+Realme,Realme 8,Cosmic Purple,4GB,256GB,4.3,24212,0.04
+Apple,iPhone 13 Pro,Rose Gold,6GB,1TB,4.1,66378,0.26
+Xiaomi,Poco F3,Cosmic Purple,12GB,128GB,4.5,15173,0.13
+Realme,Realme 8,Alpine Green,8GB,128GB,4.2,35086,0.28
+Realme,Realme Narzo 30,Midnight Black,12GB,1TB,4.8,26663,0.32
+OnePlus,OnePlus 9R,Graphite,8GB,256GB,4.7,61080,0.03
+Realme,Realme Narzo 30,Phantom White,12GB,128GB,3.6,15820,0.19
+Realme,Realme 8 Pro,Phantom White,6GB,128GB,4.5,15095,0.02
+Apple,iPhone 12 Pro Max,Graphite,12GB,256GB,4.5,79518,0.32
+Realme,Realme 8,Midnight Black,12GB,256GB,4.4,33282,0.07
+Apple,iPhone 13 Pro Max,Phantom White,4GB,128GB,3.6,99488,0.34
+Xiaomi,Redmi 10,Phantom White,6GB,128GB,3.8,37764,0.17
+Samsung,Galaxy A52,Midnight Black,6GB,256GB,4.5,19430,0.31
+Samsung,Galaxy M32,Midnight Black,12GB,256GB,4.8,67367,0.09
+Samsung,Galaxy S21,Alpine Green,8GB,1TB,3.9,122550,0.15
+OnePlus,OnePlus Nord 2,Rose Gold,4GB,1TB,4.3,26652,0.27
+Vivo,Vivo V21,Phantom White,4GB,512GB,4.5,37638,0.24
+Vivo,Vivo V21,Cosmic Purple,8GB,512GB,4.7,12339,0.3
+Samsung,Galaxy M32,Ocean Blue,4GB,64GB,3.9,124381,0.34
+Realme,Realme 8 Pro,Midnight Black,12GB,512GB,3.8,28595,0.03
+Samsung,Galaxy S21,Rose Gold,12GB,64GB,4.3,62089,0.14
+Xiaomi,Poco X3,Rose Gold,12GB,64GB,4.1,34821,0.33
+Apple,iPhone 13 Pro,Rose Gold,8GB,256GB,3.7,120219,0.27
+Xiaomi,Mi 11X,Alpine Green,12GB,512GB,4.1,21867,0.24
+Realme,Realme Narzo 30,Ocean Blue,12GB,256GB,3.6,31208,0.21
+Samsung,Galaxy Z Fold3,Ocean Blue,6GB,128GB,4.1,70864,0.31
+Apple,iPhone 11,Graphite,6GB,256GB,3.9,152724,0.23
+Vivo,Vivo X60,Silver,8GB,128GB,3.7,27865,0.3
+Vivo,Vivo V21,Cosmic Purple,4GB,1TB,4.8,15833,0.22
+Vivo,Vivo X60,Midnight Black,12GB,256GB,3.9,29340,0.12
+Samsung,Galaxy S22,Graphite,12GB,128GB,4.8,101387,0.02
+Realme,Realme Narzo 30,Ocean Blue,6GB,256GB,4.8,36713,0.01
+Vivo,Vivo Y21,Midnight Black,4GB,256GB,4.7,28334,0.17
+Apple,iPhone 12 Pro Max,Graphite,8GB,512GB,4.6,147342,0.32
+Realme,Realme 8 Pro,Cosmic Purple,8GB,512GB,4.1,33334,0.31
+Xiaomi,Redmi 10,Silver,6GB,256GB,4.9,37612,0.13
+OnePlus,OnePlus Nord 2,Rose Gold,12GB,1TB,4.6,43054,0.34
+Apple,iPhone 13,Ocean Blue,8GB,128GB,3.7,134982,0.1
+Apple,iPhone 13 Pro,Alpine Green,8GB,1TB,4.8,125307,0.18
+Xiaomi,Redmi Note 11,Rose Gold,6GB,256GB,4.6,33327,0.2
+OnePlus,OnePlus Nord 2,Cosmic Purple,6GB,64GB,4.7,33697,0.0
+Xiaomi,Redmi Note 11,Ocean Blue,8GB,1TB,4.9,26412,0.06
+Apple,iPhone 12 Pro Max,Alpine Green,8GB,1TB,4.4,109962,0.28
+Samsung,Galaxy Z Fold3,Midnight Black,8GB,256GB,4.8,41982,0.25
+Apple,iPhone 13,Rose Gold,6GB,512GB,3.9,49737,0.01
+Vivo,Vivo V21,Cosmic Purple,8GB,128GB,3.8,14940,0.03
+Vivo,Vivo Y33s,Cosmic Purple,4GB,1TB,4.0,16125,0.07
+Vivo,Vivo X60,Phantom White,12GB,1TB,4.6,19511,0.09
+Vivo,Vivo V20,Alpine Green,4GB,512GB,3.9,16360,0.3
+Vivo,Vivo V21,Rose Gold,8GB,128GB,3.9,25572,0.16
+Samsung,Galaxy M32,Rose Gold,12GB,256GB,4.1,39556,0.16
+Apple,iPhone 12 Pro Max,Alpine Green,4GB,256GB,4.7,160167,0.33
+Apple,iPhone 11,Silver,8GB,1TB,4.5,56961,0.01
+Samsung,Galaxy Z Fold3,Phantom White,6GB,64GB,4.0,55915,0.16
+Samsung,Galaxy S21,Rose Gold,4GB,1TB,4.0,89191,0.24
+Apple,iPhone 12,Rose Gold,4GB,512GB,4.9,54196,0.07
+Samsung,Galaxy Z Fold3,Silver,8GB,128GB,4.3,65218,0.06
+Vivo,Vivo V21,Phantom White,12GB,128GB,4.0,34564,0.13
+Realme,Realme 8 Pro,Ocean Blue,6GB,128GB,3.8,30969,0.24
+OnePlus,OnePlus 9R,Ocean Blue,6GB,64GB,4.0,49043,0.24
+Samsung,Galaxy S22 Ultra,Ocean Blue,6GB,128GB,4.2,25417,0.18
+Apple,iPhone 13,Rose Gold,4GB,64GB,4.3,165354,0.02
+Samsung,Galaxy Z Fold3,Cosmic Purple,4GB,1TB,4.6,122758,0.3
+OnePlus,OnePlus 9,Midnight Black,4GB,512GB,3.8,43980,0.03
+Vivo,Vivo Y33s,Ocean Blue,6GB,64GB,4.9,27154,0.23
+Vivo,Vivo V20,Graphite,8GB,512GB,4.2,21627,0.15
+Xiaomi,Redmi Note 11,Phantom White,6GB,128GB,4.9,19011,0.05
+Samsung,Galaxy A52,Alpine Green,4GB,1TB,4.0,34180,0.12
+Vivo,Vivo Y33s,Phantom White,6GB,128GB,4.6,22591,0.14
+OnePlus,OnePlus 9R,Silver,6GB,256GB,4.5,43533,0.08
+Vivo,Vivo V20,Ocean Blue,4GB,64GB,4.3,19898,0.14
+OnePlus,OnePlus Nord 2,Midnight Black,6GB,64GB,4.2,38660,0.08
+Realme,Realme 8 Pro,Midnight Black,8GB,128GB,3.6,31626,0.03
+OnePlus,OnePlus 9R,Rose Gold,4GB,1TB,4.6,61513,0.14
+Realme,Realme GT,Silver,12GB,64GB,4.0,19071,0.28
+Apple,iPhone 12 Pro Max,Silver,8GB,1TB,3.7,90686,0.33
+Vivo,Vivo V21,Silver,4GB,512GB,4.9,19770,0.03
+Realme,Realme 8 Pro,Silver,12GB,256GB,3.6,31971,0.03
+Vivo,Vivo V20,Ocean Blue,8GB,512GB,4.3,22722,0.28
+Apple,iPhone 13,Alpine Green,6GB,64GB,3.9,158926,0.34
+Vivo,Vivo V21,Midnight Black,12GB,64GB,3.8,32680,0.03
+Xiaomi,Redmi Note 10,Ocean Blue,6GB,512GB,4.8,35445,0.16
+Realme,Realme GT,Rose Gold,4GB,1TB,4.8,25550,0.08
+Samsung,Galaxy Z Fold3,Cosmic Purple,12GB,128GB,3.7,92897,0.34
+Samsung,Galaxy S22,Cosmic Purple,12GB,64GB,4.2,58448,0.24
+Realme,Realme 7,Cosmic Purple,12GB,256GB,3.9,30886,0.33
+Vivo,Vivo Y33s,Graphite,6GB,64GB,4.4,31642,0.27
+Xiaomi,Mi 11X,Ocean Blue,4GB,1TB,4.5,30946,0.06
+Apple,iPhone 12,Alpine Green,6GB,64GB,4.4,137267,0.29
+Xiaomi,Poco X3,Rose Gold,8GB,256GB,4.3,38890,0.28
+Xiaomi,Poco X3,Alpine Green,4GB,64GB,3.8,39426,0.14
+Xiaomi,Poco F3,Rose Gold,12GB,512GB,4.0,38348,0.21
+Xiaomi,Redmi Note 10,Rose Gold,6GB,512GB,4.8,36959,0.24
+Apple,iPhone 12 Pro Max,Silver,4GB,64GB,4.1,137537,0.11
+Samsung,Galaxy Z Fold3,Ocean Blue,4GB,1TB,4.6,49703,0.2
+Realme,Realme Narzo 30,Cosmic Purple,12GB,64GB,3.7,30807,0.2
+Xiaomi,Redmi Note 11,Rose Gold,6GB,256GB,3.9,33311,0.21
+Vivo,Vivo V21,Phantom White,8GB,256GB,3.7,28334,0.06
+OnePlus,OnePlus 9R,Rose Gold,8GB,128GB,4.9,38579,0.21
+Realme,Realme 7,Silver,12GB,256GB,4.8,23564,0.23
+Samsung,Galaxy S22 Ultra,Silver,8GB,256GB,4.6,54290,0.25
+Apple,iPhone 12 Pro Max,Midnight Black,12GB,1TB,4.8,109117,0.26
+Samsung,Galaxy A52,Graphite,8GB,1TB,4.2,43676,0.2
+Xiaomi,Poco X3,Graphite,4GB,1TB,4.6,20228,0.05
+Apple,iPhone 13 Pro,Silver,12GB,128GB,4.4,170050,0.25
+Samsung,Galaxy M32,Graphite,4GB,128GB,3.8,15045,0.35
+Realme,Realme GT,Phantom White,4GB,128GB,3.7,25687,0.27
+OnePlus,OnePlus Nord 2,Graphite,8GB,128GB,4.0,45053,0.13
+OnePlus,OnePlus Nord CE,Phantom White,6GB,64GB,3.9,20812,0.11
+Realme,Realme GT,Graphite,12GB,64GB,3.8,30019,0.08
+Apple,iPhone 11,Phantom White,8GB,64GB,3.8,75093,0.07
+OnePlus,OnePlus Nord 2,Rose Gold,8GB,1TB,4.5,43664,0.07
+Realme,Realme 8 Pro,Cosmic Purple,4GB,1TB,4.8,36416,0.03
+Realme,Realme 7,Ocean Blue,4GB,256GB,4.5,28105,0.1
+Xiaomi,Redmi 10,Silver,12GB,512GB,3.9,13749,0.08
+Realme,Realme 7,Silver,4GB,128GB,4.0,16015,0.07
+OnePlus,OnePlus 9R,Phantom White,4GB,128GB,3.9,47983,0.1
+Xiaomi,Poco X3,Ocean Blue,4GB,64GB,4.0,38541,0.25
+OnePlus,OnePlus Nord CE,Rose Gold,4GB,64GB,4.3,60672,0.11
+Vivo,Vivo Y21,Graphite,12GB,1TB,4.8,16013,0.31
+Vivo,Vivo V21,Cosmic Purple,12GB,256GB,3.7,19634,0.07
+Apple,iPhone 12 Pro Max,Ocean Blue,8GB,64GB,3.8,141105,0.33
+Samsung,Galaxy S22,Graphite,12GB,512GB,4.0,72779,0.26
+Vivo,Vivo Y21,Ocean Blue,6GB,128GB,4.3,16023,0.22
+Samsung,Galaxy S21,Phantom White,4GB,128GB,4.0,89185,0.35
+Samsung,Galaxy S22,Alpine Green,6GB,64GB,3.9,47244,0.14
+OnePlus,OnePlus 9,Midnight Black,12GB,512GB,4.1,18701,0.15
+OnePlus,OnePlus 9R,Cosmic Purple,8GB,256GB,3.9,21713,0.06
+Vivo,Vivo X60,Ocean Blue,4GB,64GB,4.8,16670,0.32
+Vivo,Vivo Y33s,Graphite,12GB,128GB,3.9,18103,0.09
+Samsung,Galaxy S21,Phantom White,8GB,512GB,3.7,118799,0.2
+Vivo,Vivo V21,Midnight Black,12GB,128GB,4.8,32689,0.28
+Xiaomi,Redmi Note 10,Silver,4GB,512GB,4.7,36104,0.32
+Xiaomi,Redmi 10,Cosmic Purple,4GB,512GB,4.4,41452,0.11
+Xiaomi,Poco X3,Midnight Black,6GB,256GB,3.7,32577,0.22
+Samsung,Galaxy M32,Cosmic Purple,6GB,512GB,4.4,58496,0.18
+Apple,iPhone 12,Phantom White,8GB,1TB,3.7,134978,0.13
+Realme,Realme 8 Pro,Graphite,6GB,128GB,4.2,30552,0.07
+Realme,Realme 8,Phantom White,4GB,128GB,3.7,11544,0.04
+OnePlus,OnePlus Nord CE,Alpine Green,6GB,256GB,4.9,54228,0.15
+Vivo,Vivo Y33s,Alpine Green,4GB,512GB,4.7,39277,0.29
+Xiaomi,Redmi 10,Alpine Green,6GB,1TB,3.8,15787,0.21
+Realme,Realme 7,Graphite,8GB,128GB,4.4,34091,0.31
+Apple,iPhone 13,Midnight Black,6GB,128GB,3.8,174035,0.33
+Vivo,Vivo X60,Ocean Blue,6GB,1TB,4.2,16359,0.01
+Xiaomi,Redmi Note 11,Phantom White,4GB,512GB,3.8,30004,0.24
+Xiaomi,Poco F3,Rose Gold,6GB,128GB,4.6,9098,0.24
+Samsung,Galaxy S22,Graphite,8GB,256GB,4.2,132599,0.29
+Xiaomi,Poco F3,Cosmic Purple,8GB,64GB,4.0,10363,0.28
+Apple,iPhone 12 Pro Max,Rose Gold,8GB,64GB,4.4,127109,0.07
+Vivo,Vivo V20,Cosmic Purple,8GB,1TB,4.5,16952,0.14
+Vivo,Vivo Y21,Phantom White,8GB,512GB,3.9,17061,0.16
+OnePlus,OnePlus 9 Pro,Silver,6GB,128GB,4.8,55174,0.05
+OnePlus,OnePlus 9,Rose Gold,8GB,1TB,3.7,57622,0.05
+Vivo,Vivo X60,Phantom White,6GB,1TB,4.0,13337,0.11
+OnePlus,OnePlus 9R,Alpine Green,6GB,1TB,4.0,61570,0.25
+OnePlus,OnePlus 9R,Rose Gold,6GB,512GB,4.5,28103,0.23
+Samsung,Galaxy M32,Graphite,6GB,64GB,4.2,23961,0.12
+Xiaomi,Poco F3,Alpine Green,8GB,64GB,3.9,16010,0.08
+Realme,Realme 8,Alpine Green,8GB,1TB,4.3,37885,0.08
+Samsung,Galaxy S21,Midnight Black,6GB,128GB,3.7,122637,0.06
+Apple,iPhone 12 Pro Max,Graphite,4GB,256GB,4.3,159148,0.19
+Realme,Realme GT,Rose Gold,8GB,64GB,3.7,29098,0.04
+Xiaomi,Mi 11X,Alpine Green,12GB,256GB,4.9,17753,0.29
+Vivo,Vivo V21,Alpine Green,12GB,128GB,4.3,27465,0.32
+OnePlus,OnePlus 9 Pro,Cosmic Purple,6GB,256GB,4.3,43409,0.22
+Xiaomi,Poco X3,Graphite,4GB,1TB,4.2,17473,0.08
+Vivo,Vivo Y21,Midnight Black,6GB,512GB,4.7,16866,0.03
+Samsung,Galaxy S21,Graphite,4GB,64GB,4.0,94181,0.09
+Samsung,Galaxy S21,Graphite,12GB,1TB,4.8,88495,0.27
+Vivo,Vivo V21,Midnight Black,12GB,1TB,4.2,38046,0.27
+Realme,Realme 7,Graphite,4GB,128GB,4.3,16526,0.04
+Realme,Realme 8,Alpine Green,6GB,512GB,4.1,10686,0.26
+Vivo,Vivo Y21,Alpine Green,4GB,64GB,4.1,17445,0.26
+Realme,Realme 8 Pro,Ocean Blue,12GB,128GB,4.7,10126,0.11
+Apple,iPhone 12 Pro Max,Phantom White,8GB,128GB,4.8,106588,0.19
+Apple,iPhone 12 Pro Max,Phantom White,12GB,1TB,3.8,61370,0.02
+OnePlus,OnePlus Nord CE,Rose Gold,6GB,512GB,4.6,33995,0.3
+Samsung,Galaxy M32,Ocean Blue,12GB,128GB,3.9,77393,0.14
+Vivo,Vivo V21,Silver,4GB,1TB,4.8,35577,0.29
+OnePlus,OnePlus 9R,Rose Gold,12GB,64GB,3.9,54185,0.11
+Apple,iPhone 11,Midnight Black,6GB,128GB,4.5,86117,0.07
+Samsung,Galaxy A52,Phantom White,4GB,1TB,4.7,109825,0.34
+Xiaomi,Redmi Note 11,Cosmic Purple,4GB,1TB,4.2,10296,0.14
+OnePlus,OnePlus 9 Pro,Rose Gold,4GB,64GB,4.1,59231,0.25
+Realme,Realme Narzo 30,Alpine Green,4GB,256GB,3.9,12459,0.22
+OnePlus,OnePlus Nord CE,Cosmic Purple,12GB,64GB,4.2,50975,0.24
+Xiaomi,Poco F3,Rose Gold,6GB,1TB,4.5,31933,0.23
+Samsung,Galaxy A52,Alpine Green,6GB,512GB,4.1,105217,0.33
+OnePlus,OnePlus Nord CE,Rose Gold,6GB,1TB,4.7,55666,0.29
+Samsung,Galaxy S22 Ultra,Cosmic Purple,6GB,256GB,4.4,91748,0.2
+Samsung,Galaxy S22 Ultra,Silver,6GB,1TB,4.0,71036,0.22
+Apple,iPhone 13,Graphite,6GB,1TB,4.7,50891,0.16
+Vivo,Vivo V20,Phantom White,12GB,512GB,4.4,20978,0.02
+OnePlus,OnePlus Nord CE,Rose Gold,12GB,64GB,4.3,54257,0.27
+OnePlus,OnePlus Nord 2,Cosmic Purple,8GB,1TB,4.1,58488,0.3
+Xiaomi,Poco X3,Graphite,4GB,1TB,3.9,42034,0.3
+Apple,iPhone 13,Cosmic Purple,6GB,256GB,4.7,135010,0.07
+Vivo,Vivo Y33s,Midnight Black,12GB,256GB,4.6,28488,0.01
+Xiaomi,Mi 11X,Alpine Green,6GB,1TB,4.6,9649,0.11
+Samsung,Galaxy S21,Alpine Green,6GB,512GB,3.8,74120,0.01
+OnePlus,OnePlus Nord 2,Alpine Green,4GB,1TB,3.8,53038,0.29
+Xiaomi,Poco F3,Midnight Black,6GB,64GB,4.3,44364,0.2
+Samsung,Galaxy A52,Alpine Green,8GB,512GB,4.0,120797,0.19
+Samsung,Galaxy M32,Cosmic Purple,8GB,64GB,4.3,68525,0.34
+Samsung,Galaxy S21,Phantom White,12GB,256GB,4.8,20192,0.0
+Apple,iPhone 13 Pro Max,Silver,12GB,512GB,3.7,138294,0.23
+Apple,iPhone 12 Pro Max,Rose Gold,8GB,64GB,4.3,95222,0.29
+Realme,Realme 8 Pro,Rose Gold,12GB,1TB,3.7,34942,0.17
+Vivo,Vivo V21,Midnight Black,12GB,128GB,4.1,32061,0.28
+Apple,iPhone 11,Ocean Blue,12GB,256GB,4.8,77211,0.02
+Xiaomi,Mi 11X,Graphite,8GB,128GB,4.4,11835,0.14
+Xiaomi,Redmi 10,Silver,12GB,1TB,4.8,35271,0.29
+Xiaomi,Redmi Note 11,Graphite,4GB,512GB,3.8,17260,0.04
+Xiaomi,Poco F3,Rose Gold,12GB,128GB,4.0,36883,0.27
+Samsung,Galaxy S22,Midnight Black,4GB,256GB,3.9,136142,0.22
+Vivo,Vivo X60,Cosmic Purple,4GB,256GB,4.2,26741,0.32
+Xiaomi,Poco F3,Graphite,8GB,256GB,4.4,37644,0.11
+Apple,iPhone 12,Ocean Blue,8GB,64GB,4.2,66452,0.34
+Xiaomi,Mi 11X,Silver,6GB,64GB,3.8,12693,0.0
+Samsung,Galaxy Z Fold3,Phantom White,6GB,64GB,4.8,22911,0.33
+OnePlus,OnePlus 9R,Phantom White,12GB,512GB,3.8,35740,0.19
+Realme,Realme Narzo 30,Silver,8GB,256GB,4.3,15602,0.06
+Vivo,Vivo X60,Phantom White,8GB,128GB,4.5,21244,0.04
+Apple,iPhone 13 Pro,Silver,12GB,256GB,4.4,162604,0.02
+Xiaomi,Redmi Note 10,Alpine Green,8GB,256GB,4.4,25929,0.16
+Xiaomi,Mi 11X,Cosmic Purple,6GB,256GB,4.4,32371,0.27
+Xiaomi,Poco X3,Graphite,4GB,512GB,3.8,28679,0.25
+Realme,Realme GT,Ocean Blue,8GB,256GB,4.7,29760,0.07
+Xiaomi,Redmi Note 11,Cosmic Purple,4GB,128GB,3.9,43724,0.08
+Apple,iPhone 11,Ocean Blue,6GB,1TB,4.8,92767,0.15
+Apple,iPhone 13 Pro,Cosmic Purple,6GB,1TB,3.7,90636,0.17
+OnePlus,OnePlus 9R,Alpine Green,8GB,1TB,4.2,38707,0.24
+Xiaomi,Redmi Note 11,Midnight Black,12GB,256GB,4.1,22939,0.32
+Vivo,Vivo Y21,Cosmic Purple,4GB,64GB,4.3,39294,0.04
+OnePlus,OnePlus 9 Pro,Ocean Blue,8GB,256GB,4.7,50542,0.03
+OnePlus,OnePlus 9 Pro,Rose Gold,6GB,1TB,4.7,56590,0.33
+Xiaomi,Redmi Note 11,Ocean Blue,12GB,128GB,4.4,25839,0.31
+Vivo,Vivo V20,Graphite,8GB,64GB,4.4,29845,0.21
+Apple,iPhone 13 Pro Max,Alpine Green,4GB,64GB,4.3,134203,0.17
+Realme,Realme 8,Ocean Blue,8GB,128GB,3.7,12784,0.19
+OnePlus,OnePlus Nord CE,Graphite,8GB,128GB,4.4,43550,0.1
+Realme,Realme 7,Graphite,12GB,1TB,4.1,15593,0.2
+Xiaomi,Poco X3,Silver,8GB,1TB,3.8,42968,0.26
+Realme,Realme 8,Phantom White,6GB,64GB,4.2,29130,0.16
+Realme,Realme 7,Midnight Black,6GB,256GB,4.3,16145,0.22
+OnePlus,OnePlus 9,Cosmic Purple,4GB,256GB,4.6,52676,0.1
+Xiaomi,Mi 11X,Midnight Black,8GB,128GB,4.2,19477,0.18
+OnePlus,OnePlus Nord CE,Midnight Black,4GB,128GB,4.5,59824,0.01
+Realme,Realme 7,Silver,12GB,1TB,3.7,12684,0.2
+Realme,Realme GT,Midnight Black,8GB,256GB,4.3,36904,0.01
+Realme,Realme 7,Phantom White,4GB,512GB,4.2,11539,0.13
+Samsung,Galaxy M32,Rose Gold,12GB,1TB,3.9,121887,0.28
+Apple,iPhone 13 Pro Max,Silver,4GB,512GB,4.8,48116,0.27
+Vivo,Vivo X60,Ocean Blue,6GB,512GB,3.6,35392,0.04
+Realme,Realme Narzo 30,Midnight Black,4GB,128GB,4.8,27453,0.04
+Realme,Realme GT,Graphite,6GB,256GB,4.1,17974,0.25
+Apple,iPhone 13 Pro,Alpine Green,8GB,1TB,4.6,176671,0.25
+Apple,iPhone 12 Pro Max,Silver,4GB,128GB,4.0,165858,0.07
+Apple,iPhone 12 Pro Max,Cosmic Purple,6GB,512GB,4.6,81663,0.32
+Apple,iPhone 12,Silver,12GB,1TB,3.9,137597,0.08
+Realme,Realme 8,Alpine Green,8GB,1TB,4.0,34617,0.29
+OnePlus,OnePlus 9,Silver,8GB,512GB,4.5,23632,0.23
+OnePlus,OnePlus 9 Pro,Ocean Blue,12GB,1TB,3.8,40722,0.28
+Apple,iPhone 11,Rose Gold,8GB,128GB,4.1,56164,0.23
+Realme,Realme Narzo 30,Cosmic Purple,12GB,128GB,4.2,15190,0.19
+OnePlus,OnePlus 9 Pro,Rose Gold,4GB,256GB,4.8,37332,0.06
+Apple,iPhone 13,Graphite,8GB,64GB,4.7,153058,0.03
+Apple,iPhone 13 Pro,Cosmic Purple,8GB,128GB,4.0,123541,0.14
+Xiaomi,Redmi Note 10,Silver,4GB,64GB,3.8,44839,0.0
+OnePlus,OnePlus 9R,Alpine Green,8GB,128GB,4.2,31666,0.15
+Realme,Realme 8,Graphite,8GB,256GB,4.2,27329,0.26
+Samsung,Galaxy M32,Silver,6GB,64GB,4.3,89383,0.28
+OnePlus,OnePlus 9 Pro,Rose Gold,8GB,1TB,4.4,18235,0.2
+Samsung,Galaxy M32,Graphite,12GB,256GB,4.7,112880,0.34
+Apple,iPhone 13 Pro Max,Ocean Blue,8GB,1TB,4.6,163928,0.05
+OnePlus,OnePlus 9,Cosmic Purple,8GB,128GB,3.6,45840,0.28
+Realme,Realme 8,Midnight Black,12GB,256GB,4.6,35089,0.29
+Samsung,Galaxy S22 Ultra,Ocean Blue,4GB,1TB,4.2,85876,0.16
+Vivo,Vivo X60,Ocean Blue,6GB,128GB,4.1,35935,0.17
+Apple,iPhone 12 Pro Max,Midnight Black,6GB,64GB,4.4,74548,0.33
+Xiaomi,Redmi Note 11,Rose Gold,4GB,128GB,4.3,34945,0.05
+Xiaomi,Redmi Note 11,Alpine Green,8GB,64GB,4.5,20166,0.3
+Samsung,Galaxy S21,Alpine Green,8GB,512GB,4.2,14959,0.09
+Xiaomi,Redmi Note 10,Alpine Green,4GB,512GB,4.5,26833,0.03
+Samsung,Galaxy S22,Graphite,8GB,128GB,4.7,98311,0.03
+Realme,Realme GT,Graphite,4GB,128GB,3.8,19078,0.19
+OnePlus,OnePlus 9,Cosmic Purple,6GB,512GB,4.9,55639,0.14
+Samsung,Galaxy S22,Silver,4GB,512GB,4.7,117999,0.05
+Xiaomi,Redmi Note 10,Graphite,6GB,128GB,4.1,16070,0.19
+Realme,Realme 8,Alpine Green,6GB,256GB,4.1,24143,0.03
+OnePlus,OnePlus 9R,Alpine Green,12GB,64GB,3.8,44172,0.16
+Vivo,Vivo Y21,Alpine Green,6GB,64GB,3.6,21984,0.27
+Samsung,Galaxy Z Fold3,Rose Gold,6GB,64GB,4.3,39767,0.14
+Realme,Realme 7,Alpine Green,4GB,256GB,4.2,29821,0.11
+Apple,iPhone 11,Cosmic Purple,6GB,128GB,4.0,48230,0.01
+OnePlus,OnePlus 9R,Cosmic Purple,4GB,128GB,4.6,20268,0.23
+Samsung,Galaxy S22,Midnight Black,4GB,128GB,4.3,63895,0.2
+Vivo,Vivo Y33s,Cosmic Purple,4GB,512GB,4.2,17082,0.04
+Xiaomi,Mi 11X,Graphite,12GB,64GB,4.9,16271,0.2
+Realme,Realme 8,Cosmic Purple,4GB,512GB,3.9,18024,0.14
+Samsung,Galaxy S22,Graphite,8GB,128GB,3.8,32903,0.03
+OnePlus,OnePlus 9,Phantom White,8GB,128GB,3.9,56516,0.09
+Apple,iPhone 12,Alpine Green,8GB,256GB,4.6,161936,0.28
+OnePlus,OnePlus 9R,Rose Gold,4GB,128GB,4.5,45568,0.22
+Xiaomi,Mi 11X,Midnight Black,6GB,128GB,4.2,14170,0.23
+Realme,Realme 8 Pro,Alpine Green,6GB,256GB,4.8,37104,0.24
+Realme,Realme 7,Silver,4GB,512GB,3.6,13465,0.04
+Vivo,Vivo V21,Silver,4GB,128GB,4.6,28710,0.31
+Vivo,Vivo X60,Rose Gold,8GB,512GB,4.3,36924,0.31
+Realme,Realme GT,Phantom White,6GB,512GB,4.1,11926,0.32
+Realme,Realme 7,Graphite,8GB,512GB,3.9,26750,0.26
+OnePlus,OnePlus Nord CE,Midnight Black,4GB,1TB,3.6,37108,0.22
+Realme,Realme Narzo 30,Midnight Black,12GB,256GB,3.7,23227,0.2
+Vivo,Vivo Y33s,Ocean Blue,12GB,1TB,4.9,31490,0.04
+Samsung,Galaxy S22 Ultra,Ocean Blue,8GB,1TB,3.9,71284,0.09
+Apple,iPhone 13 Pro,Phantom White,4GB,128GB,4.3,152536,0.11
+OnePlus,OnePlus 9R,Phantom White,4GB,128GB,3.7,28911,0.07
+Vivo,Vivo V20,Phantom White,4GB,256GB,4.8,11048,0.31
+Samsung,Galaxy S21,Alpine Green,4GB,64GB,4.3,63401,0.09
+Xiaomi,Redmi 10,Rose Gold,12GB,128GB,4.4,9316,0.0
+Realme,Realme 7,Midnight Black,4GB,256GB,3.8,36159,0.0
+Realme,Realme 8,Rose Gold,6GB,128GB,3.8,26202,0.07
+OnePlus,OnePlus Nord CE,Cosmic Purple,4GB,512GB,3.6,40075,0.11
+Apple,iPhone 13 Pro,Rose Gold,12GB,256GB,4.1,55651,0.02
+Realme,Realme 7,Graphite,6GB,128GB,4.2,13171,0.25
+Samsung,Galaxy Z Fold3,Midnight Black,4GB,1TB,4.7,55725,0.03
+Realme,Realme 7,Silver,8GB,256GB,4.3,34878,0.2
+Xiaomi,Redmi Note 11,Alpine Green,6GB,256GB,4.6,9788,0.02
+Samsung,Galaxy S22 Ultra,Ocean Blue,8GB,512GB,4.1,72520,0.11
+Realme,Realme 7,Graphite,8GB,1TB,4.8,18956,0.3
+OnePlus,OnePlus 9 Pro,Phantom White,4GB,64GB,3.7,27040,0.09
+Vivo,Vivo V21,Phantom White,4GB,1TB,3.8,15514,0.23
+Realme,Realme GT,Graphite,4GB,128GB,4.8,22814,0.05
+Realme,Realme 8 Pro,Midnight Black,12GB,256GB,4.5,14454,0.16
+Xiaomi,Redmi 10,Ocean Blue,12GB,256GB,3.8,23566,0.12
+OnePlus,OnePlus 9,Alpine Green,8GB,64GB,3.8,24206,0.35
+Realme,Realme Narzo 30,Silver,4GB,1TB,3.8,23719,0.33
+Vivo,Vivo Y21,Silver,8GB,1TB,3.6,32809,0.3
+OnePlus,OnePlus 9,Alpine Green,4GB,512GB,4.4,32356,0.02
+OnePlus,OnePlus 9 Pro,Alpine Green,4GB,64GB,3.8,33879,0.18
+OnePlus,OnePlus 9,Alpine Green,4GB,128GB,3.9,26333,0.2
+Vivo,Vivo V20,Midnight Black,8GB,64GB,3.8,32458,0.32
+Realme,Realme 8 Pro,Alpine Green,12GB,512GB,4.2,20652,0.08
+Vivo,Vivo X60,Graphite,12GB,64GB,4.9,21009,0.23
+Samsung,Galaxy Z Fold3,Rose Gold,6GB,256GB,4.1,17296,0.04
+Apple,iPhone 12 Pro Max,Ocean Blue,4GB,256GB,4.2,98728,0.34
+Xiaomi,Poco X3,Phantom White,8GB,128GB,4.1,36646,0.03
+OnePlus,OnePlus Nord CE,Phantom White,6GB,256GB,4.6,26271,0.29
+Vivo,Vivo Y21,Rose Gold,12GB,64GB,4.3,38764,0.15
+OnePlus,OnePlus Nord 2,Rose Gold,6GB,128GB,4.0,23019,0.33
+Realme,Realme GT,Rose Gold,12GB,1TB,4.7,18833,0.28
+Xiaomi,Poco X3,Cosmic Purple,4GB,128GB,4.4,22611,0.13
+Apple,iPhone 13,Midnight Black,8GB,1TB,4.3,123993,0.34
+Samsung,Galaxy S22,Silver,8GB,128GB,4.0,54270,0.25
+Vivo,Vivo V20,Phantom White,4GB,128GB,3.7,36907,0.22
+Xiaomi,Poco F3,Silver,6GB,256GB,3.9,20276,0.01
+OnePlus,OnePlus Nord 2,Graphite,4GB,64GB,3.7,58138,0.17
+Samsung,Galaxy M32,Midnight Black,6GB,512GB,3.9,126351,0.23
+Samsung,Galaxy S22 Ultra,Ocean Blue,8GB,1TB,4.6,79594,0.31
+Realme,Realme Narzo 30,Midnight Black,8GB,1TB,4.6,27591,0.01
+OnePlus,OnePlus 9 Pro,Graphite,4GB,256GB,4.7,24603,0.35
+Samsung,Galaxy S21,Phantom White,8GB,256GB,3.9,112271,0.1
+Vivo,Vivo Y21,Ocean Blue,4GB,64GB,4.5,12669,0.11
+Vivo,Vivo Y33s,Rose Gold,4GB,128GB,4.2,14292,0.25
+Vivo,Vivo Y33s,Rose Gold,4GB,64GB,3.9,13047,0.35
+Samsung,Galaxy S21,Cosmic Purple,4GB,64GB,3.7,50178,0.01
+Apple,iPhone 12,Graphite,12GB,64GB,3.9,175123,0.26
+Realme,Realme GT,Rose Gold,4GB,64GB,4.8,34827,0.14
+Samsung,Galaxy S22 Ultra,Alpine Green,8GB,64GB,4.4,51341,0.3
+Vivo,Vivo V20,Silver,8GB,64GB,4.4,13524,0.07
+OnePlus,OnePlus Nord 2,Ocean Blue,8GB,1TB,3.8,25823,0.01
+Samsung,Galaxy M32,Cosmic Purple,4GB,512GB,3.8,75339,0.21
+Apple,iPhone 13 Pro Max,Ocean Blue,12GB,64GB,4.8,72730,0.15
+Realme,Realme 7,Midnight Black,12GB,128GB,3.8,16645,0.24
+Realme,Realme GT,Graphite,12GB,512GB,4.6,27546,0.07
+Xiaomi,Redmi Note 11,Alpine Green,12GB,512GB,4.3,15949,0.31
+Apple,iPhone 12,Graphite,4GB,1TB,4.1,137247,0.16
+Realme,Realme 8,Alpine Green,6GB,256GB,4.5,19606,0.07
+Samsung,Galaxy S22,Rose Gold,6GB,128GB,4.9,29930,0.14
+Apple,iPhone 13,Rose Gold,8GB,512GB,3.9,168773,0.01
+OnePlus,OnePlus Nord 2,Midnight Black,12GB,1TB,4.5,34115,0.2
+Xiaomi,Redmi 10,Phantom White,4GB,256GB,3.7,16565,0.29
+Xiaomi,Redmi Note 11,Rose Gold,4GB,64GB,4.2,9632,0.08
+Xiaomi,Redmi Note 10,Graphite,6GB,256GB,4.7,16373,0.22
+Samsung,Galaxy M32,Phantom White,8GB,1TB,4.7,79980,0.02
+Apple,iPhone 11,Graphite,4GB,512GB,4.4,64554,0.28
+Xiaomi,Redmi Note 11,Alpine Green,6GB,64GB,4.1,13670,0.13
+Vivo,Vivo X60,Rose Gold,8GB,512GB,4.5,19030,0.08
+Realme,Realme 8 Pro,Ocean Blue,8GB,1TB,3.7,10102,0.11
+Apple,iPhone 12 Pro Max,Cosmic Purple,12GB,256GB,4.6,85755,0.17
+Realme,Realme GT,Midnight Black,8GB,512GB,3.9,21041,0.11
+Apple,iPhone 12,Midnight Black,12GB,512GB,4.0,70816,0.05
+Realme,Realme 8 Pro,Cosmic Purple,4GB,256GB,4.1,15071,0.13
+Vivo,Vivo V21,Cosmic Purple,6GB,128GB,4.6,11618,0.05
+Xiaomi,Poco X3,Silver,8GB,512GB,4.6,39707,0.05
+Xiaomi,Redmi Note 10,Cosmic Purple,4GB,64GB,4.2,13007,0.29
+OnePlus,OnePlus 9,Silver,12GB,256GB,4.6,49502,0.19
+Vivo,Vivo Y21,Cosmic Purple,4GB,128GB,3.7,21421,0.11
+Samsung,Galaxy M32,Alpine Green,6GB,512GB,4.0,23554,0.29
+Realme,Realme 8 Pro,Cosmic Purple,6GB,512GB,3.7,28436,0.06
+Xiaomi,Poco X3,Rose Gold,6GB,512GB,3.8,42829,0.29
+Apple,iPhone 13,Rose Gold,12GB,256GB,3.8,161737,0.23
+OnePlus,OnePlus 9R,Phantom White,12GB,64GB,4.7,31534,0.33
+Samsung,Galaxy A52,Rose Gold,12GB,512GB,4.5,60941,0.21
+Samsung,Galaxy M32,Rose Gold,12GB,1TB,3.7,131430,0.24
+Apple,iPhone 12 Pro Max,Rose Gold,6GB,128GB,3.7,132715,0.27
+Samsung,Galaxy S22 Ultra,Alpine Green,8GB,64GB,4.5,137678,0.29
+Samsung,Galaxy Z Fold3,Ocean Blue,12GB,64GB,4.8,56909,0.21
+OnePlus,OnePlus 9 Pro,Graphite,4GB,256GB,3.8,61007,0.26
+OnePlus,OnePlus 9 Pro,Alpine Green,12GB,1TB,4.4,48367,0.17
+Xiaomi,Mi 11X,Graphite,6GB,512GB,4.7,10810,0.08
+Realme,Realme 8 Pro,Phantom White,6GB,512GB,3.9,23187,0.26
+Samsung,Galaxy Z Fold3,Ocean Blue,6GB,64GB,4.5,36995,0.33
+Samsung,Galaxy Z Fold3,Midnight Black,4GB,64GB,4.7,122807,0.13
+OnePlus,OnePlus 9 Pro,Midnight Black,12GB,64GB,4.1,21749,0.27
+Samsung,Galaxy M32,Silver,4GB,256GB,3.9,86415,0.14
+Realme,Realme Narzo 30,Alpine Green,8GB,128GB,4.8,37379,0.15
+Realme,Realme 8,Ocean Blue,6GB,128GB,3.6,15904,0.26
+Realme,Realme 7,Alpine Green,4GB,256GB,3.8,23025,0.09
+Apple,iPhone 11,Rose Gold,4GB,64GB,4.2,50066,0.32
+Apple,iPhone 13,Ocean Blue,12GB,64GB,4.8,47825,0.33
+Xiaomi,Poco F3,Ocean Blue,6GB,128GB,4.1,39070,0.06
+Xiaomi,Poco X3,Ocean Blue,4GB,512GB,3.8,27260,0.27
+OnePlus,OnePlus 9R,Alpine Green,6GB,1TB,3.6,44063,0.26
+Xiaomi,Mi 11X,Alpine Green,6GB,256GB,4.4,30302,0.04
+Realme,Realme Narzo 30,Ocean Blue,6GB,512GB,4.5,34841,0.17
+Realme,Realme 8,Phantom White,4GB,512GB,3.9,31371,0.02
+Realme,Realme GT,Alpine Green,6GB,512GB,4.5,24829,0.14
+Xiaomi,Redmi Note 11,Cosmic Purple,6GB,1TB,4.4,32324,0.34
+Realme,Realme GT,Graphite,8GB,64GB,4.2,10018,0.18
+Realme,Realme GT,Graphite,4GB,512GB,4.6,21907,0.26
+Apple,iPhone 12,Alpine Green,4GB,64GB,4.3,90025,0.21
+Samsung,Galaxy S22,Midnight Black,8GB,256GB,4.7,45220,0.22
+Xiaomi,Mi 11X,Alpine Green,6GB,128GB,4.8,31839,0.33
+Samsung,Galaxy S22,Phantom White,4GB,128GB,3.9,22812,0.01
+Xiaomi,Redmi 10,Silver,8GB,64GB,3.7,23827,0.35
+Xiaomi,Mi 11X,Alpine Green,6GB,512GB,4.4,27667,0.24
+Samsung,Galaxy M32,Ocean Blue,6GB,128GB,4.7,52606,0.3
+OnePlus,OnePlus 9R,Rose Gold,6GB,64GB,4.7,19746,0.12
+Vivo,Vivo Y33s,Ocean Blue,4GB,128GB,4.7,36842,0.09
+Xiaomi,Redmi Note 10,Phantom White,4GB,512GB,4.6,34743,0.11
+Realme,Realme 7,Phantom White,4GB,64GB,3.8,26266,0.14
+Apple,iPhone 13,Cosmic Purple,8GB,1TB,4.1,86956,0.02
+Apple,iPhone 13,Phantom White,8GB,64GB,4.3,162476,0.12
+Apple,iPhone 13 Pro,Phantom White,6GB,512GB,4.2,105051,0.03
+Xiaomi,Redmi Note 11,Rose Gold,6GB,512GB,4.7,26961,0.17
+Samsung,Galaxy A52,Rose Gold,8GB,512GB,3.7,132712,0.05
+Apple,iPhone 13 Pro,Rose Gold,4GB,512GB,4.7,104917,0.01
+Realme,Realme 7,Phantom White,8GB,256GB,4.7,18863,0.02
+Samsung,Galaxy A52,Midnight Black,4GB,256GB,4.5,126729,0.12
+Apple,iPhone 12 Pro Max,Midnight Black,8GB,128GB,4.5,81588,0.04
+Vivo,Vivo V21,Graphite,6GB,64GB,4.3,25470,0.17
+Realme,Realme GT,Phantom White,8GB,512GB,4.4,14156,0.13
+Vivo,Vivo X60,Phantom White,6GB,64GB,4.3,18741,0.25
+Xiaomi,Redmi 10,Silver,4GB,1TB,3.8,9486,0.11
+Realme,Realme GT,Cosmic Purple,4GB,512GB,4.2,22524,0.29
+Samsung,Galaxy S22,Ocean Blue,6GB,1TB,4.4,87163,0.15
+Apple,iPhone 12 Pro Max,Alpine Green,6GB,256GB,4.2,120978,0.34
+Xiaomi,Redmi Note 10,Silver,8GB,1TB,4.3,44486,0.06
+Xiaomi,Redmi 10,Rose Gold,12GB,128GB,4.1,20265,0.01
+Realme,Realme 8 Pro,Rose Gold,12GB,128GB,4.5,35523,0.06
+Xiaomi,Redmi Note 11,Silver,8GB,64GB,4.6,34676,0.06
+Samsung,Galaxy S22,Phantom White,8GB,64GB,4.6,83898,0.06
+Vivo,Vivo V20,Phantom White,8GB,512GB,3.8,24473,0.07
+Xiaomi,Redmi Note 11,Alpine Green,4GB,128GB,4.6,25101,0.32
+Apple,iPhone 12 Pro Max,Phantom White,4GB,64GB,4.4,154446,0.14
+Vivo,Vivo V20,Alpine Green,6GB,512GB,4.1,19594,0.32
+Xiaomi,Redmi Note 10,Silver,12GB,128GB,3.8,40274,0.29
+Vivo,Vivo V21,Alpine Green,6GB,1TB,3.7,35160,0.27
+Realme,Realme Narzo 30,Ocean Blue,8GB,128GB,4.3,15820,0.05
+Xiaomi,Poco X3,Midnight Black,4GB,1TB,3.9,9379,0.24
+OnePlus,OnePlus 9,Phantom White,12GB,512GB,4.5,38995,0.14
+OnePlus,OnePlus 9,Rose Gold,4GB,512GB,4.9,26506,0.14
+Samsung,Galaxy A52,Silver,4GB,64GB,4.3,43919,0.16
+Samsung,Galaxy S22 Ultra,Rose Gold,4GB,512GB,4.7,100381,0.05
+Samsung,Galaxy A52,Midnight Black,6GB,128GB,4.6,29029,0.0
+Realme,Realme 8 Pro,Graphite,4GB,512GB,4.0,16555,0.25
+OnePlus,OnePlus Nord 2,Graphite,8GB,64GB,4.8,30886,0.16
+OnePlus,OnePlus 9 Pro,Rose Gold,8GB,512GB,4.8,20073,0.15
+Vivo,Vivo Y21,Graphite,8GB,128GB,4.4,12474,0.29
+OnePlus,OnePlus 9,Cosmic Purple,8GB,256GB,3.7,54076,0.15
+Apple,iPhone 13,Ocean Blue,6GB,256GB,4.5,55794,0.31
+Xiaomi,Poco F3,Ocean Blue,12GB,256GB,3.9,26519,0.03
+OnePlus,OnePlus 9R,Ocean Blue,8GB,256GB,4.2,39970,0.28
+Realme,Realme GT,Graphite,12GB,1TB,4.6,10353,0.06
+Xiaomi,Poco F3,Silver,6GB,512GB,4.7,17966,0.15
+Realme,Realme 8,Graphite,12GB,128GB,3.9,24217,0.26
+Xiaomi,Redmi Note 10,Alpine Green,4GB,1TB,4.0,41824,0.31
+Vivo,Vivo X60,Cosmic Purple,8GB,128GB,3.7,34793,0.1
+Xiaomi,Poco F3,Alpine Green,4GB,1TB,4.6,40257,0.19
+Xiaomi,Redmi 10,Rose Gold,4GB,256GB,4.2,35906,0.26
+Xiaomi,Redmi Note 11,Cosmic Purple,8GB,256GB,3.9,12357,0.14
+OnePlus,OnePlus 9,Cosmic Purple,8GB,512GB,3.9,45138,0.3
+Samsung,Galaxy A52,Rose Gold,6GB,512GB,4.3,120054,0.32
+Apple,iPhone 12 Pro Max,Graphite,4GB,1TB,4.1,53797,0.33
+Samsung,Galaxy Z Fold3,Cosmic Purple,6GB,1TB,4.7,15453,0.27
+Xiaomi,Mi 11X,Alpine Green,12GB,1TB,4.1,28009,0.34
+Xiaomi,Poco X3,Rose Gold,4GB,256GB,4.8,23935,0.25
+OnePlus,OnePlus Nord 2,Rose Gold,6GB,128GB,3.6,49656,0.23
+Vivo,Vivo Y21,Alpine Green,12GB,512GB,4.5,14940,0.19
+Samsung,Galaxy S22,Phantom White,12GB,512GB,4.8,76308,0.32
+Vivo,Vivo X60,Midnight Black,4GB,1TB,4.2,32202,0.18
+Xiaomi,Redmi Note 11,Silver,4GB,512GB,4.2,22451,0.2
+Samsung,Galaxy S22 Ultra,Phantom White,12GB,512GB,3.6,124603,0.11
+Vivo,Vivo X60,Alpine Green,8GB,1TB,3.8,38146,0.04
+OnePlus,OnePlus 9,Graphite,12GB,64GB,4.3,44310,0.24
+OnePlus,OnePlus 9,Rose Gold,12GB,128GB,3.8,22010,0.27
+OnePlus,OnePlus 9R,Alpine Green,12GB,128GB,4.8,56025,0.2
+Realme,Realme 7,Midnight Black,6GB,512GB,3.8,15043,0.15
+Xiaomi,Redmi Note 11,Ocean Blue,12GB,64GB,4.2,9398,0.19
+Xiaomi,Poco F3,Graphite,6GB,512GB,4.4,19337,0.01
+Vivo,Vivo Y33s,Ocean Blue,4GB,128GB,4.8,20911,0.24
+Vivo,Vivo Y33s,Alpine Green,4GB,256GB,4.1,29532,0.21
+OnePlus,OnePlus 9 Pro,Alpine Green,12GB,1TB,3.8,58431,0.12
+Realme,Realme GT,Ocean Blue,4GB,256GB,3.9,29898,0.19
+Xiaomi,Redmi Note 11,Graphite,6GB,64GB,4.5,13937,0.16
+Realme,Realme 8,Rose Gold,12GB,1TB,4.7,10182,0.14
+OnePlus,OnePlus Nord 2,Ocean Blue,4GB,256GB,4.7,52583,0.2
+Apple,iPhone 11,Rose Gold,8GB,1TB,4.8,82202,0.32
+Vivo,Vivo Y33s,Midnight Black,8GB,64GB,3.9,25705,0.27
+Apple,iPhone 13,Alpine Green,6GB,512GB,4.4,56149,0.16
+Apple,iPhone 12,Alpine Green,4GB,1TB,4.4,62194,0.16
+OnePlus,OnePlus 9R,Phantom White,12GB,1TB,3.8,37397,0.29
+Realme,Realme 8 Pro,Alpine Green,4GB,512GB,3.8,26634,0.23
+Xiaomi,Poco F3,Phantom White,12GB,256GB,3.7,36456,0.19
+OnePlus,OnePlus Nord CE,Midnight Black,12GB,64GB,3.8,48949,0.14
+Samsung,Galaxy S21,Alpine Green,6GB,64GB,3.9,29734,0.16
+Vivo,Vivo Y21,Rose Gold,6GB,256GB,4.0,18154,0.11
+Realme,Realme GT,Phantom White,8GB,256GB,4.9,32297,0.29
+OnePlus,OnePlus 9,Midnight Black,6GB,64GB,4.6,37348,0.28
+Vivo,Vivo Y21,Graphite,6GB,256GB,3.9,30551,0.01
+Apple,iPhone 12,Ocean Blue,12GB,256GB,3.9,92877,0.19
+Xiaomi,Poco F3,Cosmic Purple,12GB,64GB,3.9,33688,0.23
+OnePlus,OnePlus 9,Phantom White,8GB,128GB,4.1,26713,0.3
+Vivo,Vivo X60,Alpine Green,8GB,256GB,3.9,36037,0.15
+Realme,Realme 8,Cosmic Purple,8GB,256GB,4.5,17964,0.31
+Vivo,Vivo X60,Phantom White,4GB,256GB,4.7,29676,0.16
+OnePlus,OnePlus 9R,Silver,8GB,512GB,4.1,30948,0.34
+Samsung,Galaxy Z Fold3,Alpine Green,12GB,512GB,4.6,93209,0.27
+Realme,Realme GT,Graphite,4GB,128GB,4.1,20171,0.2
+OnePlus,OnePlus 9R,Phantom White,4GB,256GB,3.8,52369,0.14
+Samsung,Galaxy Z Fold3,Phantom White,4GB,512GB,4.1,23525,0.34
+Realme,Realme 7,Rose Gold,6GB,128GB,4.8,22352,0.21
+Realme,Realme 7,Phantom White,6GB,128GB,4.0,28115,0.26
+OnePlus,OnePlus Nord CE,Cosmic Purple,12GB,512GB,4.4,42390,0.32
+OnePlus,OnePlus 9,Graphite,4GB,128GB,3.9,29315,0.02
+Xiaomi,Poco F3,Ocean Blue,4GB,256GB,3.9,43595,0.26
+Realme,Realme 8,Phantom White,6GB,512GB,3.6,10144,0.31
+Xiaomi,Mi 11X,Alpine Green,12GB,512GB,3.8,13413,0.33
+Xiaomi,Redmi 10,Ocean Blue,4GB,256GB,4.6,13634,0.08
+Apple,iPhone 11,Ocean Blue,12GB,256GB,3.8,168227,0.05
+Realme,Realme 7,Rose Gold,8GB,512GB,4.0,34323,0.28
+Vivo,Vivo Y21,Graphite,4GB,256GB,4.4,34246,0.23
+Apple,iPhone 13 Pro,Phantom White,6GB,256GB,4.7,53121,0.2
+OnePlus,OnePlus 9 Pro,Rose Gold,4GB,1TB,4.8,54614,0.32
+OnePlus,OnePlus 9R,Alpine Green,8GB,512GB,4.3,18282,0.03
+Vivo,Vivo X60,Ocean Blue,4GB,512GB,4.4,24403,0.04
+Realme,Realme GT,Silver,12GB,128GB,4.6,31352,0.32
+Vivo,Vivo X60,Alpine Green,8GB,128GB,4.6,21071,0.17
+Apple,iPhone 13 Pro Max,Phantom White,8GB,128GB,4.9,95900,0.17
+Realme,Realme 8 Pro,Rose Gold,4GB,64GB,3.7,26062,0.17
+Vivo,Vivo Y21,Midnight Black,12GB,256GB,3.7,24731,0.03
+Realme,Realme Narzo 30,Alpine Green,6GB,256GB,4.7,34386,0.29
+Realme,Realme 8,Ocean Blue,12GB,128GB,3.9,11321,0.07
+Vivo,Vivo Y21,Graphite,8GB,256GB,4.7,20391,0.19
+Apple,iPhone 12 Pro Max,Cosmic Purple,12GB,64GB,4.2,154047,0.3
+Samsung,Galaxy S22 Ultra,Midnight Black,4GB,512GB,4.1,23989,0.27
+Realme,Realme 8,Cosmic Purple,4GB,1TB,4.7,21707,0.03
+Vivo,Vivo Y21,Phantom White,8GB,64GB,3.9,23567,0.07
+Xiaomi,Redmi Note 10,Midnight Black,8GB,1TB,3.6,31696,0.19
+Apple,iPhone 13 Pro Max,Midnight Black,8GB,512GB,3.9,147865,0.23
+Samsung,Galaxy M32,Midnight Black,12GB,64GB,4.4,121643,0.17
+Apple,iPhone 12 Pro Max,Alpine Green,6GB,64GB,4.5,128606,0.31
+Apple,iPhone 13 Pro,Graphite,4GB,128GB,4.4,84219,0.06
+Realme,Realme 8,Ocean Blue,12GB,512GB,4.6,35138,0.33
+Vivo,Vivo V21,Ocean Blue,8GB,1TB,4.3,33429,0.33
+Vivo,Vivo V21,Cosmic Purple,4GB,128GB,4.1,16159,0.21
+Xiaomi,Redmi Note 10,Rose Gold,8GB,512GB,4.5,22542,0.3
+Vivo,Vivo Y21,Silver,12GB,128GB,3.9,17221,0.21
+OnePlus,OnePlus Nord 2,Graphite,4GB,1TB,4.8,21501,0.27
+OnePlus,OnePlus 9 Pro,Alpine Green,12GB,64GB,4.4,20688,0.34
+Vivo,Vivo V21,Midnight Black,8GB,128GB,3.7,17543,0.24
+Samsung,Galaxy Z Fold3,Rose Gold,4GB,64GB,4.0,50133,0.19
+Realme,Realme 8,Silver,6GB,512GB,3.9,31565,0.04
+Realme,Realme GT,Alpine Green,8GB,512GB,4.6,32027,0.35
+Samsung,Galaxy S21,Silver,6GB,1TB,4.8,102882,0.0
+OnePlus,OnePlus Nord 2,Silver,8GB,256GB,4.2,21716,0.3
+Vivo,Vivo Y21,Ocean Blue,4GB,512GB,4.6,20478,0.14
+Apple,iPhone 13 Pro,Silver,6GB,1TB,4.0,172380,0.28
+OnePlus,OnePlus 9R,Rose Gold,6GB,128GB,4.0,55763,0.13
+Apple,iPhone 12 Pro Max,Ocean Blue,4GB,128GB,4.6,64312,0.26
+Xiaomi,Redmi Note 10,Phantom White,8GB,512GB,4.7,38387,0.0
+OnePlus,OnePlus Nord CE,Rose Gold,4GB,256GB,4.8,21396,0.14
+Apple,iPhone 13,Rose Gold,6GB,512GB,4.7,142246,0.02
+Vivo,Vivo Y33s,Midnight Black,12GB,256GB,4.7,31442,0.19
+Apple,iPhone 11,Ocean Blue,4GB,1TB,3.8,88229,0.02
+Vivo,Vivo Y21,Alpine Green,6GB,256GB,3.8,30933,0.09
+Samsung,Galaxy A52,Ocean Blue,12GB,256GB,4.3,105241,0.21
+Samsung,Galaxy S21,Phantom White,12GB,64GB,3.7,107927,0.19
+Apple,iPhone 12,Cosmic Purple,8GB,512GB,4.8,129326,0.09
+Xiaomi,Redmi 10,Phantom White,4GB,256GB,4.0,27449,0.24
+Xiaomi,Redmi Note 11,Midnight Black,4GB,1TB,3.6,16915,0.25
+Realme,Realme GT,Silver,8GB,1TB,3.9,37491,0.3
+Xiaomi,Poco X3,Rose Gold,6GB,128GB,4.4,33313,0.05
+OnePlus,OnePlus Nord CE,Cosmic Purple,4GB,256GB,4.5,42896,0.0
+OnePlus,OnePlus 9,Rose Gold,6GB,256GB,4.3,19997,0.16
+Xiaomi,Poco X3,Phantom White,12GB,512GB,3.6,21893,0.12
+Apple,iPhone 12 Pro Max,Silver,4GB,64GB,4.1,97179,0.24
+Apple,iPhone 13,Ocean Blue,4GB,512GB,4.2,69612,0.11
+Apple,iPhone 12 Pro Max,Cosmic Purple,4GB,256GB,3.8,112019,0.11
+Samsung,Galaxy S22,Silver,8GB,512GB,4.3,21420,0.25
+Xiaomi,Redmi 10,Silver,6GB,64GB,4.5,29963,0.24
+OnePlus,OnePlus Nord CE,Alpine Green,8GB,512GB,3.8,23239,0.27
+Realme,Realme 7,Rose Gold,12GB,256GB,4.7,23258,0.2
+OnePlus,OnePlus Nord 2,Rose Gold,4GB,1TB,3.9,39120,0.25
+OnePlus,OnePlus Nord 2,Cosmic Purple,12GB,1TB,4.8,42527,0.24
+Apple,iPhone 12,Ocean Blue,12GB,512GB,4.6,68252,0.19
+Samsung,Galaxy S21,Midnight Black,6GB,128GB,3.6,61170,0.15
+Samsung,Galaxy S22,Ocean Blue,6GB,1TB,4.5,41879,0.28
+Samsung,Galaxy S22,Rose Gold,8GB,256GB,3.7,127846,0.2

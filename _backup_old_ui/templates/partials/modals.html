@@ -1,0 +1,81 @@
+<!-- Login modal 
+<div class="modal fade qm-modal" id="qmLoginModal" tabindex="-1" aria-labelledby="qmLoginModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="qmLoginModalLabel">Sign in</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <div class="qm-form-note">
+          <i class="bi bi-shield-check"></i>
+          <span>QueryMind runs entirely on your machine — your CSVs never leave localhost, and no account is required. This form is here for completeness.</span>
+        </div>
+        <form id="qm-login-form">
+          <div class="mb-3">
+            <label class="form-label small fw-semibold" for="qm-login-email">Email</label>
+            <input type="email" class="form-control" id="qm-login-email" placeholder="you@example.com">
+          </div>
+          <div class="mb-3">
+            <label class="form-label small fw-semibold" for="qm-login-password">Password</label>
+            <input type="password" class="form-control" id="qm-login-password" placeholder="••••••••">
+          </div>
+          <button type="submit" class="btn-qm-primary w-100 justify-content-center d-flex">Continue</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>-->
+
+<!-- Contact modal -->
+<div class="modal fade qm-modal" id="qmContactModal" tabindex="-1" aria-labelledby="qmContactModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="qmContactModalLabel">Contact</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <p class="qm-muted small mb-3">Questions, feedback, or bug reports</p>
+        <a class="qm-contact-row" href="mailto:shanjaikumar2812@gmail.com">
+          <span class="qm-contact-icon"><i class="bi bi-envelope"></i></span>
+          <span>
+            <span class="qm-contact-label d-block">Email</span>
+            <span class="qm-contact-value">shanjaikumar2812@gmail.com</span>
+          </span>
+        </a>
+        <a class="qm-contact-row" href="https://github.com/shanjaikumar2812-svg" target="_blank" rel="noopener">
+          <span class="qm-contact-icon"><i class="bi bi-github"></i></span>
+          <span>
+            <span class="qm-contact-label d-block">GitHub</span>
+            <span class="qm-contact-value">github.com/shanjaikumar2812-svg</span>
+          </span>
+        </a>
+        <a class="qm-contact-row" href="https://www.linkedin.com/in/shanjai-kumar" target="_blank" rel="noopener">
+          <span class="qm-contact-icon"><i class="bi bi-linkedin"></i></span>
+          <span>
+            <span class="qm-contact-label d-block">LinkedIn</span>
+            <span class="qm-contact-value">www.linkedin.com/in/shanjai-kumar-380933315</span>
+          </span>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var loginForm = document.getElementById("qm-login-form");
+    if (loginForm) {
+      loginForm.addEventListener("submit", function (e) {
+        e.preventDefault();
+        var modalEl = document.getElementById("qmLoginModal");
+        var modal = bootstrap.Modal.getInstance(modalEl);
+        if (modal) modal.hide();
+        if (window.QMUtils && QMUtils.toast) {
+          QMUtils.toast("QueryMind is local-first — no login required. Head to the dashboard to get started.", "success");
+        }
+      });
+    }
+  });
+</script>

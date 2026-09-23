@@ -1,0 +1,101 @@
+{% extends "base.html" %}
+{% block title %}QueryMind — {{ dataset.filename }}{% endblock %}
+
+{% block subheader %}
+<!-- ================= BREADCRUMB / ACTION STRIP ================= -->
+<section class="border-b border-black/[0.05] bg-white/50 backdrop-blur-md">
+  <div class="max-w-7xl mx-auto px-6 lg:px-12 py-3 flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+    <div class="flex items-center gap-2.5 text-[13px] min-w-0">
+      <a href="{{ url_for('main.dashboard') }}" class="text-apple-muted hover:text-apple-ink transition-colors">Workspace</a>
+      <span class="text-black/20">/</span>
+      <div class="flex items-center gap-2 min-w-0 flex-wrap">
+        <span class="font-semibold text-apple-ink font-mono text-[13px] truncate">{{ dataset.filename }}</span>
+        <span class="inline-flex items-center gap-1.5 px-2 py-0.5 rounded-full bg-emerald-500/10 text-emerald-700 text-[11px] font-medium font-mono">
+          <span class="w-1.5 h-1.5 rounded-full bg-emerald-500"></span>
+          Local SQLite · ready
+        </span>
+      </div>
+    </div>
+
+    <div class="flex items-center gap-2">
+      <button type="button" id="share-btn"
+              class="px-3.5 py-1.5 rounded-full bg-white border border-black/[0.08] hover:border-black/[0.18] hover:bg-zinc-50/80 text-apple-ink text-[12px] font-medium transition-all shadow-[0_1px_2px_rgba(0,0,0,0.02)] flex items-center gap-1.5">
+        <i class="bi bi-share text-[12px] text-apple-subtle"></i>
+        <span>Share Analysis</span>
+      </button>
+      <a id="header-export-csv" href="#"
+         class="px-3.5 py-1.5 rounded-full bg-white border border-black/[0.08] hover:border-black/[0.18] hover:bg-zinc-50/80 text-apple-ink text-[12px] font-medium transition-all shadow-[0_1px_2px_rgba(0,0,0,0.02)] flex items-center gap-1.5">
+        <i class="bi bi-download text-[12px] text-apple-subtle"></i>
+        <span>Export CSV</span>
+      </a>
+    </div>
+  </div>
+</section>
+{% endblock %}
+
+{% block content %}
+<main class="flex-1 max-w-7xl w-full mx-auto px-6 lg:px-12 py-8 space-y-7" id="workspace-page" data-dataset-id="{{ dataset.id }}">
+
+  <!-- ================= SUMMARY RIBBON ================= -->
+  <div class="flex flex-wrap items-center justify-between gap-4 px-1 text-[12px] text-apple-subtle">
+    <div class="flex items-center gap-6 flex-wrap">
+      <div class="flex items-center gap-1.5">
+        <span class="text-apple-muted font-normal">Rows:</span>
+        <span class="font-semibold font-mono text-apple-ink" id="ribbon-rows">{{ "{:,}".format(dataset.row_count or 0) }}</span>
+      </div>
+      <div class="flex items-center gap-1.5">
+        <span class="text-apple-muted font-normal">Columns:</span>
+        <span class="font-semibold font-mono text-apple-ink" id="ribbon-cols">{{ dataset.column_count or 0 }}</span>
+      </div>
+      <div class="flex items-center gap-1.5">
+        <span class="text-apple-muted font-normal">Missing:</span>
+        <span class="font-semibold font-mono text-emerald-600" id="ribbon-missing">—</span>
+      </div>
+      <div class="flex items-center gap-1.5">
+        <span class="text-apple-muted font-normal">File size:</span>
+        <span class="font-semibold font-mono text-apple-ink">{{ size_label }}</span>
+      </div>
+    </div>
+    <div class="flex items-center gap-2">
+      <span class="text-apple-muted font-normal">Engine status:</span>
+      <span class="inline-flex items-center gap-1 text-emerald-600 font-medium">
+        <span class="w-1.5 h-1.5 rounded-full bg-emerald-500"></span>
+        SQLite read-only · active
+      </span>
+    </div>
+  </div>
+
+  <!-- ================= TWO-COLUMN GRID ================= -->
+  <div class="grid grid-cols-1 lg:grid-cols-12 gap-7 items-start">
+
+    <!-- LEFT: inspector -->
+    <aside class="lg:col-span-4 xl:col-span-3 space-y-5" data-purpose="dataset-schema-sidebar">
+      {% include "partials/health_card.html" %}
+
+      <!-- Recent questions -->
+      <div class="bg-white rounded-2xl border border-black/[0.08] p-5 shadow-apple-card">
+        <div class="flex items-center justify-between pb-3.5 border-b border-black/[0.05]">
+          <div class="flex items-center gap-2">
+            <i class="bi bi-clock-history text-[15px] text-apple-subtle"></i>
+            <h2 class="text-[11px] font-semibold uppercase tracking-wider text-apple-subtle m-0">Recent Questions</h2>
+          </div>
+        </div>
+        <ul class="mt-2 divide-y divide-black/[0.04] max-h-[260px] overflow-y-auto pr-1 list-none p-0 m-0" id="history-list">
+          <li class="py-6 text-center text-[12px] text-apple-muted">No questions yet.</li>
+        </ul>
+      </div>
+    </aside>
+
+    <!-- RIGHT: analytical canvas -->
+    <section class="lg:col-span-8 xl:col-span-9 space-y-6" data-purpose="analytical-canvas">
+      {% include "partials/query_panel.html" %}
+    </section>
+  </div>
+</main>
+{% endblock %}
+
+{% block scripts %}
+<script>
+  QM.initWorkspacePage("{{ dataset.id }}");
+</script>
+{% endblock %}

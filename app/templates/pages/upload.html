@@ -1,0 +1,239 @@
+{% extends "base.html" %}
+{% block title %}QueryMind — Turn Any CSV Into Intelligence{% endblock %}
+
+{% block content %}
+<main class="flex-1 w-full max-w-5xl mx-auto px-6 lg:px-8 pt-16 pb-20 flex flex-col items-center">
+
+  <!-- ================= HERO ================= -->
+  <div class="text-center max-w-2xl mx-auto mb-12">
+    <p class="text-[11px] font-semibold text-apple-subtle uppercase tracking-eyebrow mb-3">
+      Intellectual Data Exploration
+    </p>
+    <h1 class="text-4xl md:text-[54px] md:leading-[1.08] font-semibold text-apple-ink tracking-tighter mb-4">
+      Turn any CSV into intelligence.
+    </h1>
+    <p class="text-[17px] leading-[1.47] text-apple-muted font-normal max-w-xl mx-auto">
+      Ask questions in human language. QueryMind writes the SQL, runs it locally, and charts the answer — your data never leaves your machine.
+    </p>
+  </div>
+
+  <!-- ================= DROPZONE ================= -->
+  <section class="w-full max-w-2xl mx-auto mb-10">
+    <input type="file" id="file-input" accept=".csv" class="hidden">
+
+    <div id="dropzone"
+         class="qm-dropzone group relative bg-white/90 rounded-2xl border border-black/[0.08] hover:border-black/[0.18] p-12 text-center cursor-pointer shadow-apple-drop hover:shadow-apple-hover transition-all duration-300 backdrop-blur-sm">
+      <div class="pointer-events-none absolute inset-0 rounded-2xl bg-gradient-to-b from-white/60 via-transparent to-black/[0.015]"></div>
+
+      <div id="dropzone-idle">
+        <div class="relative mx-auto w-14 h-14 rounded-full bg-gradient-to-b from-[#fbfbfd] to-[#f2f2f5] border border-black/[0.06] flex items-center justify-center mb-5 text-apple-ink shadow-apple-glass group-hover:scale-105 transition-transform duration-200">
+          <i class="bi bi-arrow-up text-[22px] text-apple-ink group-hover:text-apple-tint transition-colors"></i>
+        </div>
+        <h3 class="relative text-[19px] font-semibold text-apple-ink tracking-tight mb-1.5">
+          Drop your dataset here
+        </h3>
+        <p class="relative text-[13px] text-apple-subtle mb-5 font-normal">
+          or click to select file &nbsp;·&nbsp; Supports CSV up to 50MB
+        </p>
+        <div class="relative inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-black/[0.03] border border-black/[0.04] text-[11px] text-apple-subtle font-medium">
+          <i class="bi bi-lock text-[11px] text-apple-subtle"></i>
+          <span>100% Local Processing &nbsp;·&nbsp; Zero Cloud Telemetry</span>
+        </div>
+      </div>
+
+      <!-- Busy state (shown while uploading / ingesting) -->
+      <div id="dropzone-busy" class="hidden flex-col items-center py-6">
+        <div class="qm-spinner qm-spinner-dark mb-3" style="width:32px;height:32px;border-width:2px;"></div>
+        <p class="text-[15px] text-apple-ink font-semibold tracking-tight" id="dropzone-busy-title">Ingesting dataset…</p>
+        <p class="font-mono text-[11px] text-apple-subtle mt-1" id="dropzone-busy-sub">Preparing local SQLite table</p>
+        <div class="w-56 h-1 bg-black/[0.06] rounded-full overflow-hidden mt-4" id="upload-progress">
+          <div class="h-full bg-apple-tint rounded-full transition-all duration-150" style="width:0%" id="upload-progress-bar"></div>
+        </div>
+      </div>
+
+      <!-- Done state -->
+      <div id="dropzone-done" class="hidden flex-col items-center py-6">
+        <i class="bi bi-check-circle-fill text-[30px] text-emerald-600 mb-2"></i>
+        <p class="text-[15px] text-apple-ink font-semibold tracking-tight">Dataset parsed successfully</p>
+        <p class="text-[13px] text-apple-muted mt-1">Opening your query workspace…</p>
+      </div>
+    </div>
+
+    <div id="upload-error" class="hidden mt-3 text-[13px] text-red-600 bg-red-50 border border-red-100 rounded-xl px-4 py-2.5"></div>
+
+    <!-- Curated sandbox chips -->
+    <div class="mt-4 flex flex-col sm:flex-row items-center justify-center gap-2.5 text-[12px] text-apple-subtle">
+      <span class="font-normal text-[12px] text-apple-muted mr-1">Or load curated sandbox:</span>
+      <div class="flex items-center gap-1.5 flex-wrap justify-center" id="sample-chips">
+        {% for s in samples %}
+        <button type="button"
+                class="px-2.5 py-1 rounded-full bg-white border border-black/[0.08] text-apple-ink hover:border-black/[0.2] hover:bg-[#f9f9fb] text-[12px] font-medium transition-all shadow-[0_1px_2px_rgba(0,0,0,0.02)]"
+                data-sample-key="{{ s.key }}" data-sample-label="{{ s.label }}">
+          {{ s.label }} <span class="text-apple-muted font-normal font-mono text-[11px]">{{ s.size_label }}</span>
+        </button>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= ACTIVE SESSION INSPECTOR ================= -->
+  {% if latest %}
+  <section class="w-full max-w-3xl mb-16">
+    <div class="flex items-center justify-between mb-2.5 px-1 text-[12px]">
+      <div class="flex items-center gap-2">
+        <span class="font-semibold text-apple-ink uppercase tracking-wider text-[11px]">Active Session</span>
+        <span class="w-1 h-1 rounded-full bg-black/20"></span>
+        <span class="text-apple-subtle font-normal">Local SQLite Store</span>
+      </div>
+      <span class="text-apple-muted text-[11px] font-mono">{{ dataset_count }} dataset{{ '' if dataset_count == 1 else 's' }} in session</span>
+    </div>
+
+    <div class="bg-white rounded-2xl border border-black/[0.08] p-4 sm:p-5 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 shadow-apple-card hover:border-black/[0.14] transition-all">
+      <div class="flex items-center gap-3.5 min-w-0">
+        <div class="w-11 h-11 rounded-xl bg-[#f5f5f7] border border-black/[0.06] flex items-center justify-center text-apple-ink flex-shrink-0">
+          <i class="bi bi-file-earmark-text text-[20px] text-apple-ink"></i>
+        </div>
+        <div class="min-w-0">
+          <div class="flex items-center gap-2 flex-wrap">
+            <span class="text-[14px] font-semibold text-apple-ink tracking-tight font-mono truncate">{{ latest.filename }}</span>
+            <span class="inline-flex items-center gap-1 px-2 py-0.5 rounded-full bg-emerald-500/10 text-emerald-700 text-[11px] font-medium">
+              <span class="w-1.5 h-1.5 rounded-full bg-emerald-500"></span>
+              Ready for Analysis
+            </span>
+          </div>
+          <div class="flex items-center gap-2.5 mt-1 font-mono text-[11px] text-apple-subtle">
+            <span>{{ "{:,}".format(latest.row_count or 0) }} rows</span>
+            <span class="text-black/20">/</span>
+            <span>{{ latest.column_count or 0 }} columns</span>
+            <span class="text-black/20">/</span>
+            <span class="text-apple-ink font-medium">{{ latest.size_label }}</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="flex items-center gap-2 w-full sm:w-auto justify-end pt-2 sm:pt-0 border-t sm:border-t-0 border-black/[0.05]">
+        <a href="{{ url_for('main.dashboard') }}"
+           class="px-3.5 py-1.5 rounded-full border border-black/[0.1] hover:border-black/[0.2] hover:bg-black/[0.02] text-apple-ink text-[13px] font-medium transition-colors flex items-center gap-1.5">
+          <i class="bi bi-grid-1x2 text-[13px] text-apple-subtle"></i>
+          <span>All datasets</span>
+        </a>
+        <a href="{{ url_for('main.workspace', dataset_id=latest.id) }}"
+           class="px-4 py-1.5 rounded-full bg-apple-tint hover:bg-apple-tintHover text-white text-[13px] font-medium transition-all flex items-center gap-1 shadow-sm active:scale-[0.98]">
+          <span>Open Query Canvas</span>
+          <i class="bi bi-arrow-right text-[13px]"></i>
+        </a>
+      </div>
+    </div>
+  </section>
+  {% endif %}
+
+  <!-- ================= FEATURE PILLARS ================= -->
+  <section class="w-full max-w-4xl mb-16">
+    <div class="text-center mb-8">
+      <h2 class="text-2xl md:text-[28px] font-semibold text-apple-ink tracking-tight">
+        Everything computed on your machine.
+      </h2>
+      <p class="text-[14px] text-apple-subtle mt-1 font-normal">
+        Engineered for raw query speed, automated visualizations, and zero setup.
+      </p>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-5">
+      <!-- Pillar 1 -->
+      <div class="bg-white rounded-2xl border border-black/[0.08] p-6 flex flex-col justify-between shadow-apple-card hover:shadow-apple-hover transition-all duration-200">
+        <div>
+          <div class="w-8 h-8 rounded-lg bg-black/[0.03] border border-black/[0.04] flex items-center justify-center text-apple-ink mb-4">
+            <i class="bi bi-code-slash text-[16px]"></i>
+          </div>
+          <h3 class="text-[15px] font-semibold text-apple-ink tracking-tight mb-1">Instant SQL</h3>
+          <p class="text-[13px] text-apple-muted leading-relaxed mb-5 font-normal">
+            Plain-English questions are synthesized into validated, read-only SQL with an automatic self-healing retry loop.
+          </p>
+        </div>
+        <div class="bg-[#1d1d1f] rounded-xl p-3.5 font-mono text-[11px] leading-relaxed text-[#f5f5f7] border border-black/20">
+          <div class="flex items-center justify-between text-[10px] text-[#86868b] mb-2 border-b border-white/10 pb-1.5">
+            <span>QUERY COMPILED</span>
+            <span class="text-emerald-400 font-mono">safe</span>
+          </div>
+          <div>
+            <span class="text-sky-400 font-semibold">SELECT</span> brand, <span class="text-purple-300">AVG</span>(rating)<br>
+            <span class="text-sky-400 font-semibold">FROM</span> table<br>
+            <span class="text-sky-400 font-semibold">GROUP BY</span> 1 <span class="text-sky-400 font-semibold">ORDER BY</span> 2 <span class="text-sky-400 font-semibold">DESC</span>;
+          </div>
+        </div>
+      </div>
+
+      <!-- Pillar 2 -->
+      <div class="bg-white rounded-2xl border border-black/[0.08] p-6 flex flex-col justify-between shadow-apple-card hover:shadow-apple-hover transition-all duration-200">
+        <div>
+          <div class="w-8 h-8 rounded-lg bg-black/[0.03] border border-black/[0.04] flex items-center justify-center text-apple-ink mb-4">
+            <i class="bi bi-bar-chart text-[16px]"></i>
+          </div>
+          <h3 class="text-[15px] font-semibold text-apple-ink tracking-tight mb-1">Adaptive Charts</h3>
+          <p class="text-[13px] text-apple-muted leading-relaxed mb-5 font-normal">
+            Intent detection shapes the result into the right visualization — bar, line, or donut — automatically.
+          </p>
+        </div>
+        <div class="bg-[#f5f5f7] rounded-xl p-3.5 border border-black/[0.04] flex flex-col justify-between h-[106px]">
+          <div class="flex items-end justify-between gap-2.5 h-16 pt-2 px-1">
+            <div class="w-full flex flex-col items-center gap-1.5">
+              <div class="w-full bg-apple-ink/15 rounded-t-sm h-7"></div>
+              <span class="text-[9px] font-mono text-apple-subtle">Q1</span>
+            </div>
+            <div class="w-full flex flex-col items-center gap-1.5">
+              <div class="w-full bg-apple-ink/30 rounded-t-sm h-10"></div>
+              <span class="text-[9px] font-mono text-apple-subtle">Q2</span>
+            </div>
+            <div class="w-full flex flex-col items-center gap-1.5">
+              <div class="w-full bg-apple-tint rounded-t-sm h-14 relative">
+                <span class="absolute -top-3.5 left-1/2 -translate-x-1/2 text-[9px] font-mono text-apple-tint font-semibold">+42%</span>
+              </div>
+              <span class="text-[9px] font-mono text-apple-ink font-semibold">Q3</span>
+            </div>
+            <div class="w-full flex flex-col items-center gap-1.5">
+              <div class="w-full bg-apple-ink/50 rounded-t-sm h-11"></div>
+              <span class="text-[9px] font-mono text-apple-subtle">Q4</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Pillar 3 -->
+      <div class="bg-white rounded-2xl border border-black/[0.08] p-6 flex flex-col justify-between shadow-apple-card hover:shadow-apple-hover transition-all duration-200">
+        <div>
+          <div class="w-8 h-8 rounded-lg bg-black/[0.03] border border-black/[0.04] flex items-center justify-center text-apple-ink mb-4">
+            <i class="bi bi-graph-up-arrow text-[16px]"></i>
+          </div>
+          <h3 class="text-[15px] font-semibold text-apple-ink tracking-tight mb-1">Horizon Forecasting</h3>
+          <p class="text-[13px] text-apple-muted leading-relaxed mb-5 font-normal">
+            ARIMA-backed trend projection with an automatic moving-average fallback when the series is short.
+          </p>
+        </div>
+        <div class="bg-[#f5f5f7] rounded-xl p-3.5 border border-black/[0.04] flex flex-col justify-between h-[106px]">
+          <div class="flex items-center justify-between text-[10px] font-mono">
+            <span class="text-apple-subtle">Trend Projection</span>
+            <span class="text-apple-tint font-medium">12 periods</span>
+          </div>
+          <div class="w-full h-8 flex items-center my-auto">
+            <svg class="w-full h-8 text-apple-tint" fill="none" preserveAspectRatio="none" viewBox="0 0 100 25">
+              <path d="M0,20 C20,18 40,16 60,11" stroke="currentColor" stroke-linecap="round" stroke-width="2"></path>
+              <path d="M60,11 C75,7 85,4 100,2" stroke="currentColor" stroke-dasharray="2.5,2.5" stroke-linecap="round" stroke-width="1.8"></path>
+              <path d="M60,11 C75,7 85,4 100,2 L100,8 C85,10 75,13 60,11 Z" fill="currentColor" fill-opacity="0.12"></path>
+            </svg>
+          </div>
+          <div class="flex justify-between text-[9px] font-mono text-apple-subtle">
+            <span>Historical</span>
+            <span class="text-apple-ink font-medium">Projection</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+{% endblock %}
+
+{% block scripts %}
+<script>
+  QM.initUploadPage();
+</script>
+{% endblock %}

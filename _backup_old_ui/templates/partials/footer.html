@@ -1,0 +1,28 @@
+<footer class="qm-footer">
+  <div class="container-xl">
+    <div class="qm-footer-top">
+      <div>
+        <a href="{{ url_for('main.home') }}" class="qm-brand">
+          <span class="qm-brand-mark">SK</span>
+          <span class="qm-brand-text">QueryMind</span>
+        </a>
+        <p class="qm-footer-tagline">Upload any CSV, ask questions in plain English, and get SQL, charts, and forecasts back instantly. No account needed — local and private.</p>
+      </div>
+
+      <div class="qm-footer-links">
+        <a class="qm-footer-link" href="mailto:shanjaikumar2812@gmail.com" title="Email" aria-label="Email"><i class="bi bi-envelope"></i></a>
+        <a class="qm-footer-link" href="https://github.com/shanjaikumar2812-svg/QueryMind" target="_blank" rel="noopener" title="GitHub" aria-label="GitHub"><i class="bi bi-github"></i></a>
+        <a class="qm-footer-link" href="https://www.linkedin.com/in/shanjai-kumar-380933315" target="_blank" rel="noopener" title="LinkedIn" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
+      </div>
+    </div>
+
+    <div class="qm-footer-bottom">
+     <!---<span>&copy; <span id="qm-year"></span> QueryMind. Built by Shanjai Kumar.</span>--->
+      <div class="d-flex gap-3">
+        <a href="https://github.com/shanjaikumar2812-svg/QueryMind" target="_blank" rel="noopener">Source on GitHub</a>
+        <a href="mailto:shanjaikumar2812@gmail.com">Get in touch</a>
+      </div>
+    </div>
+  </div>
+</footer>
+<script>document.getElementById('qm-year').textContent = new Date().getFullYear();</script>

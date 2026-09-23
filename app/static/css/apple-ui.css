@@ -1,0 +1,155 @@
+/* ==========================================================================
+   QueryMind — Apple-style UI layer
+   Custom tokens, component styles, and fallbacks that sit alongside Tailwind.
+   Loaded on every page via base.html.
+   ========================================================================== */
+
+:root {
+  --apple-canvas: #fbfbfd;
+  --apple-card: #ffffff;
+  --apple-ink: #1d1d1f;
+  --apple-muted: #86868b;
+  --apple-subtle: #6e6e73;
+  --apple-border: rgba(0, 0, 0, 0.07);
+  --apple-tint: #0071e3;
+  --apple-tint-hover: #0077ed;
+  --apple-success: #059669;
+  --apple-danger: #d7263d;
+}
+
+/* Base fallbacks — these apply even if the Tailwind CDN is unreachable. */
+html, body {
+  background-color: var(--apple-canvas);
+  color: var(--apple-ink);
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'SF Pro Text', system-ui, sans-serif;
+  margin: 0;
+}
+
+::selection { background: var(--apple-tint); color: #fff; }
+
+/* app.js toggles this class on elements that may also carry `flex`/`grid`
+   utilities, so it must win. */
+.hidden { display: none !important; }
+
+/* ---------------- Scrollbars ---------------- */
+::-webkit-scrollbar { width: 4px; height: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgba(0, 0, 0, 0.12); border-radius: 9999px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(0, 0, 0, 0.25); }
+
+/* ---------------- Toasts ---------------- */
+.qm-toast-root {
+  position: fixed;
+  bottom: 22px;
+  right: 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  z-index: 9999;
+}
+.qm-toast {
+  background: #fff;
+  color: var(--apple-ink);
+  border: 1px solid var(--apple-border);
+  border-left: 3px solid var(--apple-tint);
+  border-radius: 12px;
+  padding: 11px 16px;
+  font-size: 13px;
+  font-weight: 500;
+  max-width: 340px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08), 0 1px 3px rgba(0, 0, 0, 0.04);
+  animation: qm-fade-in 0.2s ease-out;
+}
+.qm-toast.success { border-left-color: var(--apple-success); }
+.qm-toast.error { border-left-color: var(--apple-danger); }
+
+@keyframes qm-fade-in {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes qm-spin { to { transform: rotate(360deg); } }
+
+/* ---------------- Spinner ---------------- */
+.qm-spinner {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  border: 2px solid rgba(255, 255, 255, 0.35);
+  border-top-color: #fff;
+  border-radius: 50%;
+  animation: qm-spin 0.6s linear infinite;
+}
+.qm-spinner-dark {
+  border-color: rgba(0, 0, 0, 0.12);
+  border-top-color: var(--apple-tint);
+}
+
+/* ---------------- Modal (vanilla, no Bootstrap dependency) ---------------- */
+.qm-modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.35);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  z-index: 9998;
+  animation: qm-fade-in 0.18s ease-out;
+}
+.qm-modal-panel {
+  background: #fff;
+  border: 1px solid var(--apple-border);
+  border-radius: 18px;
+  width: 100%;
+  max-width: 420px;
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.16);
+  overflow: hidden;
+}
+
+/* ---------------- Result table ---------------- */
+.qm-table { width: 100%; border-collapse: collapse; font-size: 12.5px; }
+.qm-table thead th {
+  position: sticky;
+  top: 0;
+  background: #fafafc;
+  text-align: left;
+  font-weight: 600;
+  font-size: 11px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--apple-subtle);
+  padding: 9px 12px;
+  border-bottom: 1px solid var(--apple-border);
+  white-space: nowrap;
+}
+.qm-table tbody td {
+  padding: 8px 12px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.04);
+  color: var(--apple-ink);
+  font-family: 'JetBrains Mono', 'SF Mono', Menlo, monospace;
+  font-size: 11.5px;
+  white-space: nowrap;
+  max-width: 320px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.qm-table tbody tr:hover td { background: rgba(245, 245, 247, 0.7); }
+
+/* ---------------- Dropzone drag state ---------------- */
+.qm-dropzone.dragover {
+  border-color: rgba(0, 0, 0, 0.3) !important;
+  background: #fff !important;
+  transform: scale(1.005);
+}
+
+/* ---------------- Chart canvas sizing ---------------- */
+.qm-chart-wrap { position: relative; width: 100%; height: 280px; }
+.qm-chart-wrap-sm { height: 170px; }
+
+/* ---------------- Reduced motion ---------------- */
+@media (prefers-reduced-motion: reduce) {
+  .qm-toast, .qm-modal-backdrop, .qm-spinner { animation: none !important; }
+  * { transition: none !important; }
+}

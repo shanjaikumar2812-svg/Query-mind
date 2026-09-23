@@ -1,0 +1,5 @@
+.qm-toast { border: 1px solid rgba(255, 255, 255, 0.08); }
+
+.dropzone.dragover { box-shadow: 0 0 0 4px var(--qm-accent-soft); }
+
+.qm-elevated { box-shadow: var(--qm-shadow-lg); }

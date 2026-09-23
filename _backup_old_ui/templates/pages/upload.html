@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+{% block title %}QueryMind — Upload{% endblock %}
+{% block content %}
+<div class="upload-page">
+  <div class="upload-hero">
+    <span class="qm-eyebrow">Idea Into Analysis</span>
+    <h1>𝔗𝔲𝔯𝔫 𝔞𝔫𝔶 𝔠𝔰𝔳 𝔡𝔞𝔱𝔞 𝔦𝔫𝔱𝔬 𝔞 𝔪𝔢𝔞𝔫𝔦𝔫𝔤𝔣𝔲𝔩 𝔦𝔫𝔰𝔦𝔤𝔥𝔱𝔰</h1>
+    <p>Upload a dataset, ask questions in plain English, and get SQL, charts, and forecasts back instantly.</p>
+  </div>
+
+  <div class="glass-panel dropzone" id="dropzone">
+    <input type="file" id="file-input" accept=".csv" hidden>
+    <div class="dropzone-inner">
+      <div class="dropzone-icon"><i class="bi bi-cloud-arrow-up"></i></div>
+      <p class="dropzone-title">Drag &amp; drop your CSV here</p>
+      <p class="dropzone-subtitle">or click to browse — max 50MB</p>
+    </div>
+    <div class="upload-progress hidden" id="upload-progress">
+      <div class="upload-progress-bar" id="upload-progress-bar"></div>
+    </div>
+  </div>
+
+  <div id="upload-error" class="upload-error hidden"></div>
+
+  <div class="row w-100 g-3 text-start" style="max-width:640px;">
+    <div class="col-4">
+      <div class="glass-panel py-3 px-3 h-100">
+        <i class="bi bi-lightning-charge text-primary"></i>
+        <div class="small fw-semibold mt-2">Instant SQL</div>
+        <div class="small qm-muted">Questions become queries in seconds.</div>
+      </div>
+    </div>
+    <div class="col-4">
+      <div class="glass-panel py-3 px-3 h-100">
+        <i class="bi bi-bar-chart text-primary"></i>
+        <div class="small fw-semibold mt-2">Auto charts</div>
+        <div class="small qm-muted">Results are charted when it makes sense.</div>
+      </div>
+    </div>
+    <div class="col-4">
+      <div class="glass-panel py-3 px-3 h-100">
+        <i class="bi bi-graph-up-arrow text-primary"></i>
+        <div class="small fw-semibold mt-2">Forecasting</div>
+        <div class="small qm-muted">Project trends forward automatically.</div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+  QM.initUploadPage();
+</script>
+{% endblock %}

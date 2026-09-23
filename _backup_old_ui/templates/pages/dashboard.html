@@ -1,0 +1,72 @@
+{% extends "base.html" %}
+{% block title %}QueryMind — Dashboard{% endblock %}
+{% block content %}
+<div class="app-shell">
+  <aside class="left-sidebar glass-panel">
+    <div class="sidebar-top d-flex flex-column gap-3">
+      <a href="{{ url_for('main.home') }}" class="qm-brand small">
+        <span class="qm-brand-mark">Q</span>
+        <span class="qm-brand-text">QueryMind</span>
+      </a>
+      <a href="{{ url_for('main.home') }}" class="new-chat-btn primary-btn"><i class="bi bi-plus-lg"></i>New Query</a>
+    </div>
+    <nav class="sidebar-nav">
+      <a class="sidebar-item active" href="{{ url_for('main.dashboard') }}"><i class="bi bi-grid-1x2"></i>Dashboard</a>
+      <a class="sidebar-item" href="{{ url_for('main.home') }}"><i class="bi bi-cloud-upload"></i>Upload</a>
+      <a class="sidebar-item" href="{{ url_for('main.home') }}"><i class="bi bi-journal-text"></i>Docs</a>
+    </nav>
+    <div class="sidebar-footer">
+      <i class="bi bi-shield-lock me-1"></i>No account needed — local and private.
+    </div>
+  </aside>
+
+  <section class="main-area">
+    <div class="hero glass-panel">
+      <span class="qm-eyebrow">Ask in plain English</span>
+      <h1>What's on your mind today?</h1>
+      <p class="muted">Ask a question about your data — QueryMind converts it to SQL and shows the results.</p>
+      <div class="hero-search">
+        <input id="hero-query" placeholder="Show total revenue by month" autocomplete="off">
+        <button id="hero-ask" class="primary-btn" type="button" {% if datasets %}data-latest-dataset-id="{{ datasets[0].id }}"{% endif %}>
+          Ask<i class="bi bi-arrow-return-left ms-1"></i>
+        </button>
+      </div>
+    </div>
+
+    <div class="dashboard-content mt-4">
+      <div class="dashboard-header">
+        <h2>Your datasets</h2>
+        <a href="{{ url_for('main.home') }}" class="primary-btn"><i class="bi bi-upload"></i>Upload CSV</a>
+      </div>
+
+      <div class="dataset-grid">
+        {% for ds in datasets %}
+        <a href="{{ url_for('main.workspace', dataset_id=ds.id) }}" class="glass-panel dataset-card">
+          <div class="dataset-card-icon"><i class="bi bi-filetype-csv"></i></div>
+          <h3>{{ ds.filename or 'Untitled dataset' }}</h3>
+          <div class="dataset-card-meta">
+            <span><i class="bi bi-list-ol me-1"></i>{{ ds.row_count or 0 }} rows</span>
+            <span><i class="bi bi-columns me-1"></i>{{ ds.column_count or 0 }} cols</span>
+          </div>
+          <span class="dataset-card-date">{{ ds.uploaded_at or 'Recently uploaded' }}</span>
+        </a>
+        {% else %}
+        <div class="glass-panel empty-state">
+          <div class="empty-state-icon"><i class="bi bi-inbox"></i></div>
+          <p class="mb-0">No datasets yet. Upload a CSV to get started.</p>
+          <a href="{{ url_for('main.home') }}" class="primary-btn" style="margin-top:16px; display:inline-flex">
+            <i class="bi bi-upload"></i>Upload CSV
+          </a>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+  QM.initDashboardHero();
+</script>
+{% endblock %}

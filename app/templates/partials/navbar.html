@@ -1,0 +1,53 @@
+<!-- ================= APPLE PRO NAVIGATION BAR ================= -->
+<header class="sticky top-0 z-50 bg-white/80 backdrop-blur-xl border-b border-black/[0.06] transition-colors">
+  <div class="flex justify-between items-center w-full px-6 lg:px-12 py-3 max-w-7xl mx-auto">
+
+    <!-- Brand + primary nav -->
+    <div class="flex items-center gap-8">
+      <a class="flex items-center gap-2.5 group" href="{{ url_for('main.home') }}">
+        <div class="w-7 h-7 rounded-lg bg-apple-ink flex items-center justify-center text-white shadow-apple-glass transition-transform duration-200 group-hover:scale-105">
+          <svg class="w-4 h-4 text-white" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.2" viewBox="0 0 24 24">
+            <circle cx="11" cy="11" r="7"></circle>
+            <path d="m21 21-4.35-4.35"></path>
+            <path d="M11 8v6"></path>
+            <path d="M8 11h6"></path>
+          </svg>
+        </div>
+        <span class="text-[15px] font-semibold tracking-tight text-apple-ink">QueryMind</span>
+      </a>
+
+      <nav class="hidden md:flex items-center gap-7">
+        <a class="text-[13px] {% if request.endpoint == 'main.home' %}text-apple-ink font-medium{% else %}text-apple-subtle hover:text-apple-ink{% endif %} transition-colors duration-150 flex items-center gap-1.5" href="{{ url_for('main.home') }}">
+          Overview
+          {% if request.endpoint == 'main.home' %}<span class="w-1 h-1 rounded-full bg-apple-ink"></span>{% endif %}
+        </a>
+        <a class="text-[13px] {% if request.endpoint in ['main.dashboard', 'main.workspace'] %}text-apple-ink font-medium{% else %}text-apple-subtle hover:text-apple-ink{% endif %} transition-colors duration-150 flex items-center gap-1.5" href="{{ url_for('main.dashboard') }}">
+          Workspace
+          {% if request.endpoint in ['main.dashboard', 'main.workspace'] %}<span class="w-1 h-1 rounded-full bg-apple-ink"></span>{% endif %}
+        </a>
+        <a class="text-[13px] text-apple-subtle hover:text-apple-ink transition-colors duration-150" href="https://github.com/shanjaikumar2812-svg/QueryMind" target="_blank" rel="noopener">Documentation</a>
+        <button type="button" class="text-[13px] text-apple-subtle hover:text-apple-ink transition-colors duration-150" data-qm-modal-open="qm-contact-modal">Contact</button>
+      </nav>
+    </div>
+
+    <!-- Right action cluster -->
+    <div class="flex items-center gap-3.5">
+      <div class="hidden sm:flex items-center gap-2 px-3 py-1 rounded-full bg-black/[0.03] border border-black/[0.04]">
+        <span class="w-1.5 h-1.5 rounded-full bg-emerald-500 ring-2 ring-emerald-500/20"></span>
+        <span class="font-mono text-[11px] font-medium text-apple-subtle tracking-tight">SQLite Local Engine</span>
+      </div>
+
+      <a href="{{ url_for('main.home') }}"
+         class="flex items-center gap-1.5 px-3.5 py-1.5 rounded-full bg-[#1d1d1f] hover:bg-[#333336] text-white transition-all duration-150 text-[13px] font-medium shadow-sm hover:shadow active:scale-[0.98]">
+        <i class="bi bi-arrow-up text-[14px] text-white/90"></i>
+        <span>Upload CSV</span>
+      </a>
+
+      <button type="button" title="Local session — no account needed"
+              class="w-7 h-7 rounded-full bg-white border border-black/[0.1] flex items-center justify-center text-apple-ink font-mono text-[11px] font-medium hover:border-black/[0.25] transition-colors"
+              data-qm-modal-open="qm-contact-modal">
+        SK
+      </button>
+    </div>
+  </div>
+</header>

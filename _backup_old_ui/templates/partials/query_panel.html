@@ -1,0 +1,39 @@
+<div class="glass-panel query-panel">
+  <h3><i class="bi bi-terminal"></i>Ask QueryMind</h3>
+  <form id="query-form" class="query-form">
+    <input
+      type="text"
+      id="question-input"
+      placeholder="e.g. What are the top 5 products by total sales?"
+      autocomplete="off"
+      required
+    >
+    <button type="submit" id="ask-btn">
+      <span class="btn-label">Ask</span>
+      <span class="btn-spinner hidden"></span>
+    </button>
+  </form>
+
+  <div id="query-error" class="query-error hidden"></div>
+
+  <div id="query-result" class="query-result hidden">
+    <div class="result-summary" id="result-summary"></div>
+
+    <div class="result-toolbar">
+      <button id="toggle-sql-btn" type="button" class="ghost-btn"><i class="bi bi-code-slash me-1"></i>Show SQL</button>
+      <div class="export-buttons hidden" id="export-buttons">
+        <a id="export-csv" class="ghost-btn" href="#"><i class="bi bi-filetype-csv me-1"></i>CSV</a>
+        <a id="export-excel" class="ghost-btn" href="#"><i class="bi bi-file-earmark-excel me-1"></i>Excel</a>
+        <a id="export-pdf" class="ghost-btn" href="#"><i class="bi bi-file-earmark-pdf me-1"></i>PDF</a>
+      </div>
+    </div>
+
+    <pre id="sql-block" class="sql-block hidden"></pre>
+
+    {% include "partials/chart_card.html" %}
+
+    <div class="result-table-wrap">
+      <table id="result-table" class="result-table"></table>
+    </div>
+  </div>
+</div>

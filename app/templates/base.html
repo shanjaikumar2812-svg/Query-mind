@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth antialiased h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% block title %}QueryMind{% endblock %}</title>
+  <meta name="description" content="QueryMind — upload a CSV and ask questions in plain English. Get SQL, charts, and forecasts back instantly.">
+
+  <!-- Locally vendored Inter + JetBrains Mono (works offline) -->
+  <link rel="stylesheet" href="{{ url_for('static', filename='vendor/fonts/fonts.css') }}">
+  <!-- Locally vendored icon set -->
+  <link rel="stylesheet" href="{{ url_for('static', filename='vendor/bootstrap-icons/bootstrap-icons.min.css') }}">
+
+  <!-- Tailwind: design system for the new UI -->
+  <script src="https://cdn.tailwindcss.com?plugins=forms"></script>
+  <script>
+    tailwind.config = {
+      darkMode: "class",
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Inter', '-apple-system', 'BlinkMacSystemFont', 'SF Pro Text', 'system-ui', 'sans-serif'],
+            mono: ['JetBrains Mono', 'SF Mono', 'Menlo', 'monospace'],
+          },
+          colors: {
+            apple: {
+              canvas: '#fbfbfd',
+              card: '#ffffff',
+              ink: '#1d1d1f',
+              muted: '#86868b',
+              subtle: '#6e6e73',
+              border: 'rgba(0, 0, 0, 0.07)',
+              borderHover: 'rgba(0, 0, 0, 0.16)',
+              tint: '#0071e3',
+              tintHover: '#0077ed',
+              darkPill: '#1d1d1f',
+              darkPillHover: '#333336'
+            }
+          },
+          letterSpacing: { tighter: '-0.035em', tight: '-0.02em', eyebrow: '0.08em' },
+          boxShadow: {
+            'apple-card': '0 4px 24px rgba(0, 0, 0, 0.03)',
+            'apple-hover': '0 12px 36px -4px rgba(0, 0, 0, 0.08), 0 4px 12px -2px rgba(0, 0, 0, 0.03)',
+            'apple-drop': '0 8px 30px rgba(0, 0, 0, 0.04), 0 1px 3px rgba(0, 0, 0, 0.02)',
+            'apple-command': '0 8px 30px rgba(0, 0, 0, 0.04), 0 1px 3px rgba(0, 0, 0, 0.02)',
+            'apple-glass': '0 1px 2px rgba(0, 0, 0, 0.04), inset 0 1px 0 rgba(255, 255, 255, 0.9)'
+          }
+        }
+      }
+    }
+  </script>
+
+  <!-- Custom tokens, offline fallbacks, and component styles -->
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/apple-ui.css') }}">
+
+  <script src="{{ url_for('static', filename='vendor/chartjs/chart.umd.min.js') }}"></script>
+  {% block head %}{% endblock %}
+</head>
+<body class="bg-apple-canvas text-apple-ink antialiased min-h-screen flex flex-col font-sans selection:bg-apple-tint selection:text-white">
+
+  {% include "partials/navbar.html" %}
+
+  {% block subheader %}{% endblock %}
+
+  {% block content %}{% endblock %}
+
+  {% include "partials/footer.html" %}
+  {% include "partials/modals.html" %}
+
+  <div id="qm-toast-root" class="qm-toast-root"></div>
+
+  <script src="{{ url_for('static', filename='js/utils.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/api.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/charts.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+  {% block scripts %}{% endblock %}
+</body>
+</html>
