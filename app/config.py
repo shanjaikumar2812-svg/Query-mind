@@ -58,9 +58,9 @@ class Config:
 
     # AI / prompt safety — bound the untrusted question and the model's output
     # so a malicious or oversized request can't consume the entire Groq quota.
-    MAX_QUESTION_LENGTH = int(_env("MAX_QUESTION_LENGTH", "2000"))
+    MAX_QUESTION_LENGTH = int(_env("MAX_QUESTION_LENGTH", "20000"))
     AI_MAX_OUTPUT_TOKENS_SQL = int(_env("AI_MAX_OUTPUT_TOKENS_SQL", "500"))
-    AI_MAX_OUTPUT_TOKENS_SUMMARY = int(_env("AI_MAX_OUTPUT_TOKENS_SUMMARY", "300"))
+    AI_MAX_OUTPUT_TOKENS_SUMMARY = int(_env("AI_MAX_OUTPUT_TOKENS_SUMMARY", "1000"))
 
     # Rate limiting (in-memory, per-process — see app/extensions.py). Set
     # explicitly here (rather than relying on Flask-Limiter's own default) so
