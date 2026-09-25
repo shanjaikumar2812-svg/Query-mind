@@ -139,10 +139,10 @@ Activate source .venv/bin/activate    # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-Set your Gemini API key:
+Set your Groq API key:
 
 ```bash
-export GEMINI_API_KEY=your_key_here
+export GROQ_API_KEY=your_key_here
 ```
 
 Run it:
@@ -170,5 +170,3 @@ The suite includes coverage of the edge cases associated with CSV ingestion, NLP
 ## About this project
 
 I carried out the project by myself as a capstone project during my final year. Should you be looking at this as part of a recruitment process, I'll be happy to go into more detail about any aspect of it—the security validation and the retry loop are the two sections I would most like to discuss.
-#   Q u e r y - m i n d  
- 
